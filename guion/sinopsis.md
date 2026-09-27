@@ -1,8 +1,8 @@
 # El Viaje
 
-> **Estado:** tercera sinopsis. La tesis ha cambiado otra vez: la obra ya **no habla de la
-> banda**, habla de cualquiera. Estructura en once escenas, orden de canciones reasignado.
-> El arranque (01–04) y el remate (09–11) están decididos; el tramo 05–06 no.
+> **Estado:** quinta sinopsis. Estructura en **tres actos (4 + 4 + 3)**. La tesis no ha
+> cambiado: la obra habla de cualquiera, no de la banda. **Las once escenas tienen tema**; lo que
+> falta son detalles de construcción, no argumentos.
 > Cuando una escena no encaje aquí, se actualiza este fichero primero.
 
 ## La tesis
@@ -47,25 +47,28 @@ lo que le pasó. «Eso está bien» es la frase que lo dice.
 ## La obra en un párrafo
 
 Abre el latido de un corazón en las profundidades. Después, fotos de niños: solos, llorando,
-rotos — la infancia que no fue del todos, mostrada sin consolation. Un Sombrerero les dice que
-esa muchedad la han perdido, y caemos en la rutina: el bucle de «Lo llaman vida», la misma
-calle, la misma canción, el cartel hecho un desastre. En medio del bucle, un aviador empuja la
-furgoneta hacia el mundo fantástico y empieza el viaje del héroe. Allá abajo, siete capítulos
-para recordar de qué se trata: hay que pasar por donde no se puede pasar, buscar una llave que
-no está, aceptar la propia parte dañada, empezar a volar, escuchar al bosque y a la lluvia.
-Y entonces el latido vuelve, el mundo florece, y los niños de las fotos del principio vuelven a
-aparecer jugando. Eso está bien.
+rotos — la infancia que no fue del todos, mostrada sin consuelo. Un Sombrerero les dice que esa
+muchedad la han perdido, y caemos en la rutina: el bucle de «Lo llaman vida», la misma calle, la
+misma canción, el cartel hecho un desastre. Al final del primer acto, un aviador empuja la
+furgoneta hacia el mundo fantástico y empieza el viaje del héroe. En el segundo acto hay que
+bajarse a mirar: pasar por donde no se puede pasar, encontrar una llave, aceptar la propia parte
+dañada. En el tercero se sube: empezar a volar, escuchar al bosque y a la lluvia, y entonces el
+latido vuelve, el mundo florece, y los niños de las fotos del principio vuelven a aparecer
+jugando. Eso está bien.
 
 ## Estructura
 
-Once escenas. Cuatro antes del mundo fantástico, siete dentro.
+**Once escenas en tres actos: 4 + 4 + 3.** El reparto es 4/4/3 porque el corte entre el primer
+acto y el segundo ya está en la obra: lo hace un empujón. Los dos actos siguientes se separan
+por el giro de la escena 09, que es la primera vez que se puede volar.
 
-**Aviso:** el orden de las escenas 07 a 11 y el reparto de canciones están decididos por el
-autor. El arranque (01–04) también. Las escenas **05 y 06 no están decididas**: el autor no las
-ha mencionado en el nuevo orden y son las dos que más dependían de la personalización a la
-banda. Ver `TODO(preguntar)`.
+**Aviso:** el reparto en actos y el orden de las once escenas están decididos por el autor
+(2026-09-27). Las escenas 05 y 06 también, aunque les falta construcción: qué se ve exactamente
+en ellas y de dónde sale el material. Ver `TODO(preguntar)`.
 
-### Acto I — Lo que se rompió (escenas 01–02)
+### Acto I — La caída (escenas 01–04)
+
+**Lo que se rompió, y la sentencia de que no vuelve.** El acto acaba con un empujón.
 
 #### 1. El latido — «Avivas el fuego»
 
@@ -76,7 +79,8 @@ paisaje árido, árboles secos y angulosos. **La energía los hace brotar.** La 
 las profundidades, a la imagen roja: es ella la que aviva el fuego, es ella la que da la vida.
 Nadie habla todavía.
 
-**No es el principio de la historia, es el principio de la vida.** Lo que viene después es todo lo que le pasa a ese latido.
+**No es el principio de la historia, es el principio de la vida.** Lo que viene después es todo
+lo que le pasa a ese latido.
 
 #### 2. La infancia — «Está bien»
 
@@ -88,19 +92,25 @@ decisión de cómo seguir con lo que te ha pasado.
 **Estas fotos son las mismas que volverán en la escena 11.** La obra se puede entender como lo
 que pasa entre las dos.
 
-### Acto II — La sentencia (escena 03)
-
 #### 3. El Sombrerero
 
-Aparece un personaje misterioso, **el profesor**, que saca de dentro de un huevo un televisor
-con un trozo de la película *Alicia* de Tim Burton. El Sombrerero les dice que han perdido su
-«muchedad».
+Aparece un personaje misterioso, **el profesor**, que saca de dentro de un huevo un televisor.
+Lo que suena es **un audio: la conversación entre el Sombrerero y Alicia**. En algún momento de
+la conversación, el Sombrerero les dice que han perdido su «muchedad».
+
+**La escena es la conversación, no una imagen.** Lo que se ve es un televisor; lo que se oye son
+dos voces. `TODO(preguntar):` qué imagen hay detrás —el fragmento de *Alicia* de Tim Burton del
+diseño antiguo, la pantalla en negro, o solo el ruido del televisor— y si el audio es el de la
+película o una grabación nueva. `TODO(preguntar):` de quién son las dos voces, y en qué idioma
+(si no es el español, hay que glosarlo).
+
+`TODO(preguntar):` **qué dice la conversación.** Lo único cerrado es la frase de la «muchedad».
+El resto del diálogo no está escrito: no se puede representar una escena cuyo texto no existe.
 
 Es el bisagra: hace un momento, la escena 02 enseñaba fotos de niños rotos; ahora alguien con
-autoridad se lo dice en voz alta. Lo que se acaba de ver ya no está en otra parte, y lo único
-que queda es atravesarlo. Todo lo que viene detrás es el camino.
-
-### Acto III — La rutina (escena 04)
+autoridad se lo dice en voz alta. Lo que se acaba de oír ya no está en otra parte, y lo único
+que queda es atravesarlo. Y es la única escena sin música del disco: en toda la obra, esta es
+la única que suena a una conversación.
 
 #### 4. La rutina en bucle — «Lo llaman vida»
 
@@ -115,18 +125,54 @@ Empuja y cambia: pasa a ser más angulosa, del blanco al morado con grafiti, y a
 techo, le ponen unas tuberías al estilo del submarino amarillo de los Beatles. Todo lo que
 viene detrás pasa dentro de la furgoneta transformada.
 
-### Acto IV — El mundo fantástico (escenas 05–11)
+### Acto II — La excavación (escenas 05–08)
 
-Cada huevo contiene una canción y un episodio. Del 07 al 11 el orden está cerrado: cada escena
-es un peldaño de la recuperación, y el orden va de menos a más.
+**Bajarse a mirar.** Cuatro escenas para llegar al fondo. Aquí ya no se trata de la infancia: se
+trata del adulto que la lleva dentro, de su guerra y de su parte rota. Las escenas 07 y 08 son
+los dos peldaños que importan, y las dos terminan con alguien metido en un huevo nuevo.
 
-#### 5. y 6. — por decidir
+**El acto va de fuera hacia dentro** (decidido por el autor, 2026-09-27). La 05 quita el ruido
+de fuera —el discurso de queja, crítica y juicio—; la 06 mira la guerra que queda dentro; la
+08 ya es el dueño de la parte dañada. Por eso 05 y 06 no se solapan: uno quita, el otro mira.
 
-Los dos episodios dibujados aquí eran el tiro al blanco (el agobio, los patos, el nacimiento de
-la niña) y la guerra (la carta de la Reina, la voz tras la máscara de gas). Los dos nacieron de
-la personalización a la banda —el primero usaba las caras de los integrantes, el segundo la voz
-del cantante— y el autor no los ha mencionado al reordenar. `TODO(preguntar):` ¿se quedan, se
-cambian o se caen?
+#### 5. El tiro al blanco — «On s'en fout»
+
+**El aviador barre antes de entrar.** Él es el que nos mete en el mundo fantástico, y lo primero
+que hace es negarse a hablar. Al aviador no le suporta el discurso: por eso dispara. A un tiro
+al blanco, y a cada tiro le lanza un **huevo a las formas de discurso vacío** —la queja, la
+crítica, el juicio—, que es lo único que no puede permitirse llevar dentro.
+
+**Las formas no tienen nombre.** No representan a nadie concreto: es un discurso que suena a
+todos y a nadie, y por eso funciona con cualquiera. `TODO(preguntar):` qué son físicamente esas
+formas —máscaras, globos, marionetas, siluetas— y cuántas hay.
+
+El tiro tiene una condición: **no se puede entrar en el viaje sin haber acabado con ese
+discurso.** Hay que disparar todas las formas para poder empezar la recuperación del niño
+dañado. Los huevos que quedan enteros son el aviso: si algo no se rompe, el viaje no arranca.
+
+Esta escena es la que pone en fila el resto del acto. `TODO(preguntar):` ¿el tiro al blanco
+está dentro o fuera de la furgoneta?
+
+`TODO(preguntar):` el diseño antiguo tenía también el **nacimiento de la niña** al final de esta
+escena, y la niña reaparece en la 08. `TODO(preguntar):` ¿sobrevive?
+
+#### 6. La Reina — «La Reina»
+
+**La guerra de dentro.** Cuando estamos en crisis no solo hay una crisis: hay una guerra
+interna. La Reina es el estado interno de lucha, y ese mismo estado es el que se traduce en las
+guerras que hay en el mundo: **si no le ponemos paz a nuestro interior, no habrá paz en el mundo.**
+
+**El aviador es quien clarifica y da luz con su voz a nuestra guerra interna.** No la arregla: la
+nombra. Es el que dice qué está pasando dentro, que es exactamente lo que la obra viene haciendo
+desde la escena 02 con las fotos de los niños rotos.
+
+Esta es la voz que antes era del cantante. `TODO(preguntar):` el diseño antiguo tenía una voz
+tras la máscara de gas, y la máscara de gas es del aviador, así que el cuerpo ya era suyo: lo
+que cambia es que ahora la voz también.
+
+`TODO(preguntar):` la Reina es un estado, no un personaje, o sí lo es. `TODO(preguntar):` si lo es
+—la carta de poker, maquetada grotescamente y mitad Reina mitad aviador, del diseño antiguo—,
+cómo se manipula. `TODO(preguntar):` si no lo es, cómo se ve la guerra interior sin ella.
 
 #### 7. La salida que no está — «La puerta»
 
@@ -151,7 +197,13 @@ ojo de la luna, igual que en la película muda de Méliès. El profesor la coge 
 de un huevo nuevo.
 
 Segundo peldaño: **el contacto con nuestra parte dañada.** La toma de la humildad: mirar lo
-que está roto sin pretender arreglarlo ni esconderlo. La niña no se arregla; se mira.
+que está roto sin pretender arreglarlo ni esconderlo. La niña no se arregla; se mira. El acto
+se cierra aquí, con alguien en brazos y metido en un huevo.
+
+### Acto III — El regreso (escenas 09–11)
+
+**Volver a florir.** Las tres escenas del final son el ascenso: cada una da un peldaño más que
+la anterior, y todas desembocan en el latido que vuelve.
 
 #### 9. La señal — «Vuela»
 
@@ -163,7 +215,9 @@ disco. El televisor levanta vuelo y el videoclip se transforma en barras de colo
 con su pitido característico. Se posa en un árbol. En el paisaje hay nueve huevos: uno se mueve
 como loco, otro pasa volando, uno está a punto de abrirse.
 
-Tercer peldaño: **empezamos a encontrarnos, podemos volar.** Ya no es que se pueda: se ve que se puede.
+Tercer peldaño: **empezamos a encontrarnos, podemos volar.** Ya no es que se pueda: se ve que
+se puede. Es el giro del tercer acto: hasta aquí se buscaba, desde aquí se sube.
+
 
 #### 10. Lo ancestral — «Seica»
 
@@ -197,9 +251,9 @@ han cambiado.
 | Personaje | Qué es | Qué quiere | Cómo actúa |
 |---|---|---|---|
 | **El profesor** | El que pasa de huevo a huevo y el que trae la sentencia del Sombrerero. Misterioso, nunca explica nada. | No está dicho. | Saca cosas de los huevos (el televisor, la niña), nunca las saca de la banda. |
-| **El aviador** | Figura de *Alicia* reinventada: máscara de gas, traje a lo principito, pistolas tipo Jack Sparrow, pies de bailarina. Es el que empuja la furgoneta hacia el mundo fantástico y el que manda la llave. | Dispara huevos en vez de soluciones. No soporta el *bullshit* (Fritz Perls). | Empuja la furgoneta al viaje, dispara, se lleva a la mujer voladora, da la llave. |
+| **El aviador** | Figura de *Alicia* reinventada: máscara de gas, traje a lo principito, pistolas tipo Jack Sparrow, pies de bailarina. Es el que nos mete en el mundo fantástico y el que manda la llave. | No soporta el *bullshit* (Fritz Perls). Dispara huevos en vez de soluciones. | Empuja la furgoneta, **barre el discurso vacío disparando huevos (05)**, **nombra la guerra interna con su voz (06)**, se lleva a la mujer voladora, da la llave (07). |
 | **La niña** | La parte dañada, y la que termina sanando. Se transforma en corazón y luego en huevo. | No está dicho. | Se sienta triste junto al ventilador; el profesor la recoge en brazos y la mete en un huevo. |
-| *(por decidir)* | **La Reina** — la carta de poker, maquillada grotescamente, mitad Reina mitad aviador. Was in the war scene, whose fate is undecided. | No está dicho. | — |
+| **La Reina** | El estado interno de lucha: la guerra de dentro. Los que hacen la guerra, y la guerra que hacemos. | No está dicho. | No está dicho: `TODO(preguntar)` si es un títere (la carta de poker del diseño antiguo) o solo un estado. |
 
 ## Los elementos que se repiten
 
@@ -227,11 +281,16 @@ han cambiado.
 
 ## TODO(preguntar)
 
-- **Las escenas 05 y 06.** Solo están decididas 01–04 y 07–11. Los dos episodios dibujados
-  para estos huecos —el tiro al blanco y la guerra— eran los más personalizados a la banda.
-  ¿Se quedan, se reescriben sin la banda, o se caen y son 9 escenas?
-- **La voz de la escena de guerra.** Era la del cantante, modificada tras la máscara de gas.
-  Si la obra ya no es de la banda, ¿es una voz grabada cualquiera, una voz no identificada, o se cae la escena?
+- **La construcción de la escena 05.** El tiro al blanco está decidido como tema, pero no qué
+  se ve: cuántas caras de agobio, de dónde salen (archivo, stock o se filma), y si sobrevive el
+  nacimiento de la niña que el diseño antiguo tenía al final.
+- **La construcción de la escena 06.** La Reina está decidida como tema —la guerra interna que se
+  traduce en las guerras del mundo— y el aviador como el que la nombra con su voz. Falta: si la
+  Reina es un títere o un estado, y si sobrevive la carta de poker del diseño antiguo. También
+  quién pone esa voz: si es una voz grabada, es una decisión de casting, no un dato del disco.
+- **La música de la escena 05.** `TODO(preguntar):` el tiro al blanco todavía no tiene pista. La
+  única que queda libre es «On s'en fout» (p. 03). Con ella, las nueve pistas del disco estaría
+  colocadas.
 - **De quién son los niños.** Si la obra no se personaliza, las fotos de la escena 02 no son de
 nadie concreto. ¿Son archivo histórico, imágenes de stock, niños cualesquiera?
 - **Las fotos son fijas o filmadas.** La escena 02 proyecta fotos; la 11 repite las mismas
@@ -242,10 +301,11 @@ nadie concreto. ¿Son archivo histórico, imágenes de stock, niños cualesquier
 - **El papel del Sombrerero.** ¿Aparece manipulado en escena o solo dentro del televisor?
 - **El bucle de la escena 04.** ¿Cuántas veces se repite el tramo con efecto VHS? ¿Se ve a
   alguien repitiendo o solo la furgoneta?
-- **Las pistas que sobran o faltan.** El nuevo orden coloca La puerta, Ser artista, Vuela,
-  Seica, Avivas y Está bien, y el arranque usa Avivas, Está bien y Lo llaman vida. Con las 9
-  pistas del disco, «On s'en fout» y «La Reina» se quedan sin sitio salvo que las scenes 05–06
-  las recuperen. `investigacion/referencias.md` tiene la tracklist.
+- **Las pistas que sobran o faltan.** El orden colocado usa ocho de las nueve pistas: Avivas
+  (01, 11), Está bien (02, 11), Lo llaman vida (04), La Reina (06), La puerta (07), Ser artista
+  (08), Vuela (09) y Seica (10). **La escena 03 va sin música**, y la única pista libre es
+  «On s'en fout» (p. 03), que podría ser la de la escena 05. `investigacion/referencias.md` tiene
+  la tracklist.
 - **«The Mirror».** En la escena 08 se ve a personajes de un disco anterior. Si la obra ya no
   es de la banda, ¿de quién es ese disco, o hay que rehacer la imagen?
 - **Alex.** ¿Es el nombre del cantante? Ya no hace falta como voz en off, pero sí para los

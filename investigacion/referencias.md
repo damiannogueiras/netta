@@ -51,7 +51,13 @@
   Coincide en bloques: 02–05 y 07–08 mantienen el orden del disco, pero 01 (07), 06 (01) y
   09–10 (06, 05) lo invierten. **Esto es una decisión del autor, no un descuido** — pero
   todavía no está razonada en ningún sitio, y es el tipo de cosa que conviene tener escrita en
-  `recursos/musica.md` porque explica por qué el disco se oye «desordenado» en la obra.
+  `recursos/sonido.md` porque explica por qué el disco se oye «desordenado» en la obra.
+
+  > **Aviso: esta tabla está desfasada.** Es de un orden anterior de la obra. El orden que
+  > manda ahora está en `guion/escaleta.md` (01 «Avivas el fuego», 02 «Está bien», 07 «La
+  > puerta», 08 «Ser artista», 09 «Vuela», 10 «Seica», 11 «Avivas el fuego» → «Está bien»,
+  > 04 «Lo llaman vida») y su tabla de cues está en `recursos/sonido.md`. Lo verificado aquí
+  > sigue en pie: la tracklist, las duraciones y los idiomas.
 - **«Seica» está en gallego** (9 de 9 es la única del disco en otro idioma). «On s'en fout» está
   en francés. El resto, en español.
 - **«Avivas el fuego» es la pista más larga del disco** (6:41) y ocupa la escena 03 entera,
@@ -91,8 +97,8 @@ autor (2026-09-27); la lista es consecuencia de ella.
 | Escena | Qué ponía antes | Qué hay que decidir |
 |---|---|---|
 | 02 y 11 | Fotos de los integrantes de Netta Rufina de niños y adolescentes | Fotos de niños de alguien que no sea la banda: ¿archivo, stock, o se filma? Y si son los mismos niños en las dos escenas (la obra se cierra sobre ellos). |
-| 05 | «los patos son cambiados por las caras de agobio de los integrantes de la banda» | Caras de agobio sin nombre. De dónde salen: ¿archivo, stock, o se filma? Esta escena además está por decidir entera. |
-| 06 | Voz en off del cantante (Alex) modificada tras la máscara de gas | Una voz cualquiera, o ninguna. También por decidir. |
+| 05 | «los patos son cambiados por las caras de agobio de los integrantes de la banda» | **Resuelto:** ya no hay caras de nadie. Las dianas son **formas de discurso vacío** (queja, crítica, juicio) que no representan a nadie concreto, disparadas por el aviador. `TODO(preguntar):` qué son físicamente esas formas. |
+| 06 | Voz en off del cantante (Alex) modificada tras la máscara de gas | **Resuelto:** la voz es la del **aviador**, que ya es un títere de la obra. Deja de ser la banda. Queda decidir quién la pone (casting) y si la Reina es un títere o un estado. |
 | 08 | «los hombres y la mujer voladora del disco anterior de algunos integrantes (*The Mirror*)» | De quién es ese disco, o qué se pone en su lugar. Depende de qué sea *The Mirror* (ver abajo). |
 | 09 | «una grabación de un concierto de Netta Rufina de cuando todavía no habían sacado el disco» | ¿Un concierto de la banda sigue valiendo, o el videoclip tiene que ser de otro grupo / de archivo? |
 
