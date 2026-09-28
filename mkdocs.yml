@@ -1,0 +1,18 @@
+site_name: Netta Rufina | La obra
+site_description: Guion, recursos e investigación de la obra de Netta Rufina.
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+
+docs_dir: docs
+site_dir: site
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
