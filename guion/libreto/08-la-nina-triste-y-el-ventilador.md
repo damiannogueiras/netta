@@ -8,7 +8,7 @@
 
 ## Qué ocurre
 
-Cambio de paisaje —el fondo sigue siendo parecido, hecho con acuarelas, con árboles secos y rectos—. Hay una luna, la de Méliès. Hay un ventilador que hace un ruido espantoso. La niña está cerca del ventilador, sentada, triste. El ventilador sopla aire y no deja avanzar a la furgoneta, que aparece en una esquina; también se lleva a los hombres y a la mujer voladora del disco anterior (*The Mirror*). Aparece una escoba: en la letra, «y la casa sin barrer». Llega el profesor, recoge a la niña en brazos y se la lleva. La furgoneta se choca contra el ojo de la luna, igual que en la película muda de Méliès. El profesor la coge y la mete dentro de un huevo nuevo.
+Cambio de paisaje —el fondo sigue siendo parecido, hecho con acuarelas, con árboles secos y rectos—. Hay una luna, la de Méliès. Hay un ventilador que hace un ruido espantoso. La niña está cerca del ventilador, sentada, triste. El ventilador sopla aire y no deja avanzar a la furgoneta, que aparece en una esquina; también se lleva a los hombres y a la mujer voladora de **un disco**. Aparece una escoba: en la letra, «y la casa sin barrer». Llega el profesor, recoge a la niña en brazos y se la lleva. La furgoneta se choca contra el ojo de la luna, igual que en la película muda de Méliès. El profesor la coge y la mete dentro de un huevo nuevo.
 
 ## Por qué está aquí
 
@@ -24,5 +24,8 @@ _( vacío — la escena está en `idea` )_
 
 ## TODO(preguntar)
 
-- De quién es el disco *The Mirror* del que salen los personajes, o qué se pone en su lugar.
+- **El disco sin nombre.** Cerrado por el autor (2026-09-28): la banda es Netta Rufina y solo
+  Netta Rufina, así que en escena no se nombra ningún disco. Es material propio y no necesita
+  nombre. `TODO(preguntar)` **qué material existe ya y en qué formato**: si es el primer disco
+  de la banda, hay que localizarlo y ver si tiene material gráfico.
 - ¿Qué película muda de Méliès se cita con la luna y el ojo?

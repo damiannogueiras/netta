@@ -1,7 +1,7 @@
 # El Viaje
 
 > **Estado:** sexta sinopsis. Estructura en **tres actos (4 + 4 + 4)**, doce escenas. La tesis no ha
-> cambiado: la obra habla de cualquiera, no de la banda. **Las once escenas tienen tema**; lo que
+> cambiado: la obra habla de cualquiera, no de la banda. **Las doce escenas tienen tema**; lo que
 > falta son detalles de construcción, no argumentos.
 > Cuando una escena no encaje aquí, se actualiza este fichero primero.
 
@@ -67,28 +67,32 @@ de los niños del principio salen ahora disfrazados, en charcos. Eso está bien.
 
 ## Estructura
 
-**Once escenas en tres actos: 4 + 4 + 3.** El reparto es 4/4/3 porque el corte entre el primer
-acto y el segundo ya está en la obra: lo hace un empujón. Los dos actos siguientes se separan
-por el giro de la escena 09, que es la primera vez que se puede volar.
+**Doce escenas en tres actos: 4 + 4 + 4.** El corte entre el primer acto y el segundo ya está en
+la obra: lo hace un empujón. Los dos actos siguientes se separan por el giro de la escena 09, que
+es la primera vez que se puede volar.
+
+> **2026-09-27:** el reparto de actos pasa de 4+4+3 a **4+4+4**. El autor partió el final en dos
+> escenas (11 «Avivas el fuego» y 12 «Está bien») para devolver el espejo con el principio. Como
+> los dos primeros cortes ya estaban decididos, el cambio cae entero en el tercer acto.
+> `TODO(preguntar)`
 
 ### Acto I — La caída (escenas 01–04)
 
 **Lo que se rompió, y la sentencia de que no vuelve.** El acto acaba con un empujón.
 
-#### 1. [título sin decidir] — sin música asignada
+#### 1. El latido — «Avivas el fuego»
 
-`TODO(preguntar)` — **la escena 01 se rehace desde cero.** El autor va a dar su descripción
-(2026-09-27). El material que estaba aquí (el feto rojo en las profundidades, la *pac-man*, el
-paisaje árido, el árbol que brota) **es de la escena 11**, primer movimiento de «Avivas el
-fuego», y se ha movido allí.
+**Solo el corazón. Nada más.** Ni vientre, ni imagen roja, ni capas, ni *pac-man*, ni paisaje, ni
+objetos. La escena entera es un latido y ya está: no hay nada que contar todavía, y la única
+cosa que existe antes de la vida es el latido.
 
-Consecuencias de haberlo movido:
+Es el espejo de la 11, y va invertido: allí el latido es **el mismo** y tiene encima todo lo que
+creció alrededor. El corazón no ha cambiado, cambió el mundo que hay alrededor.
 
-- **La 01 se queda sin música.** «Avivas el fuego» estaba aquí y ahora está en la 11. Las nueve
-  pistas del disco siguen colocadas, pero la 01 y la 03 son ahora las dos escenas sin música.
-  `TODO(preguntar)`
-- **El círculo de la obra se ha roto por la mitad.** Ya no hay un elemento que vaya de la 01 a la
-  11. El único que vuelve son las fotos de los niños, de la 02 a la 11. `TODO(preguntar)`
+`TODO(preguntar)` **¿Habla el narrador aquí?** El titiritero es el narrador y este es el
+principio de la obra, que es donde más tentador sería. La 11 dice que nadie habla, y lo
+coherente es que callen las dos. En la escena 01 anterior a este cambio el autor había puesto
+«nadie habla todavía», así que la apuesta es que calla — pero no está decidido.
 
 #### 2. La infancia — «Está bien»
 
@@ -200,7 +204,8 @@ rectos—. Hay una luna, la de Méliès. Hay un ventilador que hace un ruido esp
 
 La niña está cerca del ventilador, sentada, triste. El ventilador sopla aire y no deja avanzar a
 la furgoneta, que aparece en una esquina; también se lleva a los hombres y a la mujer voladora
-del disco anterior (*The Mirror*). Aparece una escoba: en la letra, «y la casa sin barrer».
+del disco anterior, que **no se nombra en escena** (decidido 2026-09-28). Aparece una escoba: en
+la letra, «y la casa sin barrer».
 
 Llega el profesor, recoge a la niña en brazos y se la lleva. La furgoneta se choca contra el
 ojo de la luna, igual que en la película muda de Méliès. El profesor la coge y la mete dentro
@@ -240,23 +245,39 @@ Cuarto peldaño: **el contacto con lo ancestral**, con la cultura gallega. La ll
 cae, el bosque que tiene poder. No es nostalgia de lo nuestro: es acordarse de que hay algo
 más grande y más viejo a lo que volver.
 
-#### 11. El final — «Avivas el fuego» y luego «Está bien»
+#### 11. [título sin decidir] — «Avivas el fuego»
 
-Dos movimientos, en este orden.
+El espejo de la 01, y va invertido. **El latido suena aquí por segunda vez, y es el mismo de la
+primera escena**: el corazón no ha cambiado, le ha crecido todo alrededor.
 
-**«Avivas el fuego»** — el contacto con lo más profundo: el yo creativo que hace florecer el
-mundo que nos rodea. **El latido suena aquí por primera vez**: no venía del principio. La imagen
-roja de un feto en el vientre late en las profundidades, el círculo se cierra sobre ella y se
-revela como un pasillo por el que una *pac-man* escapa de unos fantasmas subiendo por capas, y
-arriba está la superficie: un paisaje árido, árboles secos y angulosos. **Un árbol brota** —no
-los demás, uno solo— y detrás, poco a poco, los otros. Nadie habla.
+Las profundidades. La imagen roja de un feto en el vientre late, y el corazón de la imagen se
+ilumina con cada latido. El círculo se cierra sobre ella y se revela como un pasillo por el que
+una *pac-man* escapa de unos fantasmas subiendo por capas, y arriba está la superficie: un paisaje
+árido, árboles secos y angulosos. **Un árbol brota** —no los demás, uno solo— y detrás, poco a
+poco, los otros. Después volvemos a las profundidades, a la imagen roja, que sigue latiendo.
+Nadie habla.
 
-**«Está bien»** — la sanación de las heridas, aceptando el dolor del daño causado. Y vuelven
-las fotos de los niños de la escena 02, pero ya no están solos ni llorando: **juegan, cantan**.
-La última frase de la obra es esa: *eso está bien*.
+Cuarto peldaño: **el latido no ha cambiado, cambió el mundo.** Si la obra cerrara volviendo
+literalmente al principio, el viaje no habría pasado nada. Aquí el corazón es el de la 01 y
+alrededor hay un paisaje que antes no existía.
 
-Quinto peldaño: **no volver a ser el niño que eras, sino querer al niño que te hicieron.** El
-círculo no se cierra en espejo: solo vuelven los niños de la 02, y han cambiado.
+`TODO(preguntar)` **el título de la escena.** `TODO(preguntar)` ¿la *pac-man*, los fantasmas y
+las cerezas qué son, y de qué salen?
+
+#### 12. La cuerda floja — «Está bien»
+
+El espejo de la 02, y también va invertido. **La niña camina por una cuerda floja y recoge la
+instabilidad**, sin esquivarla ni arreglarla, y con ella el juego. Vuelven las fotos de los niños
+de la 02, y ya no son niños solos ni rotos: son **niños disfrazados, en charcos**, jugando. La
+última frase de la obra es *eso está bien*.
+
+Quinto peldaño: **terminar con inestabilidad y juego, no con calma.** Una niña en una cuerda
+floja no está tranquila: está haciendo algo difícil y está jugando mientras lo hace. Si la obra
+terminara en serenidad estaría mintiendo.
+
+`TODO(preguntar)` **todo el texto de la 12.** El tema está cerrado, la construcción no. `TODO(preguntar)`
+¿La niña de la cuerda floja es la niña triste de la 08? Si lo es, el huevo del que la saca el
+profesor es el principio de ella. `TODO(preguntar)` ¿De quién son las fotos de los niños?
 
 ## Los personajes
 
@@ -323,8 +344,10 @@ nadie concreto. ¿Son archivo histórico, imágenes de stock, niños cualesquier
   (08), Vuela (09) y Seica (10). **La escena 03 va sin música**, y la única pista libre es
   «On s'en fout» (p. 03), que podría ser la de la escena 05. `investigacion/referencias.md` tiene
   la tracklist.
-- **«The Mirror».** En la escena 08 se ve a personajes de un disco anterior. Si la obra ya no
-  es de la banda, ¿de quién es ese disco, o hay que rehacer la imagen?
+- **El disco de la escena 08.** **Cerrado por el autor (2026-09-28):** la banda es Netta Rufina
+  y solo Netta Rufina, así que en escena no se nombra ningún disco. Es el primero de la banda,
+  material propio, y la imagen de la 08 se conserva. `TODO(preguntar)` **qué material existe ya y
+  en qué formato** — hay que localizar el primer disco y ver si tiene material gráfico.
 - **Alex.** ¿Es el nombre del cantante? Ya no hace falta como voz en off, pero sí para los
   créditos.
 - **Méliès.** ¿Qué película muda se cita con la luna y el ojo?

@@ -46,6 +46,17 @@ El árbol que brota es la clave. En la 01 no brota ningún árbol: la escena es 
 aquí brotara el paisaje entero de golpe, sería la misma imagen con más cosas. Que **uno** brote
 primero, y los demás detrás, es lo que hace que parezca un comienzo y no una confirmación.
 
+**El latido se convierte en la canción, no suena encima de ella.** Igual que en la 01, y por el
+mismo motivo: no se puede oír el bombo de una pista por separado de esa misma pista mientras suena
+entera, y un latido de verdad bajo la mezcla no se oye. El latido se oye solo al principio y
+después **es** la pista.
+
+Lo que cambia entre las dos escenas no es el sonido, es **cuánto se abre**. En la 01 el cuerpo
+se abre un poco. En la 11 el cuerpo se abre del todo y **se vuelve el paisaje**: la cola pasa de
+corta —cuerpo, membrana, cercano— a larga —exterior, aire, distancia—. Son dos tratamientos
+distintos y por tanto dos cues distintos, que es lo que ya dice `AGENTS.md`. **Respuesta a la
+sesión de Ableton (2026-09-28): sí, en la 11 el cuerpo crece hasta ser el paisaje.**
+
 ## Se repite en
 
 - **El latido del corazón** — el elemento que comparte con la 01, y el único que suena dos veces
@@ -91,28 +102,30 @@ primero, y los demás detrás, es lo que hace que parezca un comienzo y no una c
 
 **volvemos abajo. La imagen roja del feto, latiendo**
 
-(el mismo latido. es el mismo corazón del principio de la obra)
+(el mismo latido del principio de la obra. el mismo de verdad)
 
 **el paisaje, detrás, empezando a brotar**
+
+(el latido se ha convertido en la canción. ya no se oye aparte: es la música)
 
 (nadie habla)
 
 ## TODO(preguntar)
 
 - **El título.** Provisional. `TODO(preguntar)`
-- **El cue del latido.** Propuesto `S-14`, el segundo del latido en la obra (`AGENTS.md`): el
-  sonido es el mismo que el `S-01` de la escena 01, pero la ocurrencia es otra y por eso es otro
-  cue. No está en `recursos/sonido.md`.
+- **El cue `S-14`.** El segundo latido de la obra. Mismo sonido que el `S-01`, otro tratamiento:
+  en la 11 el cuerpo **crece hasta ser el paisaje**. Implementación en `recursos/sonido.md`.
 - **¿Dónde entra la pista?** El texto la pone en el primer árbol que brota, y no antes. La
   duración son 6:41 y la escena puede ser mucho más corta: ¿se corta, o dura lo que dura la
-  pista? En la 01 hay la misma pregunta, y las dos escenas deberían responderse igual.
+  pista? En la 01 hay la misma pregunta, y las dos escenas deberían responderse igual. **La
+  respuesta a Ableton (2026-09-28): el latido se oye solo en el silencio de antes, y desde que
+  entra la pista ya no hay nada que recortar — es la misma pista en las dos escenas.** Lo que se
+  puede cortar es cuánto dura la escena, no el latido.
 - **¿Qué es la imagen?** ¿Proyección, pantalla, o el titiritero manipulando algo? El diseño
   antiguo hablaba de una «cámara que sube por capas», y eso hay que decidirlo: es distinto que
   la obra se vea proyectada o que haya una cámara de verdad. `TODO(preguntar)`
 - **La *pac-man* y los fantasmas.** ¿Qué son y de dónde salen? ¿Están en la película de Tim
   Burton o son tuyos? `TODO(preguntar)`
 - **El árbol de arriba.** En el texto es un árbol, con las cerezas debajo. `TODO(preguntar)`
-- **¿El latido suena todo el movimiento o solo al principio?** Si suena todo, es el que sostiene
-  la respiración del público. `TODO(preguntar)`
 - **¿Habla el narrador aquí?** El texto dice que nadie habla. Es lo más coherente con que la 01
   calla, pero es una decisión. `TODO(preguntar)`

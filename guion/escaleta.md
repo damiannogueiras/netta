@@ -67,7 +67,7 @@ inestabilidad y el juego. Termina en otra cosa que en paz.
 | 05 | El tiro al blanco | El aviador barre antes de entrar: dispara huevos a las **formas de discurso vacío** —queja, crítica, juicio—. No tienen nombre ni cara concreta. **No se entra en el viaje sin haber acabado con ese discurso**: si algún huevo queda entero, el viaje no arranca. | Quitar el discurso vacío. | «On s'en fout» (p. 03) | `idea` |
 | 06 | La Reina | **La guerra de dentro.** Cuando hay crisis hay una guerra interna. La Reina es ese estado, que es el mismo que sale a las guerras del mundo: sin paz interior no hay paz en el mundo. **El aviador es quien la clarifica y da luz con su voz.** | La guerra interna. | «La Reina» (p. 04) | `idea` |
 | 07 | La salida que no está | Cae dentro de una televisión gigante de los 80. Encerrados y sin llave correcta; el aviador les manda la llave y salen por donde entraron. | Hay una llave | «La puerta» (p. 08) | `idea` |
-| 08 | La niña triste y el ventilador | El ventilador no deja avanzar la furgoneta y se lleva a los personajes de *The Mirror*. Aparece la escoba. El profesor recoge a la niña y la mete en un huevo nuevo. | El contacto con la parte dañada. La toma de la humildad. | «Ser artista» (p. 01) | `idea` |
+| 08 | La niña triste y el ventilador | El ventilador no deja avanzar la furgoneta y se lleva a los personajes de **un disco sin nombre**. Aparece la escoba. El profesor recoge a la niña y la mete en un huevo nuevo. | El contacto con la parte dañada. La toma de la humildad. | «Ser artista» (p. 01) | `idea` |
 
 ### Acto III — El regreso
 
@@ -111,12 +111,12 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
 
 ## TODO(preguntar)
 
-- **El reparto en actos.** Decidido por el autor: 4 + 4 + 3, con el corte del primer acto en
+- **El reparto en actos.** Decidido por el autor: **4 + 4 + 4**, con el corte del primer acto en
   el empujón del aviador (final de la escena 04) y el del segundo en la niña metida en el huevo
-  (final de la escena 08). `TODO(preguntar):` la alternativa sería 4 + 5 + 2, dejando «volar»
-  y el regreso entero en el tercer acto. Se eligió 4/4/3 porque tres escenas para el desenlace
-  dan más sitio a la sanación, y porque así el tercer acto empieza justo en la primera vez que
-  se puede volar.
+  (final de la escena 08). Hasta el 2026-09-27 era 4 + 4 + 3: el autor partió el final en dos
+  escenas y el cambio cayó entero en el tercer acto, porque los dos primeros cortes ya estaban
+  decididos. `TODO(preguntar):` la alternativa sería 4 + 5 + 2, dejando «volar» y el regreso
+  entero en el tercer acto.
 - **La escena 05 por dentro.** El tema está cerrado —el aviador barriendo el discurso vacío a
   tiros de huevo— pero no el material: qué son físicamente las formas, cuántas hay, si el tiro
   está dentro o fuera de la furgoneta, y si sobrevive el nacimiento de la niña del diseño antiguo.
@@ -125,11 +125,15 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
   banda, es una decisión de casting.
 - **Despersonalización.** La obra ya no es de la banda, pero quedan restos por quitar: las
   caras de los integrantes (escena 05), la voz del cantante (escena 06), las fotos de los
-  integrantes de niños (escenas 02 y 11) y los personajes de *The Mirror* (escena 08).
+  integrantes de niños (escenas 02 y 12) y los personajes de un disco sin nombre (escena 08).
   Inventario en la sección «Despersonalizar» de `investigacion/referencias.md`.
 - **De quién son los niños.** Si la historia no es de nadie, ¿las fotos de la 02 son de
   archivo, de stock, o se filma a niños ahora? Y las de la 11, ¿son los mismos niños o
   distintos?
+- **El espejo de la obra.** Restaurado el 2026-09-27: 01 ↔ 11 («Avivas el fuego») y 02 ↔ 12
+  («Está bien»), los dos espejos invertidos. `TODO(preguntar):` ¿el espejo tiene que ser exacto
+  en las cuatro escenas, o basta con que la 01 y la 11 compartan el latido y la 02 y la 12 las
+  fotos?
 - **El final de la furgoneta.** Antes el aviador le disparaba un huevo y volvía a ser blanca,
   y luego se abría el portón de la finca y se metían fotos. ¿Eso sigue en la escena 11 o se
   cae con la despersonalización?
