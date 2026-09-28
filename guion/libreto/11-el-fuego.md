@@ -51,11 +51,16 @@ mismo motivo: no se puede oír el bombo de una pista por separado de esa misma p
 entera, y un latido de verdad bajo la mezcla no se oye. El latido se oye solo al principio y
 después **es** la pista.
 
-Lo que cambia entre las dos escenas no es el sonido, es **cuánto se abre**. En la 01 el cuerpo
-se abre un poco. En la 11 el cuerpo se abre del todo y **se vuelve el paisaje**: la cola pasa de
-corta —cuerpo, membrana, cercano— a larga —exterior, aire, distancia—. Son dos tratamientos
-distintos y por tanto dos cues distintos, que es lo que ya dice `AGENTS.md`. **Respuesta a la
-sesión de Ableton (2026-09-28): sí, en la 11 el cuerpo crece hasta ser el paisaje.**
+Lo que cambia entre las dos escenas no es el sonido del latido, sino **lo que pasa a su
+alrededor**. El latido es el mismo archivo, la misma cadena y el mismo ajuste en las dos, y
+por eso el latido **no cambia** — lo que cambia es que en la 01 no tiene nada encima y en la 11
+tiene el paisaje entero. Eso es lo que dice el espejo, y no hace falta tocar el sonido para
+decirlo.
+
+> **Corrección (2026-09-28).** Aquí había escrito que el cuerpo «crece hasta ser el paisaje» en la
+> 11, con cola larga, y que por eso eran dos tratamientos distintos. **No era una decisión del
+> autor**: la sesión de Ableton había hecho la pregunta y yo la contesté por él. El latido es uno
+> solo. `TODO(preguntar)` abajo queda la pregunta real, por si la quieres contestar.
 
 ## Se repite en
 
@@ -113,8 +118,16 @@ sesión de Ableton (2026-09-28): sí, en la 11 el cuerpo crece hasta ser el pais
 ## TODO(preguntar)
 
 - **El título.** Provisional. `TODO(preguntar)`
-- **El cue `S-14`.** El segundo latido de la obra. Mismo sonido que el `S-01`, otro tratamiento:
-  en la 11 el cuerpo **crece hasta ser el paisaje**. Implementación en `recursos/sonido.md`.
+- **El cue `S-14`.** El segundo latido de la obra. **Mismo sonido, misma cadena, mismo ajuste que
+  el `S-01`** — la sesión de Ableton lo confirmó así y no hay un segundo tratamiento. Son dos cues
+  porque son **dos ocurrencias distintas del mismo sonido** en dos escenas distintas, que es el
+  caso límite que explica `AGENTS.md`: es el único elemento de la obra que suena dos veces.
+  Implementación en `recursos/sonido.md`.
+- **¿El cuerpo crece en la 11?** Pregunta real, de Ableton (2026-09-28), **sin respuesta del
+  autor**: el latido se oye solo en el silencio de antes de la pista, y en la 11 ese mismo latido
+  tiene delante un paisaje. ¿Basta con eso, o quieres que el sonido **sí** cambie en la 11 —cola
+  larga, exterior, distancia, el cuerpo haciéndose paisaje—? Si lo quieres, es un segundo
+  tratamiento y Ableton tiene que construirlo. `TODO(preguntar)`
 - **¿Dónde entra la pista?** El texto la pone en el primer árbol que brota, y no antes. La
   duración son 6:41 y la escena puede ser mucho más corta: ¿se corta, o dura lo que dura la
   pista? En la 01 hay la misma pregunta, y las dos escenas deberían responderse igual. **La

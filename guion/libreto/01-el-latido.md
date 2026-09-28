@@ -87,6 +87,8 @@ encima. `recursos/sonido.md` lo implementa.
   para el libreto es que hay **dos ocurrencias distintas del mismo sonido** (`S-01` aquí y `S-14`
   en la 11) y que en las dos **el latido acaba dentro de la canción**. `TODO(preguntar)` El
   libreto dice «muy cerca, como si fuera dentro de un cuerpo»: cuerpo, no catedral. Cola corta.
+  **Y es el mismo ajuste en la 11** — un solo latido en toda la obra, dos ocurrencias —. No hay
+  dos tratamientos: lo que cambia en la 11 es lo que hay alrededor del latido, no el latido.
 - **¿Habla el narrador aquí?** En la 11 no habla nadie, y las dos son el mismo material. Si
   calla en la 11, lo coherente es que calle aquí también — pero el titiritero es el narrador y
   este es el principio de la obra, que es justo donde más tentador sería. `TODO(preguntar)`
