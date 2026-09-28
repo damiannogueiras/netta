@@ -157,6 +157,42 @@ los escriba, avisando antes.
 - **El reparto no es una suggestion, es la razón de poder ir en paralelo.** Las tres sesiones
   pueden trabajar a la vez **porque no comparten ficheros**. En cuanto dos tocan el mismo, una
   pisa a la otra y ninguna sabe qué se ha perdido: por eso la tabla es de un solo dueño.
+
+### Cómo se le habla a otra sesión
+
+Cada sesión tiene su hilo de Discord. Para pasarle algo a la que le toca, se le manda un
+mensaje a su hilo con `kimaki send --thread`:
+
+| Sesión | Hilo |
+|---|---|
+| **Guion** | `1553690300218605640` |
+| **Ableton** | `1553736444798042246` |
+| **Datos** | `1553709651860656131` |
+
+```bash
+kimaki send --thread 1553736444798042246 --prompt 'La escena 08 necesita un efecto nuevo: ...'
+```
+
+**Un commit no es un mensaje.** Si algo es de otra sesión, se le manda a su hilo y se sigue. La
+otra sesión lo mete en su fichero; quien escribe el fichero es quien commitea.
+
+### Los efectos y la música se deciden en Ableton
+
+**Si al escribir una escena sale un sonido —un efecto, un corte, una música, un silencio que
+significa algo, un momento de la pista— eso no se resuelve ahí.** Se propone y se manda a
+Ableton.
+
+- La sesión de Guion **nombra** el sonido dramáticamente, como lo oye el público: `>> un
+  alaseteo`, `>> ♪ «Vuela» (p. 06)`. Ya está hecho así.
+- Y **manda la propuesta a Ableton** con `kimaki send --thread 1553736444798042246`, diciendo
+  qué necesita: dónde, cuándo, y por qué en ese momento.
+- Ableton es la que decide **cómo suena** y lo anota en `recursos/sonido.md` con su número de
+  cue.
+
+Igual con la otra dirección: si a Ableton le falta saber qué hace una escena para poder decidir
+un sonido, se lo pregunta al hilo de Guion en vez de adivinarlo. Lo mismo con **Datos**: si
+falta un dato de la banda o del disco, se pregunta ahí en vez de suponerlo.
+
 - **Antes de escribir un fichero, mira quién lo escribió por última vez:**
   ```bash
   kimaki session editors guion/escaleta.md
