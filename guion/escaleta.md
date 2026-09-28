@@ -128,16 +128,18 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
   corazón pasa a oírse en cuerpos reales a través de un estetoscopio, los niños se proyectan, el
   Sombrerero se proyecta, y la furgoneta arrancada cierra con «Lo llaman vida». **Lo único que
   queda del acto I es el aguacatero, el contenedor, el bucle VHS y el empujón del aviador.**
-  Las filas 02, 03 y 04 ya no describen la obra, y el reparto de escenas está por decidir.
-  `TODO(preguntar)` **Ni la sinopsis ni la tabla se sincronizan hasta que el autor decida cómo
-  queda el acto I.**
+  Las filas 01, 02, 03 y 04, la sinopsis y los cuatro libretos ya están sincronizados con el texto
+  del autor: el reparto del acto I está decidido y cerrado.
 - **Decidido sobre la introducción, por el autor (2026-09-28):**
   - **«Está bien» (p. 05) entra cuando se empiezan a proyectar los niños.** Así el espejo 02 ↔ 12
     aguanta: los niños y su canción siguen juntos, y la 1 se queda con las dos canciones del
     espejo. La 1 lleva entonces tres pistas: p. 02 → p. 05 → p. 07.
-  - **El latido suena debajo de la música**, no solo en el negro. Esto **cambia lo construido** en
-    `recursos/audiovideo.md`, que lo tenía como latido solo antes de que entre la pista. La escena
-    sigue en `boceto`: se avisa, no se encarga.
+  - **El latido suena debajo de la música en las dos escenas del espejo**, no solo en el negro. En
+    la 01 el autor lo decidió primero, y el 2026-09-28 lo confirmó para la 11: la pista entra en
+    «un corazón», casi con la escena, muy suave y de fondo. Esto **cambia lo construido** en
+    `recursos/audiovideo.md`, que tenía el latido solo antes de que entrara la pista, y además le
+    **quita** trabajo: ya no hace falta acelerar el latido con `Repitch` en un silencio largo. Las
+    escenas siguen en `boceto`: se avisa, no se encarga.
   - **El 8 mm es un proyector de vídeo disfrazado.** No hay película. Lo que el público ve es
     vídeo, y el fuego es **humo más un efecto de vídeo quemándose**.
   - **Los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI**, y **Ableton es

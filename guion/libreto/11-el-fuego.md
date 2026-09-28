@@ -50,15 +50,14 @@ El árbol que brota es la clave. Si aquí brotara el paisaje entero de golpe, se
 con más cosas. Que **uno** brote primero, y los demás detrás, es lo que hace que parezca un
 comienzo y no una confirmación.
 
-**El latido no cambia: lo que cambia es cuándo entra la canción.** El autor decidió el 2026-09-28
-que en la 01 el latido suena **debajo de «Avivas el fuego»**, y en este texto todavía lo pone
-**solo en el negro, antes de la pista**. Es lo único que queda por cerrar en este espejo, y depende
-de una decisión suya, no mía. `TODO(preguntar)` abajo.
+**El latido no cambia: lo que cambia es lo que hay alrededor.** El autor decidió el 2026-09-28 que
+el latido suena **debajo de «Avivas el fuego»**, y lo confirmó para esta escena el mismo día. La
+pista entra casi con la escena —muy suave, de fondo— y **el latido no se apaga ni se convierte en
+la música**: sigue siendo un latido debajo de la canción durante los 6:41 enteros.
 
 El sonido del latido es el mismo archivo, la misma cadena y el mismo ajuste en las dos escenas, y
-por eso el latido **no cambia**. Lo que cambia es lo que pasa a su alrededor, y ahora también
-**cuándo aparece la música**: en la 01 el latido ya está debajo de la canción, y aquí —si se
-confirma— la canción lo espera debajo a él.
+por eso el latido **no cambia**. Lo único que cambia es lo que pasa a su alrededor. Eso es lo que
+dice el espejo, y no hace falta tocar el sonido para decirlo.
 
 > **Corrección (2026-09-28).** Aquí había escrito que el cuerpo «crece hasta ser el paisaje» en la
 > 11, con cola larga, y que por eso eran dos tratamientos distintos. **No era una decisión del
@@ -85,6 +84,8 @@ confirma— la canción lo espera debajo a él.
 
 (latiendo. el mismo de la escena 01)
 
+>> ♪ «Avivas el fuego» (p. 02) — entra muy suave, de fondo, por debajo del latido
+
 **una imagen roja, pequeña y en el centro. Un feto en el vientre**
 
 (el corazón de la imagen se ilumina con cada latido)
@@ -107,15 +108,13 @@ confirma— la canción lo espera debajo a él.
 
 (y detrás, poco a poco, los demás)
 
->> ♪ «Avivas el fuego» (p. 02)
-
 **volvemos abajo. La imagen roja del feto, latiendo**
 
 (el mismo latido del principio de la obra. el mismo de verdad)
 
 **el paisaje, detrás, empezando a brotar**
 
-(el latido se ha convertido en la canción. ya no se oye aparte: es la música)
+(el latido sigue ahí debajo. el mismo de la escena 01, con la canción encima)
 
 (nadie habla)
 
@@ -130,41 +129,21 @@ confirma— la canción lo espera debajo a él.
 - **El número de cue, que aquí no está.** Por lo mismo que en la 01: el número lo asigna Ableton
   al pasar la puerta, no en el orden de la obra. Por eso en el libreto **no hay ningún `S-nn`**:
   escribirlos aquí suponía que las escenas llegan a `revisada` en orden, y no es así. `TODO(preguntar)`
-- **El espejo del latido ha cambiado de forma** (decidido por el autor en la 01, 2026-09-28). En la
-  1 el latido suena **debajo de «Avivas el fuego»**; aquí el texto lo pone **solo en el negro,
-  antes de la pista**. Las dos escenas ya no aplican la misma regla, así que los dos `TODO` de
-  abajo —el negro largo y el segundo tratamiento— dependen de qué se decida aquí. `TODO(preguntar)`
-- **¿El cuerpo crece en la 11?** Pregunta real, de Ableton (2026-09-28), **sin respuesta del
-  autor**: el latido se oye solo en el silencio de antes de la pista, y en la 11 ese mismo latido
-  tiene delante un paisaje. ¿Basta con eso, o quieres que el sonido **sí** cambie en la 11 —cola
-  larga, exterior, distancia, el cuerpo haciéndose paisaje—? Si lo quieres, es un segundo
-  tratamiento y Ableton tiene que construirlo. `TODO(preguntar)`
-- **¿Cuánto dura el silencio antes de la pista, y dónde entra?** Esto es lo que bloquea el
-  diseño. El texto pone la pista en «un árbol brota», y hasta ahí hay trece golpes: el negro, el
-  corazón, la imagen roja, el fondo, el círculo que se cierra, el pasillo, la *pac-man*, las
-  cerezas, el árbol, la superficie, el paisaje árido. **A lo que me ha dicho la sesión de Ableton
-  (2026-09-28) eso son minutos de un latido solo, y eso no es dramático: es un metrónomo, y a los
-  dos minutos el público deja de oírlo.**
-
-  **Mi propuesta, y la respuesta que le he dado a Ableton: el silencio es corto, y la pista entra
-  casi enseguida**, en el mismo momento que en la 01. Tres razones:
-
-  1. **El espejo tiene que aguantar en el tiempo, no solo en el contenido.** En la 01 el latido
-     entra **debajo de la canción casi desde el principio**. Si la 11 son tres minutos de corazón
-     solo antes de la misma canción, las dos escenas se parecen en lo que muestran y no en lo que
-     duran, y la segunda mitad del espejo se deshace.
-  2. **Lo que cierra la obra es reconocer la canción.** El público tiene que oír «Avivas el fuego»
-     y pensar *esa es la de antes*. Con tres minutos de latido delante no la reconoce: oye un
-     latido que se le ha olvidado. El reconocimiento **es** el espejo.
-  3. **Todo lo demás pasa bajo la pista**, que son los 6:41 — el bloque más largo de la obra — y
-     el paisaje brotando encima es el pago.
-
-  Y una consecuencia buena: si el silencio es corto, **no hace falta el `Launch Mode: Repitch`
-  para acelerar el latido**, que era lo que Ableton tenía que prever antes de construirlo.
-
-  `TODO(preguntar)` **esto es propuesta mía, no decisión del autor.** Si el autor quiere el negro
-  largo y la imagen primero, hay que hacerlo y entonces sí hace falta el Repitch. `TODO(preguntar)`
-  Y si el negro es largo, la escena 01 también: si no, la 01 y la 11 no son el mismo espejo.
+- **El espejo del latido, cerrado** (autor, 2026-09-28): el latido suena **debajo de la música en
+  las dos escenas**, con la misma cadena y el mismo ajuste, y **la pista entra en el mismo momento
+  que en la 01**. Con eso se caen los dos `TODO` que dependían de esto:
+  - **El negro largo desaparece.** El texto ponía la pista en «un árbol brota», y hasta ahí hay
+    trece golpes: el negro, el corazón, la imagen roja, el fondo, el círculo que se cierra, el
+    pasillo, la *pac-man*, las cerezas, el árbol, la superficie, el paisaje árido. Eso son minutos
+    de un latido solo, y un latido solo mucho rato no es dramático: es un metrónomo, y a los dos
+    minutos el público deja de oírlo. **La pista entra ahora en «un corazón»**, que es donde en la
+    01 aparece el titiritero: en las dos escenas, el cuerpo.
+  - **No hace falta un segundo tratamiento del latido.** La pregunta era si el cuerpo «crecía» aquí
+    —cola larga, exterior, distancia, haciéndose paisaje—. Se cae sola: con la pista debajo desde el
+    principio, cambiarle el timbre al latido se oye muchísimo menos, no más. Lo que hace el trabajo
+    es lo que pasa a su alrededor. **Mismo archivo, misma cadena, mismo ajuste, dos cues.**
+  - **Y Ableton no necesita el `Launch Mode: Repitch`**, que solo existía para acelerar un latido en
+    un silencio largo. Eso le quita trabajo, no se lo pone.
 - **¿Qué es la imagen?** ¿Proyección, pantalla, o el titiritero manipulando algo? El diseño
   antiguo hablaba de una «cámara que sube por capas», y eso hay que decidirlo: es distinto que
   la obra se vea proyectada o que haya una cámara de verdad. `TODO(preguntar)`

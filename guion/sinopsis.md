@@ -273,7 +273,10 @@ más grande y más viejo a lo que volver.
 #### 11. [título sin decidir] — «Avivas el fuego»
 
 El espejo de la 01, y va invertido. **El latido suena aquí por segunda vez, y es el mismo de la
-primera escena**: el corazón no ha cambiado, le ha crecido todo alrededor.
+primera escena**: el corazón no ha cambiado, le ha crecido todo alrededor. Y suena igual de bien:
+**debajo de la música, desde que entra la pista**, que entra casi con la escena, muy suave y de
+fondo. El latido no se apaga ni se convierte en la canción —sigue ahí durante los 6:41 enteros—;
+lo único que cambia es lo que tiene alrededor.
 
 Las profundidades. La imagen roja de un feto en el vientre late, y el corazón de la imagen se
 ilumina con cada latido. El círculo se cierra sobre ella y se revela como un pasillo por el que
@@ -285,6 +288,15 @@ Nadie habla.
 Cuarto peldaño: **el latido no ha cambiado, cambió el mundo.** Si la obra cerrara volviendo
 literalmente al principio, el viaje no habría pasado nada. Aquí el corazón es el de la 01 y
 alrededor hay un paisaje que antes no existía.
+
+Y el tiempo también es espejo. En la 01 la música entra casi enseguida con el latido debajo, y
+aquí entra igual: si esta escena abriera con minutos de corazón solo, las dos se parecerían en lo
+que muestran y no en lo que duran, y además el público no alcanzaría a reconocer la canción — y
+reconocerla **es** el espejo.
+
+**La 01 habla y la 11 calla.** El texto dice que nadie habla, y eso ya no es consecuencia de nada:
+es una decisión, y es la mejor forma que le puede pasar a la obra —abrir con un monólogo entero y
+cerrar sin una palabra. `TODO(preguntar)` que lo confirme el autor.
 
 `TODO(preguntar)` **el título de la escena.** `TODO(preguntar)` ¿la *pac-man*, los fantasmas y
 las cerezas qué son, y de qué salen?
