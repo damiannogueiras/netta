@@ -49,6 +49,13 @@ encima. `recursos/sonido.md` lo implementa.
 
 ## Texto
 
+> **El número de este cue no es definitivo.** La numeración `S-nn` la fija la puerta —el orden
+> en que las escenas llegan a `revisada`—, no el orden en que se escriben (`AGENTS.md`). El
+> `S-01` y el `S-14` que hay aquí se asignaron antes de que existiera la puerta, y ya están
+> construidos en `recursos/sonido.md`. **Se quedan como están mientras esta escena no llegue a
+> `revisada`**, y en ese momento se confirma o se corrigen. `TODO(preguntar)`
+
+
 **negro**
 
 >> [S-01] un latido. Muy cerca, como si fuera dentro de un cuerpo
