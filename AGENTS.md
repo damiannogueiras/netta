@@ -287,13 +287,18 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
     «Avivas el fuego», la 2 del disco). Es el mismo número que usan `guion/escaleta.md` y
     `investigacion/referencias.md`, así que no hay que traducir.
   - `S-nn` — los efectos sonoros, numerados en el orden en que salen en la obra, de la escena
-    01 a la 11.
+    01 a la 12.
 - **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.
-- **El mismo efecto puede sonar en varias escenas con cues distintas** (`S-01` y `S-14` pueden
-  ser el mismo latido, uno de la escena 01 y otro de la de la 11 con otro tratamiento). Lo que
-  se repite es el sonido; el cue es una ocurrencia concreta.
+- **El mismo efecto puede sonar en varias escenas con cues distintas** (`S-01` y `S-14` son el
+  mismo latido, uno en la escena 01 y otro en la 11). Lo que se repite es el sonido; el cue es
+  una ocurrencia concreta.
+
+  El latido es el caso límite: **mismo archivo, misma cadena, mismo ajuste**, lanzado dos veces
+  en la obra. No hay dos tratamientos del mismo sonido —lo que cambia entre la 01 y la 11 es
+  todo lo que hay alrededor—, y aun así son dos cues. Ese es el caso raro que la regla tiene que
+  cubrir: por eso dos cues y no uno.
 
 ### No se inventa el sonido
 
