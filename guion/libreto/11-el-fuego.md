@@ -126,7 +126,7 @@ confirma— la canción lo espera debajo a él.
   el de la 01** — la sesión de Ableton lo confirmó así y no hay un segundo tratamiento. Son dos
   cues porque son **dos ocurrencias distintas del mismo sonido** en dos escenas distintas, que es
   el caso límite que explica `AGENTS.md`: es el único elemento de la obra que suena dos veces.
-  Implementación en `recursos/sonido.md`.
+  Implementación en `recursos/audiovideo.md`.
 - **El número de cue, que aquí no está.** Por lo mismo que en la 01: el número lo asigna Ableton
   al pasar la puerta, no en el orden de la obra. Por eso en el libreto **no hay ningún `S-nn`**:
   escribirlos aquí suponía que las escenas llegan a `revisada` en orden, y no es así. `TODO(preguntar)`

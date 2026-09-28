@@ -136,14 +136,17 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
     aguanta: los niños y su canción siguen juntos, y la 1 se queda con las dos canciones del
     espejo. La 1 lleva entonces tres pistas: p. 02 → p. 05 → p. 07.
   - **El latido suena debajo de la música**, no solo en el negro. Esto **cambia lo construido** en
-    `recursos/sonido.md`, que lo tenía como latido solo antes de que entre la pista. La escena
+    `recursos/audiovideo.md`, que lo tenía como latido solo antes de que entre la pista. La escena
     sigue en `boceto`: se avisa, no se encarga.
   - **El 8 mm es un proyector de vídeo disfrazado.** No hay película. Lo que el público ve es
     vídeo, y el fuego es **humo más un efecto de vídeo quemándose**.
   - **Los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI**, y **Ableton es
     también quien construye la red de TouchDesigner**: el aspecto de 8 mm, el quemado y el humo.
-    `AGENTS.md` no tiene ni una palabra de esto. `TODO(preguntar)` la **serie de cues de vídeo
-    (`V-nn`)**: quién las numera, dónde vive su tabla y si comparten numeración con los efectos.
+    **La serie de cues de vídeo (`V-nn`) está decidida** (Datos, `2cf9e23` y `bac44b6`): va igual
+    que la `S-nn`, se asigna al pasar la escena a `revisada`, y vive en `recursos/audiovideo.md`,
+    que pasa a cubrir sonido **y** vídeo. En el libreto el vídeo va con `>>` y **sin número**, igual
+    que un efecto: `>> un vídeo de niños proyectados`. La `P-nn` de las pistas del disco sigue siendo
+    la única que se escribe en el libreto.
   - `TODO(preguntar)` cuatro cosas del autor que se contestan en una línea: qué música se relentece
     cuando arde la película; si el humo es de máquina o de efecto; con qué música va el Sombrerero
     proyectado —si es silencio, es la única vez que la obra calla—; y si en la 1 el que habla es el

@@ -25,7 +25,7 @@ está solo, y además está en cuerpos ajenos: el titiritero tiene que acercarse
 Es también donde se dice la tesis con las palabras más simples de la obra: *un niño no se disfraza,
 se viste como quiere*. Y el estetoscopio la resuelve: el aparato es la explicación visible de que
 el latido suena **dentro de un cuerpo**, que es lo que dice la implementación en
-`recursos/sonido.md`.
+`recursos/audiovideo.md`.
 
 ## Se repite en
 
