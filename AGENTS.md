@@ -50,10 +50,10 @@ netta/
 │   ├── sinopsis.md                la obra en un párrafo; la brújula
 │   ├── escaleta.md                ESQUELETO: qué ocurre en cada escena
 │   └── libreto/                   EL TEXTO, un fichero por escena
-│       ├── 01-el-latido.md
-│       ├── 02-la-infancia.md
+│       ├── 01-el-corazon.md
+│       ├── 02-ninos-proyectados.md
 │       ├── 03-el-sombrerero.md
-│       ├── 04-la-rutina-en-bucle.md
+│       ├── 04-la-furgoneta.md
 │       ├── 05-el-tiro-al-blanco.md
 │       ├── 06-la-reina.md
 │       ├── 07-la-salida-que-no-esta.md
