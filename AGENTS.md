@@ -71,6 +71,17 @@ netta/
     └── referencias.md             datos verificados sobre banda y disco, con fuente
 ```
 
+`.opencode/` no aparece en el árbol porque no es material de la obra: es configuración de
+opencode (los sub-agentes, sus permisos). Va de **Datos**, como el resto de la estructura.
+
+```
+.opencode/
+├── agents/          sub-agentes: contexto y permisos propios
+│   └── git.md
+└── skills/          skills: procedimientos que se cargan en tu contexto
+    └── cerrar-escena/SKILL.md
+```
+
 ## Para qué sirve cada fichero
 
 - **`guion/sinopsis.md`** — el norte. Si una escena nueva no encaja con la sinopsis, o
@@ -100,8 +111,9 @@ netta/
 2. Trabaja **una escena por sesión**. Es un proyecto creativo, no una tarea lineal: mezclar
    varias escenas a la vez hace que se pierda el hilo. Con el libreto partido por escenas, esto
    es literalmente un fichero.
-3. Cuando se cierre una escena, actualiza su estado en la escaleta **y** su fecha en
-   `README.md`.
+3. Cuando se cierre una escena, actualiza su estado en la escaleta **y** la fecha en el
+   bloque `## Estado` de la misma escaleta. Ver «`cerrar-escena`: cerrar una escena» y el
+   paso 1 de las herramientas.
 4. Escribe en el fichero que corresponda, no en uno nuevo. Si un dato no tiene sitio, casi
    siempre es porque falta decidir algo: eso es una pregunta, no un fichero extra.
 5. Al final de la sesión, deja escrito lo que has decidido y lo que queda abierto. La
@@ -160,7 +172,7 @@ dices aquí**, pero no lo escribes.
 |---|---|---|
 | **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/libreto/` | `recursos/`, `investigacion/` |
 | **Ableton** | `recursos/sonido.md` — disco, efectos, cues, el Set de Live | `guion/`, `investigacion/`, `AGENTS.md` |
-| **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md` y la estructura del proyecto (`README.md`) | `guion/`, `recursos/sonido.md` |
+| **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, la estructura del proyecto (`README.md`) y la configuración de opencode (`.opencode/`) | `guion/`, `recursos/sonido.md` |
 
 Lo que **no** está repartido y sigue sin dueño: `recursos/escena.md` (puesta en escena) y
 `recursos/produccion.md` (calendario, presupuesto, derechos). Hasta que se decida, son de quien
@@ -273,6 +285,78 @@ coge el siguiente número libre.
 - El worktree (`kimaki send --worktree escena-12`) queda como recurso de emergencia, no como
   forma normal de trabajar: `escaleta.md` y `sinopsis.md` dan conflicto siempre y hay que
   fusionar a mano.
+
+## Las herramientas
+
+En `.opencode/` hay un sub-agente y un skill. **No son dos maneras de hacer lo mismo, y no se
+sustituyen uno por otro.** La diferencia es de permisos, y por eso hay dos cosas en vez de
+una:
+
+| | Qué es | Cuándo se usa |
+|---|---|---|
+| **Sub-agente `@git`** | Otro agente, con contexto y permisos propios | Para commitear, revisar el árbol o tocar GitHub |
+| **Skill `cerrar-escena`** | Un checklist que se carga en **tu** contexto | Cuando una escena llega a `revisada` |
+
+Un skill es documentación: se carga en la sesión que lo invoca, y esa sesión conserva todos
+sus permisos. Leído, «no hagas push sin permiso» sigue siendo un consejo. El sub-agente no
+recibe el consejo: tiene el push en `ask` y no puede escribir ficheros. **En un árbol con
+tres sesiones, un consejo y una valla no valen lo mismo.**
+
+### `@git`: el control de versiones
+
+Se invoca con `@git`, o por su cuenta cuando toca commitear. **La sección de git de arriba
+son las reglas; él es quien las aplica.** No las repito aquí.
+
+Lo que `@git` añade sobre esas reglas:
+
+- **Los permisos de verdad, no el prompt.** `edit: deny` — no puede escribir un solo fichero
+  de la obra, así que no puede reescribir la obra yllamándola «un retoque». `git commit` y
+  `git push` en `ask`. Y en `deny`: `git add -A`, `git add .`, `git checkout` (salvo `-b`),
+  `gh api`. Lo que no puede hacer, no lo intenta.
+- **Nunca commitea por su cuenta.** Stagea fichero a fichero, redacta el mensaje, enseña
+  `git diff --cached` y **para a preguntar**. Si un cambio no es suyo, no lo commitea: lo
+  reporta. Aunque el mensaje sea de otra sesión.
+- **GitHub, con `gh`.** Lectura siempre (`gh pr status`, `gh issue list`, `gh pr diff`…);
+  escritura en `ask`: PR e issues. Ver abajo, que el flujo tiene un raíl.
+
+**El raíl de las ramas.** La rama es del **árbol de trabajo**, no de la sesión: las tres
+sesiones comparten el directorio, así que si `@git` se mueve a una rama, **Guion y Ableton se
+mueven con él**, con sus cambios sin commitear encima y sus commits cayendo en su rama. Por
+eso no cambia de rama por su cuenta, solo con el árbol limpio salvo lo suyo, y vuelve a
+donde estaba. **Si hay trabajo de otra sesión sin commitear, no hay flujo de PR posible:**
+es un worktree, o se commitea en `main` y ya.
+
+**PR.** El flujo por defecto **sigue siendo commit local en `main` y sin push**. Un PR se abre
+solo si lo pides, y no se mergea porque exista: se mergea cuando lo dices.
+
+**Issues para los `TODO(preguntar)`.** Los pendientes de los libretos se pierden, porque la
+siguiente sesión no tiene contexto. `@git` puede convertirlos en issues, **pero solo si se
+lo pides**: deduplica contra los que ya hay, te propone lista y títulos antes de crear nada,
+y **no cierra ninguno por su cuenta** — el `TODO` lo borra quien escribió el fichero, que
+es su sesión.
+
+### `cerrar-escena`: cerrar una escena
+
+Se carga sola cuando toca llevar una escena hasta `revisada`. Es un checklist, no un
+delegado: **el texto lo escribes tú**, la skill es el orden en que se hace todo lo demás.
+
+Lo que hace bien y donde se falla siempre a mano: **el estado de una escena vive en tres
+sitios a la vez**, y basta con olvidar uno.
+
+| Dónde | Qué se toca |
+|---|---|
+| `guion/libreto/NN-nombre.md` | La cabecera: `> **Estado:**` |
+| `guion/escaleta.md` | La fila de la escena, columna **Estado** |
+| `guion/escaleta.md` | El bloque `## Estado` del final, que resume los recuentos |
+
+El tercero es el que se lee primero y **es el que se miente solo**: sigue diciendo «Sin
+escenas `revisada`» después de que la haya. Escribe el texto *antes* de `revisada`; lo que
+marca el avance a `idea` y `boceto` es precisamente eso.
+
+**Ojo: `README.md` no existe.** Este documento y el flujo de trabajo lo daban por hecho, pero
+nunca se creó — no sale ni en la historia de git. Por eso el paso 3 del flujo va a la fecha
+en el `## Estado` de la escaleta. **Nadie lo crea por su cuenta:** es una decisión del autor,
+y el fichero sería de **Datos**.
 
 ## Convenciones
 

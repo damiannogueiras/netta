@@ -3,6 +3,13 @@ site_description: Guion, recursos e investigación de la obra de Netta Rufina.
 theme:
   name: material
   language: es
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+  font:
+    text: Lora
+    code: Roboto Mono
   features:
     - navigation.sections
     - navigation.top

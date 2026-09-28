@@ -141,9 +141,11 @@ las guerras del mundo, con el aviador como el que la nombra con su voz— pero n
 la Reina es un títere o un estado. Si es un títere, entra aquí con su ficha. El diseño antiguo
 tenía una carta de poker, maquetada grotescamente y mitad Reina mitad aviador.
 
-## Los objetos
+## El escenario
 
-`TODO(preguntar):` sin fichas. Los que la obra ya usa y habría que fechar:
+El escenario es una mesa a una altura de unos 70cm, con un fondo negro, el escenario se va montando y desmontando según las escenas, son figuras planas de cartón pluma, objetos, títeres de varilla, un mix. La mesa tiene unos tres metros de largos y n ancho de un metro y medio. En un lateral hay una pantalla de un metro por un metro donde se irán proyectando videos.
+
+## Los objeto
 
 - **La furgoneta** — blanco → morado con grafiti y tuberías (escena 04).
 - **El huevo** — el hilo que va capítulo a capítulo; de él salen el televisor, la niña y el corazón.
