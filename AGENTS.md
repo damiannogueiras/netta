@@ -188,6 +188,14 @@ kimaki send --thread 1553736444798042246 --prompt 'La escena 08 necesita un efec
 **Un commit no es un mensaje.** Si algo es de otra sesión, se le manda a su hilo y se sigue. La
 otra sesión lo mete en su fichero; quien escribe el fichero es quien commitea.
 
+**Dos mensajes por sesión, y luego a callar.** Decidido por el autor (2026-09-28). En un diálogo
+entre sesiones, cada una tiene **dos mensajes**. Al segundo, la conversación se para: lo que quede
+sin resolver se le pregunta al autor aquí, y no se sigue encadenando.
+
+El motivo es concreto: las sesiones se Contestan entre sí, y sin tope una observación pequeña
+genera otra, y la siguiente, y ninguna se para. Con dos, la primera observación se aplica y la
+segunda avisa. Lo que haga falta de más, se le pregunta a la persona.
+
 ### Los efectos y la música se deciden en Ableton
 
 **Si al escribir una escena sale un sonido —un efecto, un corte, una música, un silencio que
@@ -227,12 +235,16 @@ texto que se va a reescribir es un efecto que hay que tirar y volver a hacer, co
 — y la numeración de cues es sagrada, así que ese número queda libre para siempre. La puerta
 protege a Ableton de un churn que no puede deshacer.
 
-**El mensaje a Ableton lleva cuatro cosas**, y si le falta una, no se puede empezar:
+**El mensaje a Ableton lleva cinco cosas**, y si le falta una, no se puede empezar:
 
 1. **Qué escena y en qué estado.** «Escena 12, `revisada` esta tarde».
 2. **Qué necesita.** El efecto o la pista, con su nombre tal como lo escribió Guion.
 3. **Dónde y cuándo.** En qué punto de la escena, y en qué momento.
 4. **Por qué en ese momento.** Qué le pasa a la escena, a la imagen o al público justo ahí.
+5. **De dónde sale el material.** Si es un archivo, una pista del disco, una grabación que hay que
+   conseguir, o algo que hay que fabricar. **Si la respuesta es «todavía no lo sé», el material
+   no está resuelto** y la puerta no se puede dar por buena: eso se pregunta antes, aquí, en
+   `investigacion/referencias.md` o en el hilo de Guion.
 
 **Ableton comprueba la puerta antes de empezar.** Si llega una propuesta de una escena que no
 está en `revisada`, lo dice y no la trabaja: no es suyo decidir que un texto ya está. Y si le
@@ -344,10 +356,10 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
 - **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.
-- **El mismo efecto puede sonar en varias escenas con cues distintas** (`S-01` y `S-14` serán el
-  mismo latido, uno en la escena 01 y otro en la 11). Lo que se repite es el sonido; el cue es
-  una ocurrencia concreta. Los dos números de ese ejemplo **todavía no existen**: son los que
-  saldrían cuando esas dos escenas pasen la puerta, y el 11 será el segundo.
+- **El mismo efecto puede sonar en varias escenas con cues distintas** (el cue de la 01 y el de
+  la 11 serán el mismo latido). Lo que se repite es el sonido; el cue es una ocurrencia
+  concreta. **Ninguno de los dos números existe todavía:** se asignan cuando esas escenas
+  pasen la puerta, y no tienen por qué ser consecutivos.
 
   El latido es el caso límite: **mismo archivo, misma cadena, mismo ajuste**, lanzado dos veces
   en la obra. No hay dos tratamientos del mismo sonido —lo que cambia entre la 01 y la 11 es
