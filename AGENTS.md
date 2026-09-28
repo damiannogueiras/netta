@@ -138,21 +138,32 @@ proyecto normal: son las de un proyecto con otro agent al lado.
 - Antes de push, decir qué va y en qué commit. Si hay cambios sin commitear de otra sesión,
   se mencionan y se dejan fuera.
 
-### Un árbol, una sesión escribiendo
+### Quién escribe qué
 
-Los ficheros compartidos —`guion/escaleta.md`, `guion/sinopsis.md`, `recursos/sonido.md`,
-`recursos/fichas.md`, `investigacion/referencias.md`, este `AGENTS.md`— los escribe
-**cualquier** sesión. Son el índice de la obra, así que no son negociables: si dos sesiones los
-tocan a la vez, una pisa a la otra y ninguna sabe qué se ha perdido.
+**Hay tres sesiones, y cada una tiene sus ficheros.** Decidido por el autor (2026-09-28). Un
+fichero tiene un dueño: si necesitas tocar uno que no es tuyo, **se lo dices al autor y lo
+dices aquí**, pero no lo escribes.
 
-- **Se trabaja de una en una.** Decidido por el autor (2026-09-28). Una sesión escribiendo, la
-  otra pensando o leyendo. La escena N depende del estado que dejó la N-1, así que el
-  paralelismo no ahorra casi nada y sí cuesta.
-- **Antes de escribir un fichero compartido, mira quién lo escribió:**
+| Sesión | Escribe | No toca |
+|---|---|---|
+| **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/libreto/` | `recursos/`, `investigacion/` |
+| **Ableton** | `recursos/sonido.md` — disco, efectos, cues, el Set de Live | `guion/`, `investigacion/`, `AGENTS.md` |
+| **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md` y la estructura del proyecto (`README.md`) | `guion/`, `recursos/sonido.md` |
+
+Lo que **no** está repartido y sigue sin dueño: `recursos/escena.md` (puesta en escena) y
+`recursos/produccion.md` (calendario, presupuesto, derechos). Hasta que se decida, son de quien
+los escriba, avisando antes.
+
+- **El reparto no es una suggestion, es la razón de poder ir en paralelo.** Las tres sesiones
+  pueden trabajar a la vez **porque no comparten ficheros**. En cuanto dos tocan el mismo, una
+  pisa a la otra y ninguna sabe qué se ha perdido: por eso la tabla es de un solo dueño.
+- **Antes de escribir un fichero, mira quién lo escribió por última vez:**
   ```bash
   kimaki session editors guion/escaleta.md
   ```
-  Si fue hace nada, esa sesión sigue trabajando en él. Se espera.
+  Si fue hace poco, esa sesión sigue trabajando en él. Se espera.
+- La escena N depende del estado que dejó la N-1, así que dentro de `guion/` **una escena por
+  sesión**. Eso no contradice el reparto: es lo que pasa por dentro de la sesión Guion.
 - El worktree (`kimaki send --worktree escena-12`) queda como recurso de emergencia, no como
   forma normal de trabajar: `escaleta.md` y `sinopsis.md` dan conflicto siempre y hay que
   fusionar a mano.
