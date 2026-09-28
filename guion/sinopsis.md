@@ -1,6 +1,6 @@
 # El Viaje
 
-> **Estado:** quinta sinopsis. Estructura en **tres actos (4 + 4 + 3)**. La tesis no ha
+> **Estado:** sexta sinopsis. Estructura en **tres actos (4 + 4 + 4)**, doce escenas. La tesis no ha
 > cambiado: la obra habla de cualquiera, no de la banda. **Las once escenas tienen tema**; lo que
 > falta son detalles de construcción, no argumentos.
 > Cuando una escena no encaje aquí, se actualiza este fichero primero.
@@ -12,7 +12,7 @@ pasó: hubo un niño que jugaba, que cantaba, que hacía cosas porque sí, y lue
 perdió el niño, y con él se perdió la fuente de la que salía todo lo demás. Esta obra es el
 viaje de vuelta.
 
-Lo que hace la pieza no es nostalgia: es un diagnóstico. El daño no es una falta, es un
+Lo que hace la pieza no es nostalgia: es una sanación. El daño no es una falta, es un
 **daño hecho** — y la aceptación de ese daño (no su perdón, su aceptación) es lo que cura.
 Por eso el final no es «vuelve a ser como antes»: es «eso está bien».
 
@@ -22,39 +22,48 @@ Por eso el final no es «vuelve a ser como antes»: es «eso está bien».
 concretos: son los que están viendo. Esto cambia el material de tres escenas:
 
 - Donde antes se veían **las caras de los integrantes**, ahora hay caras de agobio sin nombre.
-- Donde antes se oía **la voz del cantante** tras la máscara de gas, ahora hay una voz
-  cualquiera, o nadie.
+- Donde antes se oía **la voz del cantante** tras la máscara de gas, ahora hay la voz
+  de nos de los personajes, el aviador.
 - Donde antes se proyectaban **las fotos de los integrantes de niños**, ahora son niños
   genéricos.
 
-Lo que sí es de la banda es **la música**: las nueve pistas del disco son suyas. La banda
-toca y canta en escena, pero la historia que se representa no es la suya. `TODO(preguntar).`
+Lo que sí es de la banda es **la música**: las nueve pistas del disco son suyas. Las músicas son descompuestas en sus pistas y son usadas por separado.
+Hay sampleo, loops, cambios de ritmos. La banda interviene al vivo putualmente.
 
 ## La forma: la obra se cierra donde se abre
 
-Las dos canciones con las que arranca la obra son las dos con las que termina. Es un círculo
-cerrado, y en el medio la misma canción ha cambiado de significado:
+**Cuatro escenas en espejo**, dos parejas, y las dos parejas son las dos parejas de canciones con
+las que el disco abre y cierra:
 
-| | Principio | Final |
-|---|---|---|
-| **«Avivas el fuego»** | El latido. Lo que hay antes de la vida. | El latido vuelve. Lo que hay después de la vida. |
-| **«Está bien»** | Niños solos, llorando, rotos. | Los mismos niños, jugando y cantando. |
+| | Principio | Final | |
+|---|---|---|---|
+| **«Avivas el fuego»** | **01** — el corazón solo, sin nada alrededor. | **11** — el mismo corazón, y todo lo que creció alrededor. | 01 ↔ 11 |
+| **«Está bien»** | **02** — niños solos, llorando, rotos, proyectados. | **12** — niños disfrazados, en charcos, jugando. | 02 ↔ 12 |
 
-**Los niños de la escena 02 y los de la escena 11 son los mismos.** Eso es lo que convierte el
-final en una sanación y no en una Alicia al revés: no se recupera el niño como era, se acepta
-lo que le pasó. «Eso está bien» es la frase que lo dice.
+**El espejo va invertido en las dos parejas.** En la 01 el latido está vacío; en la 11 es el
+mismo latido con encima las capas, el pasillo, la *pac-man*, la superficie y el paisaje brotando.
+En la 02 los niños están rotos y solos; en la 12 son los mismos niños, disfrazados y en charcos.
+
+> **Por qué invertido y no calcado** (2026-09-27). El autor partió el final en dos escenas para
+> devolver el espejo. Si volviéramos literalmente al principio, el viaje no habría pasado nada: la
+> tesis es *no volver al niño que eras, sino querer al niño que te hicieron*. El latido es el
+> mismo; alrededor ha cambiado. **Y el final no es tranquilo:** termina con una niña en una cuerda
+> floja, que recoge la inestabilidad y el juego.
 
 ## La obra en un párrafo
 
-Abre el latido de un corazón en las profundidades. Después, fotos de niños: solos, llorando,
-rotos — la infancia que no fue del todos, mostrada sin consuelo. Un Sombrerero les dice que esa
-muchedad la han perdido, y caemos en la rutina: el bucle de «Lo llaman vida», la misma calle, la
-misma canción, el cartel hecho un desastre. Al final del primer acto, un aviador empuja la
-furgoneta hacia el mundo fantástico y empieza el viaje del héroe. En el segundo acto hay que
-bajarse a mirar: pasar por donde no se puede pasar, encontrar una llave, aceptar la propia parte
-dañada. En el tercero se sube: empezar a volar, escuchar al bosque y a la lluvia, y entonces el
-latido vuelve, el mundo florece, y los niños de las fotos del principio vuelven a aparecer
-jugando. Eso está bien.
+Empieza con un corazón solo, latiendo, y nada más. Después, una proyección de fotos de niños:
+solos, llorando, rotos — la infancia que no fue del todo, con «Está bien» de fondo y sin nada que
+les pase más que estar ahí. Un Sombrerero dice que la muchedad la han perdido, y caemos en la
+rutina: el bucle de «Lo llaman vida», la misma calle, la misma canción, el cartel hecho un
+desastre. Al final del primer acto, un aviador empuja la furgoneta hacia el mundo fantástico y
+empieza el viaje del héroe. En el segundo acto hay que bajarse a mirar: quitar el discurso vacío a
+tiros de huevo, mirar la guerra de dentro, pasar por donde no se puede pasar, encontrar una llave,
+aceptar la propia parte dañada. En el tercero se sube: empezar a volar, escuchar al bosque y a la
+lluvia, y entonces **vuelve el latido** —el mismo de la primera escena, pero con todo lo que
+creció alrededor: la superficie árida y un árbol brotando, y detrás los demás—. Y por último
+**vuelve el juego**: una niña camina por una cuerda floja y recoge la inestabilidad, y las fotos
+de los niños del principio salen ahora disfrazados, en charcos. Eso está bien.
 
 ## Estructura
 
@@ -62,25 +71,24 @@ jugando. Eso está bien.
 acto y el segundo ya está en la obra: lo hace un empujón. Los dos actos siguientes se separan
 por el giro de la escena 09, que es la primera vez que se puede volar.
 
-**Aviso:** el reparto en actos y el orden de las once escenas están decididos por el autor
-(2026-09-27). Las escenas 05 y 06 también, aunque les falta construcción: qué se ve exactamente
-en ellas y de dónde sale el material. Ver `TODO(preguntar)`.
-
 ### Acto I — La caída (escenas 01–04)
 
 **Lo que se rompió, y la sentencia de que no vuelve.** El acto acaba con un empujón.
 
-#### 1. El latido — «Avivas el fuego»
+#### 1. [título sin decidir] — sin música asignada
 
-Apertura sobre el sonido del corazón. La imagen roja de un feto en el vientre, que brilla al
-ritmo de los latidos, en las profundidades. La cámara se cierra en un círculo y sube por varias
-capas —una *pac-man* escapando de los fantasmas y buscando las cerezas— hasta la superficie: un
-paisaje árido, árboles secos y angulosos. **La energía los hace brotar.** La cámara vuelve a
-las profundidades, a la imagen roja: es ella la que aviva el fuego, es ella la que da la vida.
-Nadie habla todavía.
+`TODO(preguntar)` — **la escena 01 se rehace desde cero.** El autor va a dar su descripción
+(2026-09-27). El material que estaba aquí (el feto rojo en las profundidades, la *pac-man*, el
+paisaje árido, el árbol que brota) **es de la escena 11**, primer movimiento de «Avivas el
+fuego», y se ha movido allí.
 
-**No es el principio de la historia, es el principio de la vida.** Lo que viene después es todo
-lo que le pasa a ese latido.
+Consecuencias de haberlo movido:
+
+- **La 01 se queda sin música.** «Avivas el fuego» estaba aquí y ahora está en la 11. Las nueve
+  pistas del disco siguen colocadas, pero la 01 y la 03 son ahora las dos escenas sin música.
+  `TODO(preguntar)`
+- **El círculo de la obra se ha roto por la mitad.** Ya no hay un elemento que vaya de la 01 a la
+  11. El único que vuelve son las fotos de los niños, de la 02 a la 11. `TODO(preguntar)`
 
 #### 2. La infancia — «Está bien»
 
@@ -140,7 +148,9 @@ de fuera —el discurso de queja, crítica y juicio—; la 06 mira la guerra que
 **El aviador barre antes de entrar.** Él es el que nos mete en el mundo fantástico, y lo primero
 que hace es negarse a hablar. Al aviador no le suporta el discurso: por eso dispara. A un tiro
 al blanco, y a cada tiro le lanza un **huevo a las formas de discurso vacío** —la queja, la
-crítica, el juicio—, que es lo único que no puede permitirse llevar dentro.
+crítica, el juicio—, que es lo único que no puede permitirse llevar dentro. **Y lo hace
+bailando:** sigue el ritmo de la música mientras dispara, que es su rutina entera. La niña le
+dispara un corazón —son aliados—, y es la única munición que él no devuelve.
 
 **Las formas no tienen nombre.** No representan a nadie concreto: es un discurso que suena a
 todos y a nadie, y por eso funciona con cualquiera. `TODO(preguntar):` qué son físicamente esas
@@ -235,25 +245,32 @@ más grande y más viejo a lo que volver.
 Dos movimientos, en este orden.
 
 **«Avivas el fuego»** — el contacto con lo más profundo: el yo creativo que hace florecer el
-mundo que nos rodea. Vuelve el latido del corazón de la escena 01, y esta vez el mundo florece:
-la energía que en la apertura apenas los hacía brotar ahora hace brotar el paisaje entero.
+mundo que nos rodea. **El latido suena aquí por primera vez**: no venía del principio. La imagen
+roja de un feto en el vientre late en las profundidades, el círculo se cierra sobre ella y se
+revela como un pasillo por el que una *pac-man* escapa de unos fantasmas subiendo por capas, y
+arriba está la superficie: un paisaje árido, árboles secos y angulosos. **Un árbol brota** —no
+los demás, uno solo— y detrás, poco a poco, los otros. Nadie habla.
 
 **«Está bien»** — la sanación de las heridas, aceptando el dolor del daño causado. Y vuelven
-las fotos de los niños del principio, pero ya no están solos ni llorando: **juegan, cantan**.
-La última frase es esa: *eso está bien*.
+las fotos de los niños de la escena 02, pero ya no están solos ni llorando: **juegan, cantan**.
+La última frase de la obra es esa: *eso está bien*.
 
 Quinto peldaño: **no volver a ser el niño que eras, sino querer al niño que te hicieron.** El
-círculo se cierra: el latido de la escena 01 y los niños de la escena 02 vuelven, y los dos
-han cambiado.
+círculo no se cierra en espejo: solo vuelven los niños de la 02, y han cambiado.
 
-## Los tres personajes
+## Los personajes
+
+Fichas completas en `recursos/fichas.md`. Resumen aquí. **El titiritero es el
+profesor y el narrador**: una sola persona en tres registros —neutro, profesor, narrador—. El
+texto del narrador no está escrito, y es lo que más bloquea la obra.
 
 | Personaje | Qué es | Qué quiere | Cómo actúa |
 |---|---|---|---|
-| **El profesor** | El que pasa de huevo a huevo y el que trae la sentencia del Sombrerero. Misterioso, nunca explica nada. | No está dicho. | Saca cosas de los huevos (el televisor, la niña), nunca las saca de la banda. |
-| **El aviador** | Figura de *Alicia* reinventada: máscara de gas, traje a lo principito, pistolas tipo Jack Sparrow, pies de bailarina. Es el que nos mete en el mundo fantástico y el que manda la llave. | No soporta el *bullshit* (Fritz Perls). Dispara huevos en vez de soluciones. | Empuja la furgoneta, **barre el discurso vacío disparando huevos (05)**, **nombra la guerra interna con su voz (06)**, se lleva a la mujer voladora, da la llave (07). |
-| **La niña** | La parte dañada, y la que termina sanando. Se transforma en corazón y luego en huevo. | No está dicho. | Se sienta triste junto al ventilador; el profesor la recoge en brazos y la mete en un huevo. |
-| **La Reina** | El estado interno de lucha: la guerra de dentro. Los que hacen la guerra, y la guerra que hacemos. | No está dicho. | No está dicho: `TODO(preguntar)` si es un títere (la carta de poker del diseño antiguo) o solo un estado. |
+| **El titiritero** — el que está delante | Persona en escena. Manipula los objetos de manera **neutra** y a veces **participa activamente**. **Es también el profesor**: se pone una máscara y se convierte en él. **Y es el narrador**: habla en **frases muy cortas**. | `TODO(preguntar)` ¿se ve cuando es neutro? Y su texto, que no está escrito. |
+| **El profesor** — *Sabiduría* — *el titiritero con la máscara puesta* | Salido de un muro (referencia: Pink Floyd). | Cansado de pasar niños por la picadora de carne, **ahora es el protector estoico de la inocencia**. | Saca cosas de los huevos (el televisor, la niña), nunca las saca de la banda. No explica nada. |
+| **El aviador** — *Acción* | Traje **del Principito en plan steampunk**, con máscara de gas. `TODO(preguntar)` también se había descrito como inspirado en el «Valle del Viento» de *Nausicaä`. | **Traspasa materia entre mundos y dispara verdades, huevos o corazones.** No soporta el *bullshit*. Su rutina: disparar y hacer ballet —en la 05 baila al ritmo de la música—. | Empuja la furgoneta, **barre el discurso vacío disparando huevos (05)**, **nombra la guerra interna con su voz (06)**, se lleva a la mujer voladora, da la llave (07). |
+| **La niña** — *Inocencia* | Vestida de naranja. | Es la **inocencia**, la **creatividad**, **la que hay que proteger**: la niña interior que no duerme, cuenta las luces y solo busca jugar. **Aliada del aviador:** en la 05 le dispara un corazón. | En la 08 se sienta triste junto al ventilador; el profesor la recoge en brazos y la mete en un huevo. `TODO(preguntar)` **la ficha y la 08 no coinciden:** ver `recursos/fichas.md`. |
+| **La Reina** | El estado interno de lucha: la guerra de dentro. Los que hacen la guerra, y la guerra que hacemos. | No está dicho. | No está dicho: `TODO(preguntar)` si es un títere (la carta de poker del diseño antiguo) o solo un estado. Sin ficha. |
 
 ## Los elementos que se repiten
 

@@ -54,15 +54,17 @@
   `recursos/sonido.md` porque explica por qué el disco se oye «desordenado» en la obra.
 
   > **Aviso: esta tabla está desfasada.** Es de un orden anterior de la obra. El orden que
-  > manda ahora está en `guion/escaleta.md` (01 «Avivas el fuego», 02 «Está bien», 07 «La
-  > puerta», 08 «Ser artista», 09 «Vuela», 10 «Seica», 11 «Avivas el fuego» → «Está bien»,
-  > 04 «Lo llaman vida») y su tabla de cues está en `recursos/sonido.md`. Lo verificado aquí
-  > sigue en pie: la tracklist, las duraciones y los idiomas.
+  > manda ahora está en `guion/escaleta.md`: 01 sin música asignada, 02 «Está bien», 03 sin
+  > música (audio de diálogo), 04 «Lo llaman vida», 05 «On s'en fout», 06 «La Reina», 07 «La
+  > puerta», 08 «Ser artista», 09 «Vuela», 10 «Seica», 11 «Avivas el fuego» → «Está bien». Su
+  > tabla de cues está en `recursos/sonido.md`. Lo verificado aquí sigue en pie: la tracklist,
+  > las duraciones y los idiomas.
 - **«Seica» está en gallego** (9 de 9 es la única del disco en otro idioma). «On s'en fout» está
   en francés. El resto, en español.
-- **«Avivas el fuego» es la pista más larga del disco** (6:41) y ocupa la escena 03 entera,
-  que es una sola imagen. Es el mayor bloque de tiempo musical de la obra: condiciona el
-  ritmo y la duración total.
+- **«Avivas el fuego» es la pista más larga del disco** (6:41). Ocupa el primer movimiento de
+  la escena 11, que es casi todo imagen y sonido. Es el mayor bloque de tiempo musical de la
+  obra: condiciona el ritmo y la duración total. `TODO(preguntar)` si se corta o si dura
+  entera.
 
 ## Sin verificar
 
@@ -110,7 +112,8 @@ Estas escenas parecen construirse sobre material existente. No hay fuente para n
 son un problema de derechos por separado del de la música:
 
 - Escena 02 — fragmento de *Alicia* de Tim Burton.
-- Escena 03 — vídeo de «Avivas el fuego» (imagen del feto rojo, capas, *pac-man*).
+- Escena 11 — vídeo de «Avivas el fuego» (imagen del feto rojo, capas, *pac-man*). Es la
+  escena que antes era la 01.
 - Escena 05 — imágenes de Gaza destruida y de personas desplazadas. **Cuidado con el
   tratamiento**: hay que decidir qué se muestra exactamente y con qué criterio. Ver
   `recursos/produccion.md` y el `TODO(preguntar)` de la escena.

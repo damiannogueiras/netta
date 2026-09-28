@@ -10,6 +10,10 @@
 
 **El aviador barre antes de entrar.** Él es el que nos mete en el mundo fantástico, y lo primero que hace es negarse a hablar. Al aviador no le soporta el discurso: por eso dispara. A un tiro al blanco, y a cada tiro le lanza un **huevo a las formas de discurso vacío** —la queja, la crítica, el juicio—, que es lo único que no puede permitirse llevar dentro. **Las formas no tienen nombre.** No representan a nadie concreto: es un discurso que suena a todos y a nadie, y por eso funciona con cualquiera.
 
+**El tiro es a la vez un baile.** El aviador **sigue el ritmo de la música** mientras dispara: es su rutina entera, disparar y hacer ballet, en un solo movimiento. `>> ♪ «On s'en fout» (p. 03)`
+
+**La niña le dispara un corazón.** Es la única vez que la escena no la lleva él solo, y es la única munición que él no devuelve: **son aliados.** La niña es la creatividad, y lo que le dispara no es un huevo —algo que se rompe— sino un corazón.
+
 ## Por qué está aquí
 
 El tiro tiene una condición: **no se puede entrar en el viaje sin haber acabado con ese discurso.** Hay que disparar todas las formas para poder iniciar la recuperación del niño dañado. Los huevos que quedan enteros son el aviso: si algo no se rompe, el viaje no arranca.
@@ -27,3 +31,5 @@ _( vacío — la escena está en `idea` )_
 - Qué son físicamente esas formas —máscaras, globos, marionetas, siluetas— y cuántas hay.
 - ¿El tiro al blanco está dentro o fuera de la furgoneta?
 - ¿Sobrevive el nacimiento de la niña del diseño antiguo?
+- **El ballet.** Sigue el ritmo de la música: ¿el ritmo se oye en la pista tal cual, o hay que medirlo aparte?
+- **El corazón de la niña.** ¿Entra en escena aquí, o es una voz o una mano? ¿Y por qué el corazón es lo único que él no devuelve?

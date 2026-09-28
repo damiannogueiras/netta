@@ -23,6 +23,13 @@
 
 **Un Set, un operador, un Launch por cue.** Decidido por el autor (2026-09-27).
 
+> **Ableton Live 12.** Confirmado por el autor (2026-09-27). Importa porque los nombres de
+> los dispositivos han cambiado entre versiones, y lo que se escriba aquí tiene que existir en
+> la versión con la que se va a construir.
+>
+> `TODO(preguntar):` con qué superficie de control se opera en escena (teclado, Push, otra).
+> Cambia el key mapping entero.
+
 ### Cómo se dispara
 
 Cada cue es una escena de Launch en Session View, y lo lanza quien opera siguiendo la
@@ -110,6 +117,12 @@ El primer sound design de la obra, y el que fija el patrón de todos los demás.
   el principio, para que el corazón no esté solo en el mundo (decidido por el autor,
   2026-09-27).
 
+> **En revisión.** El autor ha pedido un latido sintetizado en MIDI a un modelo que controla
+> Live por MCP, con carácter de estetoscopio y resonancia de caverna, para verlo y oírlo antes
+> de decidir. Si ese latido sustituye al bombo, cambia lo de abajo: se pierde la sincronía
+> automática con la pista (ver `TODO` del tempo) y el cue `S-01` pasa a ser un instrumento, no
+> un filtro. Decisión pendiente.
+
 ### Lo que se deduce de esas dos decisiones
 
 **El latido no es un efecto: es la pista, con todo tapado menos el bombo.** Si el material es
@@ -172,7 +185,7 @@ Los pasos 1 y 3 son de este canal. El 2 necesita material.
 
 - **El tempo de «Avivas el fuego» y en qué segundo entra el primer bombo.** Es lo que
   bloquea la construcción del latido (escenas 01 y 11, «El latido» más arriba). No está en
-  `investigacion/referencias.md`.
+  `investigacion/referencias.md`. **120 es un valor de trabajo, no el tempo de la obra.**
 - **De dónde sale el ruido de sala**, y **qué se oye debajo de la sala**: ruido de sala de
   verdad (una calle, un hangar, un sitio reconocible) o solo aire. De eso depende si la escena
   01 tiene sitio o tiene mundo. En Live sería un clip en bucle con loop fade largo, para que el

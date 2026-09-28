@@ -1,27 +1,78 @@
 # 01. El latido
 
-> **Estado:** `idea` — sin texto. Una escena se escribe aquí cuando pasa a `revisada`
-> en `guion/escaleta.md`, no antes.
+> **Estado:** `boceto` — primer texto de la obra. En revisión con el autor.
 > 
 > **Acto:** I — La caída  
 > **Música:** «Avivas el fuego» (p. 02)
 
 ## Qué ocurre
 
-Apertura sobre el sonido del corazón. La imagen roja de un feto en el vientre, que brilla al ritmo de los latidos, en las profundidades. La cámara se cierra en un círculo y sube por varias capas —una *pac-man* escapando de los fantasmas y buscando las cerezas— hasta la superficie: un paisaje árido, árboles secos y angulosos. **La energía los hace brotar.** La cámara vuelve a las profundidades, a la imagen roja: es ella la que aviva el fuego, es ella la que da la vida. Nadie habla todavía.
+**Solo el corazón. Nada más.**
+
+Negro. Un latido. Un corazón latiendo, y nada alrededor: no hay vientre, no hay imagen roja, no
+hay pasillo, no hay paisaje, no hay objetos. **La escena entera es un corazón solo sonando, y lo
+único que pasa es que late.**
+
+Es la imagen más desnuda de la obra, y a propósito: no hay nada que contar todavía. Lo único que
+existe antes de la vida es el latido, y la obra entera es lo que le pasa después.
 
 ## Por qué está aquí
 
-**No es el principio de la historia, es el principio de la vida.** Lo que viene después es todo lo que le pasa a ese latido.
+Es el espejo de la escena 11, y el espejo va invertido:
+
+```
+01 — el corazón, y nada más
+11 — el mismo corazón, y todo lo que creció alrededor
+```
+
+No son un calco el uno del otro: es la misma causa en dos momentos. En la 01 el latido está
+**vacío**, solo. En la 11 el latido es **exactamente el mismo**, y ya tiene encima las capas, el
+pasillo, la *pac-man*, los fantasmas, la superficie y el paisaje entero brotando. El corazón no
+ha cambiado. Lo que cambió es lo que hay alrededor, y eso es lo único que la obra intenta hacer.
+
+Por eso la tesis necesita un final que no sea un espejo literal: si volviéramos literalmente al
+principio, el viaje no habría pasado nada.
 
 ## Se repite en
 
-El latido del corazón que abre la obra y que vuelve en la escena 11. Cierra el círculo.
+- **El latido del corazón** — es el elemento que comparte con la 11, y el único que suena dos
+  veces en toda la obra.
+- **«Avivas el fuego»** — primera vez aquí, segunda vez en la 11.
 
 ## Texto
 
-_( vacío — la escena está en `idea` )_
+**negro**
+
+>> [S-01] un latido. Muy cerca, como si fuera dentro de un cuerpo
+
+**un corazón**
+
+(latiendo)
+
+**un corazón**
+
+(latiendo)
+
+(nada más. no hay nada más)
+
+>> ♪ «Avivas el fuego» (p. 02)
+
+**el corazón**
+
+(sigue. es el mismo latido que al final de la obra)
 
 ## TODO(preguntar)
 
-- —
+- **¿Dónde entra la pista?** El texto la pone en el primer latido. Como la escena es casi solo
+  una imagen y un sonido, casi todo el trabajo lo hace la canción: la duración son 6:41
+  (`investigacion/referencias.md`) y la escena puede durarla entera o cortarse. `TODO(preguntar)`
+- **¿Cómo se ve el corazón?** ¿Es una imagen, una proyección, un objeto manipulado, una
+  pantalla? Al ser la escena más simple de la obra, aquí es donde se decide si la obra se ve o
+  se manipula. `TODO(preguntar)`
+- **El cue `S-01`.** El latido de esta escena y el de la 11 son el mismo sonido, y por lo tanto
+  **dos cues distintos** (`AGENTS.md`): `S-01` aquí y otro en la 11. No está en
+  `recursos/sonido.md`: eso va cuando empiece el trabajo de sonido.
+- **¿El latido suena toda la escena o solo al principio?** `TODO(preguntar)`
+- **¿Habla el narrador aquí?** En la 11 no habla nadie, y las dos son el mismo material. Si
+  calla en la 11, lo coherente es que calle aquí también — pero el titiritero es el narrador y
+  este es el principio de la obra, que es justo donde más tentador sería. `TODO(preguntar)`

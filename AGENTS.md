@@ -60,7 +60,8 @@ netta/
 │       ├── 08-la-nina-triste-y-el-ventilador.md
 │       ├── 09-la-senal.md
 │       ├── 10-lo-ancestral.md
-│       └── 11-el-final.md
+│       ├── 11-el-fuego.md
+│       └── 12-cuerda-floja.md
 ├── recursos/
 │   ├── sonido.md                  todo el sonido de la obra, en Ableton Live
 │   ├── fichas.md                  personajes, objetos y títeres uno a uno
@@ -119,7 +120,7 @@ netta/
 
 ## Un fichero por escena
 
-**El libreto son once ficheros, uno por escena, no uno con once escenas dentro.** Decidido por
+**El libreto son doce ficheros, uno por escena, no uno con doce escenas dentro.** Decidido por
 el autor (2026-09-27). El motivo es que la unidad de trabajo del proyecto ya es la escena: una
 sesión trabaja una escena, y con el libreto partido eso es literalmente un fichero.
 

@@ -4,7 +4,9 @@
 > que se actualiza.
 > **Estados:** `idea` → `boceto` → `revisada` → `cerrada`. El libreto de cada escena
 > (`guion/libreto/NN-nombre.md`) se escribe cuando la escena está `revisada`, no antes.
-> **Once escenas en tres actos (4 + 4 + 3).** La historia no es de la banda: es de cualquiera.
+> **Doce escenas en tres actos (4 + 4 + 4).** La historia no es de la banda: es de cualquiera.
+> **2026-09-27:** el autor parte el final en dos escenas —11 «Avivas el fuego» y 12 «Está bien»—
+> y restaura el espejo con el principio. El reparto de actos pasa de 4+4+3 a 4+4+4.
 > Canciones y duraciones: `investigacion/referencias.md`. Tesis y orden: `guion/sinopsis.md`.
 
 ## La tesis en una línea
@@ -14,13 +16,26 @@ aceptarlo, no perdonarlo ni olvidarlo.
 
 ## La forma
 
-La obra **se cierra donde se abre**: las dos canciones del arranque son las dos del final, y
-los niños de la escena 02 son los mismos que vuelven a aparecer en la 11.
+**La obra se cierra donde se abre.** Cuatro escenas en espejo, dos parejas, y las dos parejas
+son las dos parejas de canciones del disco:
 
-| | Principio | Final |
-|---|---|---|
-| «Avivas el fuego» | El latido, antes de la vida. | El latido vuelve: el mundo florece. |
-| «Está bien» | Niños solos, llorando, rotos. | Los mismos niños, jugando y cantando. |
+| | Principio | Final | |
+|---|---|---|---|
+| **«Avivas el fuego»** | **01** — el corazón solo, sin nada alrededor. | **11** — el mismo corazón, y todo lo que creció alrededor. | 01 ↔ 11 |
+| **«Está bien»** | **02** — niños solos, llorando, rotos, proyectados. | **12** — niños disfrazados, en charcos, jugando. | 02 ↔ 12 |
+
+**El espejo va invertido en las dos parejas.** En la 01 el latido está vacío y en la 11 tiene
+encima el mundo entero: el corazón no ha cambiado, cambió lo que hay alrededor. En la 02 los
+niños están rotos y solos y en la 12 están disfrazados y en charcos: siguen siendo niños, y
+ahora hay juego.
+
+> **Por qué el final no es un calco.** Si la obra volviera literalmente al principio, el viaje no
+> habría pasado nada. La tesis es *no volver al niño que eras, sino querer al niño que te
+> hicieron*: el latido es el mismo, pero alrededor ha cambiado. Eso es lo que hace el espejo
+> invertido.
+
+**Y el final no es tranquilo.** La 12 termina con una niña en una cuerda floja, que recoge la
+inestabilidad y el juego. Termina en otra cosa que en paz.
 
 ## Los tres actos
 
@@ -28,7 +43,11 @@ los niños de la escena 02 son los mismos que vuelven a aparecer en la 11.
 |---|---|---|---|
 | **I — La caída** | 01–04 | Lo que se rompió, la sentencia, la rutina. | El empujón del aviador: la furgoneta cambia de color y empieza el viaje del héroe. |
 | **II — La excavación** | 05–08 | Ir de fuera hacia dentro: se quita el discurso vacío (05), se mira la guerra interna (06), se acepta la parte dañada (08). | La niña en brazos, metida en un huevo nuevo. |
-| **III — El regreso** | 09–11 | Se puede volar, se escucha lo ancestral, vuelve el latido. | — (cierre) |
+| **III — El regreso** | 09–12 | Se puede volar, se escucha lo ancestral, vuelve el latido (11) y vuelve el juego (12). | — (cierre) |
+
+> **4 + 4 + 4, no 4 + 4 + 3.** El tercer acto tenía tres escenas hasta el 2026-09-27, cuando el
+> autor partió el final en dos. `TODO(preguntar)` los dos actos siguientes ya estaban decididos
+> por los cortes, así que el cambio cae entero en el tercero.
 
 ## Las escenas
 
@@ -36,9 +55,9 @@ los niños de la escena 02 son los mismos que vuelven a aparecer en la 11.
 
 | # | Escena | Qué ocurre | Música | Estado |
 |---|---|---|---|---|
-| 01 | El latido | Apertura sobre el sonido del corazón. El feto rojo en las profundidades, la cámara sube por capas hasta la superficie árida y la energía los hace brotar. Nadie habla. | «Avivas el fuego» (p. 02) | `idea` |
-| 02 | La infancia | Fotos de niños proyectadas: **solos, llorando, rotos**. Son los miedos y los traumas con cara de niño. Estas fotos son las que volverán en la 11. | «Está bien» (p. 05) | `idea` |
-| 03 | El Sombrerero | El profesor saca del huevo un televisor. Lo que suena es **un audio: la conversación entre el Sombrerero y Alicia**, y en algún momento el Sombrerero les dice que han perdido la «muchedad». La escena es la conversación, no una imagen. `TODO(preguntar):` el texto del diálogo no está escrito. | — | **Sin música:** audio de diálogo | `idea` |
+| 01 | El latido | **Solo el corazón. Nada más.** Ni vientre, ni imagen roja, ni paisaje, ni objetos. La escena entera es un latido y ya está. **Es el espejo de la 11**, que es este mismo corazón con todo lo que creció alrededor. | «Avivas el fuego» (p. 02) | `boceto` |
+| 02 | La infancia | **Proyección de fotos de niños: solos, llorando, rotos.** Los miedos y los traumas con cara de niño, con **«Está bien» de fondo**, sin nada que les pase más que estar ahí. **Es el espejo de la 12.** | «Está bien» (p. 05) | `idea` |
+| 03 | El Sombrerero | El profesor saca del huevo un televisor. Lo que suena es **un audio: la conversación entre el Sombrerero y Alicia**, y en algún momento el Sombrerero les dice que han perdido la «muchedad». La escena es la conversación, no una imagen. `TODO(preguntar):` el texto del diálogo no está escrito. | **Sin música:** audio de diálogo | `idea` |
 | 04 | La rutina en bucle | La finca, el aguacatero, el contenedor, el cartel pintarrajeado. El tramo se repite hacia atrás con efecto VHS. **Al final, el aviador empuja la furgoneta y empieza el viaje del héroe.** | «Lo llaman vida» (p. 07) | `idea` |
 
 ### Acto II — La excavación
@@ -52,38 +71,41 @@ los niños de la escena 02 son los mismos que vuelven a aparecer en la 11.
 
 ### Acto III — El regreso
 
-Del 09 al 11 el orden está cerrado: cada escena da un peldaño más que la anterior.
+Del 09 al 12 el orden está cerrado: cada escena da un peldaño más que la anterior.
 
 | # | Escena | Qué ocurre | Peldaño | Música | Estado |
 |---|---|---|---|---|---|
 | 09 | La señal | Un pato real se levanta del nido. Un televisor con alas vuela mostrando un videoclip de concierto y se posa en un árbol. Nueve huevos en el paisaje. | Empezamos a encontrarnos: podemos volar. | «Vuela» (p. 06) | `idea` |
 | 10 | Lo ancestral | El huevo entre nubes grises con formas de animales gallegos. Relámpagos y truenos, pero no llueve. | El contacto con lo ancestral, con la cultura gallega. El poder del bosque, la lluvia. | «Seica» (p. 09) | `idea` |
-| 11 | El final | **«Avivas el fuego»:** el contacto con lo más profundo, el yo creativo que hace florecer el mundo. Vuelve el latido. Luego **«Está bien»:** la sanación, aceptando el dolor del daño causado. Vuelven los niños del principio, ahora jugando y cantando. *Eso está bien.* | Ya no eres el niño que eras: quieres al niño que te hicieron. | «Avivas el fuego» (p. 02) → «Está bien» (p. 05) | `idea` |
+| 11 | [título sin decidir] | **«Avivas el fuego»:** el latido vuelve —el mismo de la 01— con todo lo que creció alrededor. Las profundidades, un feto rojo, el círculo que se cierra y revela una *pac-man* huyendo de los fantasmas, la superficie árida, **un árbol que brota** y luego los demás. Nadie habla. | El latido no ha cambiado: cambió el mundo. | «Avivas el fuego» (p. 02) | `boceto` |
+| 12 | La cuerda floja | **«Está bien»:** la niña camina por una cuerda floja y **recoge la inestabilidad** y el juego. Vuelven las fotos de la 02, pero **niños disfrazados, en charcos**, jugando. *Eso está bien.* | Terminar con inestabilidad y juego, no con calma. | «Está bien» (p. 05) | `idea` — sin construcción |
 
 ## Orden de la música
 
-**El orden de escena no es el orden del disco.** Es dramaturgia, no tracklist.
+**El orden de escena no es el orden del disco.** Es dramaturgia, no tracklist. Y ahora además
+**el disco se abre y se cierra con las mismas dos canciones**, en espejo:
 
 ```
-escena:  01     02      03   04     05     06     07  08  09  10  11
-pista:   02     05      —   07     03     04     08  01  06  09  02 → 05
-         Avivas Está    Som- Lo lla- On s'   La     La  Ser Vuel Sei Avivas
-         el fuego bien  brero  man  en      puer   artis cha cha (→ Está
-                                      fout                   bien)
+escena: 01    02    03    04    05    06    07    08    09    10    11    12
+pista:  02    05    —     07    03    04    08    01    06    09    02    05
 ```
 
-**Las nueve pistas quedan colocadas.** La escena 03 no usa ninguna: suena un audio de
-conversación entre el Sombrerero y Alicia. Es la única vez que en la obra no hay música, y llega
-justo donde está la sentencia.
+- La 03 no usa disco: suena un **audio de diálogo** entre el Sombrerero y Alicia, y es la única
+  vez que en la obra no hay música. Llega justo donde está la sentencia.
+- Las **nueve pistas** quedan colocadas: la p. 02 abre y cierra (01, 11), la p. 05 abre y cierra
+  (02, 12).
 
 ## Estado
 
-- Sin escenas cerradas.
-- Sin escenas `revisada`: **el libreto no se puede escribir todavía.** Los once ficheros de
-  `guion/libreto/` existen con su estructura y su cabecera, pero el texto está vacío. Cada escena necesita
-  decidir sus títeres, su manipulación y su momento musical (`recursos/escena.md`,
-  `recursos/sonido.md`, `recursos/fichas.md` — ninguno escrito).
-- Las once escenas tienen el tema decidido por el autor, pero siguen en `idea` porque no
+- **Doce escenas.** Dos en `boceto`: la **01** (el corazón solo) y la **11** («Avivas el fuego»).
+  Ver `guion/libreto/01-el-latido.md` y `guion/libreto/11-el-fuego.md`.
+- **La 12 está construida pero vacía.** El tema está cerrado por el autor; el texto no.
+- Sin escenas `revisada` y sin escenas cerradas.
+- **El texto del narrador no existe.** El titiritero es también el narrador y habla en frases
+  muy cortas (`recursos/fichas.md`). Es lo que más bloquea la obra.
+- Los doce ficheros de `guion/libreto/` existen con su estructura y su cabecera, pero solo dos
+  tienen texto. Cada escena necesita decidir sus títeres, su manipulación y su momento musical.
+- Las doce escenas tienen el tema decidido por el autor, pero casi todas siguen en `idea` porque no
   tienen reparto ni manipulación.
 - **05 y 06 tienen tema pero no construcción.** Falta decidir qué se ve en ellas.
 
@@ -117,9 +139,9 @@ justo donde está la sentencia.
   diálogo no existe todavía, y sin diálogo no se puede representar.
 - **El bucle de la escena 04.** ¿Cuántas veces se repite el tramo con efecto VHS? ¿Se ve a
   alguien repitiendo o solo la furgoneta?
-- **Origen de las imágenes.** Escenas 01, 03, 08, 09, 10 usan material existente (el vídeo de
-  «Avivas el fuego», *Alicia* de Tim Burton, la luna de Méliès, el nido real, el bosque
-  gallego, el videoclip). De dónde sale y si se puede usar está sin resolver; inventariado en
+- **Origen de las imágenes.** Las escenas 03, 08, 09, 10 y 11 usan material existente (el vídeo
+  de «Avivas el fuego», *Alicia* de Tim Burton, la luna de Méliès, el nido real, el bosque
+  gallego, el videoclip). La 01 ya no usa material existente: está vacía. De dónde sale y si se puede usar está sin resolver; inventariado en
   `investigacion/referencias.md`. Afecta a `recursos/produccion.md`.
 - **Interludio o no.** ¿Hay algún momento de silencio (sin disco) que funcione como respiración,
   o la música es continua de principio a fin?
