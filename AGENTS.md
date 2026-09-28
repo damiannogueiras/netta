@@ -141,14 +141,21 @@ proyecto normal: son las de un proyecto con otro agent al lado.
 ### Un árbol, una sesión escribiendo
 
 Los ficheros compartidos —`guion/escaleta.md`, `guion/sinopsis.md`, `recursos/sonido.md`,
-`investigacion/referencias.md`, este `AGENTS.md`— los escribe **cualquier** sesión. Son el
-índice de la obra, así que no son negociables: si dos sesiones los tocan a la vez, una pisa a
-la otra y ninguna sabe qué se ha perdido.
+`recursos/fichas.md`, `investigacion/referencias.md`, este `AGENTS.md`— los escribe
+**cualquier** sesión. Son el índice de la obra, así que no son negociables: si dos sesiones los
+tocan a la vez, una pisa a la otra y ninguna sabe qué se ha perdido.
 
-- **Se trabaja de una en una.** Una sesión escribiendo, la otra pensando o leyendo.
-- Si de verdad hacen falta dos a la vez, cada una en su worktree (`kimaki send --worktree
-  escena-12`) y luego se fusiona a mano. Cuesta más de lo que parece: `escaleta.md` y
-  `sinopsis.md` dan conflicto siempre.
+- **Se trabaja de una en una.** Decidido por el autor (2026-09-28). Una sesión escribiendo, la
+  otra pensando o leyendo. La escena N depende del estado que dejó la N-1, así que el
+  paralelismo no ahorra casi nada y sí cuesta.
+- **Antes de escribir un fichero compartido, mira quién lo escribió:**
+  ```bash
+  kimaki session editors guion/escaleta.md
+  ```
+  Si fue hace nada, esa sesión sigue trabajando en él. Se espera.
+- El worktree (`kimaki send --worktree escena-12`) queda como recurso de emergencia, no como
+  forma normal de trabajar: `escaleta.md` y `sinopsis.md` dan conflicto siempre y hay que
+  fusionar a mano.
 
 ## Convenciones
 
