@@ -3,7 +3,8 @@
 > **Índice y estado de avance.** Una línea por escena. Es lo primero que se lee y lo primero
 > que se actualiza.
 > **Estados:** `idea` → `boceto` → `revisada` → `cerrada`. El libreto de cada escena
-> (`guion/libreto/NN-nombre.md`) se escribe cuando la escena está `revisada`, no antes.
+> (`guion/libreto/NN-nombre.md`) se escribe **antes**: es lo que hace pasar a la escena por `idea`
+> y `boceto`. `revisada` quiere decir que el texto está y ya no se toca.
 > **Doce escenas en tres actos (4 + 4 + 4).** La historia no es de la banda: es de cualquiera.
 > **2026-09-27:** el autor parte el final en dos escenas —11 «Avivas el fuego» y 12 «Está bien»—
 > y restaura el espejo con el principio. El reparto de actos pasa de 4+4+3 a 4+4+4.
