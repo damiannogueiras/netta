@@ -79,8 +79,9 @@ netta/
   estado. Es lo primero que se lee y lo primero que se actualiza. Una escena pasa por:
   `idea` → `boceto` → `revisada` → `cerrada`.
 - **`guion/libreto/`** — el texto en sí, con las acotaciones, **un fichero por escena**
-  (`NN-nombre.md`, dos dígitos, minúsculas, guiones). Se escribe cuando la escena ya está
-  `revisada` en la escaleta; no se escribe a la vez. Ver «Un fichero por escena» más abajo.
+  (`NN-nombre.md`, dos dígitos, minúsculas, guiones). El texto se escribe **antes** de que la
+  escena esté `revisada`: es lo que la hace pasar por `idea` y `boceto`. `revisada` quiere decir
+  que el texto está y ya no se toca. Ver «El protocolo: `revisada` es la puerta».
 - **`recursos/sonido.md`** — todo el sonido de la obra. La música del disco (qué pista en qué
   momento y por qué suena ahí) **y los efectos sonoros**, con la descripción de cómo se hacen
   en Ableton Live. Ver «El sonido» más abajo.
@@ -268,9 +269,11 @@ coge el siguiente número libre.
 - Los ficheros del libreto se llaman `NN-nombre.md`, con el número de escena delante:
   `05-el-tiro-al-blanco.md`. El número no se reutiliza ni se renumera.
 - Las acotaciones van entre paréntesis: `(el pato gira la cabeza hacia el público)`.
-- Los cambios de sonido se marcan con `>>` y los de luz con `**`: `>> un alaseteo`. Los
-  efectos llevan su número de cue y la música su número de pista:
-  `>> [S-07] un alaseteo`, `>> ♪ «Vuela» (p. 06)`.
+- Los cambios de sonido se marcan con `>>` y los de luz con `**`: `>> un alaseteo`. La música
+  lleva su número de pista, que es fijo y sí se escribe: `>> ♪ «Vuela» (p. 06)`.
+  **Los efectos no llevan número en el libreto.** El `>>` va con el nombre del sonido tal como lo
+  oye el público; el `S-nn` se asigna al pasar la escena a `revisada` y vive solo en
+  `recursos/sonido.md`. Ver «Las cues».
 - Las preguntas abiertas se dejan como `TODO:` al final del fichero, no interrumpen el texto.
 
 ## Un fichero por escena
@@ -326,21 +329,25 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
 
 ### Las cues
 
-- **Un cue es un sonido con nombre.** Tiene un identificador corto y estable que se puede
-  escribir en el libreto y buscar con `grep`.
+- **Un cue es un sonido con nombre.** Tiene un identificador corto y estable para poder buscarlo.
+  **El `S-nn` solo existe en `recursos/sonido.md`.** No se escribe en el libreto: lo asigna
+  Ableton al pasar la escena a `revisada`, y desde ese momento vive en un solo sitio y no puede
+  desincronizarse. En el libreto va el nombre del sonido tal como lo oye el público.
 - **Dos series, porque son dos cosas distintas:**
   - `P-nn` — las nueve pistas del disco, con su número de pista del disco (`P-02` es
     «Avivas el fuego», la 2 del disco). Es el mismo número que usan `guion/escaleta.md` y
-    `investigacion/referencias.md`, así que no hay que traducir.
+    `investigacion/referencias.md`, así que no hay que traducir. **Este sí va en el libreto**,
+    porque es fijo y está desde el primer día: `>> ♪ «Vuela» (p. 06)`.
   - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
     `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
     no su posición en la obra.
 - **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.
-- **El mismo efecto puede sonar en varias escenas con cues distintas** (`S-01` y `S-14` son el
+- **El mismo efecto puede sonar en varias escenas con cues distintas** (`S-01` y `S-14` serán el
   mismo latido, uno en la escena 01 y otro en la 11). Lo que se repite es el sonido; el cue es
-  una ocurrencia concreta.
+  una ocurrencia concreta. Los dos números de ese ejemplo **todavía no existen**: son los que
+  saldrían cuando esas dos escenas pasen la puerta, y el 11 será el segundo.
 
   El latido es el caso límite: **mismo archivo, misma cadena, mismo ajuste**, lanzado dos veces
   en la obra. No hay dos tratamientos del mismo sonido —lo que cambia entre la 01 y la 11 es
