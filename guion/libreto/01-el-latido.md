@@ -49,16 +49,10 @@ encima. `recursos/sonido.md` lo implementa.
 
 ## Texto
 
-> **El número de este cue no es definitivo.** La numeración `S-nn` la fija la puerta —el orden
-> en que las escenas llegan a `revisada`—, no el orden en que se escriben (`AGENTS.md`). El
-> `S-01` y el `S-14` que hay aquí se asignaron antes de que existiera la puerta, y ya están
-> construidos en `recursos/sonido.md`. **Se quedan como están mientras esta escena no llegue a
-> `revisada`**, y en ese momento se confirma o se corrigen. `TODO(preguntar)`
-
 
 **negro**
 
->> [S-01] un latido. Muy cerca, como si fuera dentro de un cuerpo
+>> un latido. Muy cerca, como si fuera dentro de un cuerpo
 
 **un corazón**
 
@@ -86,13 +80,16 @@ encima. `recursos/sonido.md` lo implementa.
 - **¿Cómo se ve el corazón?** ¿Es una imagen, una proyección, un objeto manipulado, una
   pantalla? Al ser la escena más simple de la obra, aquí es donde se decide si la obra se ve o
   se manipula. `TODO(preguntar)`
-- **El cue `S-01`.** Ya está en `recursos/sonido.md` (2026-09-28). Es el **latido solo, en el
-  negro, antes de que entre la pista**, y la pista lo sustituye: no es una capa, no suena debajo
-  de la música. La fuente está **sin decidir** —el latido sintetizado en MIDI o el bombo de
-  «Avivas el fuego»—, así que eso sigue abierto.
-  El mismo archivo, la misma cadena y el mismo ajuste que el `S-14` de la 11: **un solo latido en
-  toda la obra, dos ocurrencias**, y en las dos el latido acaba dentro de la canción. El libreto
-  dice «muy cerca, como si fuera dentro de un cuerpo»: cuerpo, no catedral. Cola corta.
+- **El latido.** Es el **latido solo, en el negro, antes de que entre la pista**, y la pista lo
+  sustituye: no es una capa, no suena debajo de la música. La fuente la decidió Ableton
+  (2026-09-28): **el latido sintetizado en MIDI**, corto, con **cola de reverberación de 5-7 s** —
+  «cuerpo, no caverna», que es lo que dice el libreto.
+  El mismo archivo, la misma cadena y el mismo ajuste que el de la 11: **un solo latido en toda
+  la obra, dos ocurrencias**, y en las dos el latido acaba dentro de la canción.
+- **El número de cue, que aquí no está.** En el libreto va el **nombre** del sonido, tal como lo
+  oye el público, y **el número lo asigna Ableton** cuando la escena llega a `revisada`, en el
+  orden en que las escenas van pasando la puerta (`AGENTS.md`). Va en el `>> [S-nn]` solo
+  después de que Ableton lo haya escrito en `recursos/sonido.md`. `TODO(preguntar)`
 - **¿Habla el narrador aquí?** En la 11 no habla nadie, y las dos son el mismo material. Si
   calla en la 11, lo coherente es que calle aquí también — pero el titiritero es el narrador y
   este es el principio de la obra, que es justo donde más tentador sería. `TODO(preguntar)`

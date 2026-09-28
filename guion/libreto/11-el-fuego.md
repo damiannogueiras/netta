@@ -73,16 +73,10 @@ decirlo.
 
 ## Texto
 
-> **El número de este cue no es definitivo.** La numeración `S-nn` la fija la puerta —el orden
-> en que las escenas llegan a `revisada`—, no el orden en que se escriben (`AGENTS.md`). El
-> `S-01` y el `S-14` que hay aquí se asignaron antes de que existiera la puerta, y ya están
-> construidos en `recursos/sonido.md`. **Se quedan como están mientras esta escena no llegue a
-> `revisada`**, y en ese momento se confirma o se corrigen. `TODO(preguntar)`
-
 
 **negro**
 
->> [S-14] un latido. Muy cerca, como si fuera dentro de un cuerpo
+>> un latido. Muy cerca, como si fuera dentro de un cuerpo
 
 **un corazón**
 
@@ -125,11 +119,14 @@ decirlo.
 ## TODO(preguntar)
 
 - **El título.** Provisional. `TODO(preguntar)`
-- **El cue `S-14`.** El segundo latido de la obra. **Mismo sonido, misma cadena, mismo ajuste que
-  el `S-01`** — la sesión de Ableton lo confirmó así y no hay un segundo tratamiento. Son dos cues
-  porque son **dos ocurrencias distintas del mismo sonido** en dos escenas distintas, que es el
-  caso límite que explica `AGENTS.md`: es el único elemento de la obra que suena dos veces.
+- **El latido.** El segundo latido de la obra. **Mismo sonido, misma cadena y mismo ajuste que
+  el de la 01** — la sesión de Ableton lo confirmó así y no hay un segundo tratamiento. Son dos
+  cues porque son **dos ocurrencias distintas del mismo sonido** en dos escenas distintas, que es
+  el caso límite que explica `AGENTS.md`: es el único elemento de la obra que suena dos veces.
   Implementación en `recursos/sonido.md`.
+- **El número de cue, que aquí no está.** Por lo mismo que en la 01: el número lo asigna Ableton
+  al pasar la puerta, no en el orden de la obra. Por eso en el libreto **no hay ningún `S-nn`**:
+  escribirlos aquí suponía que las escenas llegan a `revisada` en orden, y no es así. `TODO(preguntar)`
 - **¿El cuerpo crece en la 11?** Pregunta real, de Ableton (2026-09-28), **sin respuesta del
   autor**: el latido se oye solo en el silencio de antes de la pista, y en la 11 ese mismo latido
   tiene delante un paisaje. ¿Basta con eso, o quieres que el sonido **sí** cambie en la 11 —cola
