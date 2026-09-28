@@ -63,7 +63,7 @@ netta/
 │       ├── 11-el-fuego.md
 │       └── 12-cuerda-floja.md
 ├── recursos/
-│   ├── sonido.md                  todo el sonido de la obra, en Ableton Live
+│   ├── audiovideo.md              todo el sonido y el vídeo de la obra, desde Ableton Live
 │   ├── fichas.md                  personajes, objetos y títeres uno a uno
 │   ├── escena.md                  puesta en escena, manipulación, técnica
 │   └── produccion.md              calendario, presupuesto, derechos
@@ -93,9 +93,10 @@ opencode (los sub-agentes, sus permisos). Va de **Datos**, como el resto de la e
   (`NN-nombre.md`, dos dígitos, minúsculas, guiones). El texto se escribe **antes** de que la
   escena esté `revisada`: es lo que la hace pasar por `idea` y `boceto`. `revisada` quiere decir
   que el texto está y ya no se toca. Ver «El protocolo: `revisada` es la puerta».
-- **`recursos/sonido.md`** — todo el sonido de la obra. La música del disco (qué pista en qué
-  momento y por qué suena ahí) **y los efectos sonoros**, con la descripción de cómo se hacen
-  en Ableton Live. Ver «El sonido» más abajo.
+- **`recursos/audiovideo.md`** — todo el sonido y el vídeo de la obra. La música del disco (qué
+  pista en qué momento y por qué suena ahí), **los efectos sonoros** y **las proyecciones de
+  vídeo**, con la descripción de cómo se hacen en Ableton Live. Ver «El sonido y el vídeo» más
+  abajo.
 - **`recursos/fichas.md`** — una entrada por personaje, objeto o títere: qué es, qué quiere,
   cómo se manipula, de qué está hecho.
 - **`recursos/escena.md`** — espacio, ritmo, transiciones, cómo se ve lo que no se oye y al
@@ -171,8 +172,8 @@ dices aquí**, pero no lo escribes.
 | Sesión | Escribe | No toca |
 |---|---|---|
 | **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/libreto/` | `recursos/`, `investigacion/` |
-| **Ableton** | `recursos/sonido.md` — disco, efectos, cues, el Set de Live | `guion/`, `investigacion/`, `AGENTS.md` |
-| **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, la estructura del proyecto (`README.md`) y la configuración de opencode (`.opencode/`) | `guion/`, `recursos/sonido.md` |
+| **Ableton** | `recursos/audiovideo.md` — disco, efectos, cues, el Set de Live, la red de TouchDesigner | `guion/`, `investigacion/`, `AGENTS.md` |
+| **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, la estructura del proyecto (`README.md`) y la configuración de opencode (`.opencode/`) | `guion/`, `recursos/audiovideo.md` |
 
 Lo que **no** está repartido y sigue sin dueño: `recursos/escena.md` (puesta en escena) y
 `recursos/produccion.md` (calendario, presupuesto, derechos). Hasta que se decida, son de quien
@@ -217,7 +218,7 @@ Ableton.
 - La sesión de Guion **nombra** el sonido dramáticamente, como lo oye el público: `>> un
   alaseteo`, `>> ♪ «Vuela» (p. 06)`. Eso se hace siempre, desde el primer día, y no se espera a
   nada. **Nombrar el sonido no es encargarlo.**
-- Ableton es la que decide **cómo suena** y lo anota en `recursos/sonido.md` con su número de
+- Ableton es la que decide **cómo suena** y lo anota en `recursos/audiovideo.md` con su número de
   cue.
 
 Igual con la otra dirección: si a Ableton le falta saber qué hace una escena para poder decidir
@@ -360,7 +361,7 @@ y el fichero sería de **Datos**.
 
 ## Convenciones
 
-- Ficheros y carpetas en minúsculas, sin tildes, con guiones: `sonido.md`, `escaleta.md`.
+- Ficheros y carpetas en minúsculas, sin tildes, con guiones: `audiovideo.md`, `escaleta.md`.
 - Las escenas se numeran con dos dígitos: `1.`, `2.`, `10.`.
 - Los ficheros del libreto se llaman `NN-nombre.md`, con el número de escena delante:
   `05-el-tiro-al-blanco.md`. El número no se reutiliza ni se renumera.
@@ -369,7 +370,9 @@ y el fichero sería de **Datos**.
   lleva su número de pista, que es fijo y sí se escribe: `>> ♪ «Vuela» (p. 06)`.
   **Los efectos no llevan número en el libreto.** El `>>` va con el nombre del sonido tal como lo
   oye el público; el `S-nn` se asigna al pasar la escena a `revisada` y vive solo en
-  `recursos/sonido.md`. Ver «Las cues».
+  `recursos/audiovideo.md`. Ver «Las cues».
+- **El vídeo también va con `>>` y también sin número**, por la misma razón: `>> un vídeo de niños
+  proyectados`. El `V-nn` se asigna en la puerta, igual que el `S-nn`.
 - Las preguntas abiertas se dejan como `TODO:` al final del fichero, no interrumpen el texto.
 
 ## Un fichero por escena
@@ -404,32 +407,34 @@ Con esto, leer un acto entero seguido es un `cat`:
 cat guion/libreto/0[5-8]-*.md
 ```
 
-## El sonido
+## El sonido y el vídeo
 
-Todo el sonido de la obra se decide en Ableton Live y se anota en `recursos/sonido.md`. El
-disco, los efectos y la parte técnica son un solo asunto: hay un Set, hay un operador, hay un
-solo fichero.
+Todo el sonido y el vídeo de la obra se deciden en Ableton Live y se anotan en
+`recursos/audiovideo.md`. El disco, los efectos, las proyecciones y la parte técnica son un solo
+asunto: hay un Set, hay un operador, hay un solo fichero.
 
 ### Tres niveles, tres sitios
 
-**El libreto dice el sonido. `sonido.md` dice la máquina.** Esta es la regla que lo deja claro:
+**El libreto dice el sonido y el vídeo. `audiovideo.md` dice la máquina.** Esta es la regla que lo
+deja claro:
 
 | | Qué lleva | Qué no lleva |
 |---|---|---|
-| `guion/libreto/NN-*.md` | Lo que se oye, en términos dramático-teatrales. Cómo suena de verdad, con su cue. | Nombres de dispositivo, de pista de Live, de efecto, de automation, dB. |
-| `recursos/sonido.md` | La implementación en Live: arquitectura del Set, tabla de cues, por qué cada sonido suena así. | Acotaciones de manipulación, indicaciones de luz, texto de la obra. |
-| `AGENTS.md` | Esta convención. | Nada del sonido concreto. |
+| `guion/libreto/NN-*.md` | Lo que se oye y lo que se ve, en términos dramático-teatrales. Cómo suena y cómo se ve de verdad, con su cue. | Nombres de dispositivo, de pista de Live, de efecto, de automation, dB, nombres de nodo de TouchDesigner. |
+| `recursos/audiovideo.md` | La implementación: arquitectura del Set, tabla de cues, por qué cada sonido suena así, cómo se lanza cada vídeo. | Acotaciones de manipulación, indicaciones de luz, texto de la obra. |
+| `AGENTS.md` | Esta convención. | Nada del sonido ni del vídeo concretos. |
 
 Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si aparece
-«el ventilador hace un ruido espantoso» en `sonido.md`, está mal. Cada cosa en su sitio.
+«el ventilador hace un ruido espantoso» en `audiovideo.md`, está mal. Cada cosa en su sitio.
 
 ### Las cues
 
-- **Un cue es un sonido con nombre.** Tiene un identificador corto y estable para poder buscarlo.
-  **El `S-nn` solo existe en `recursos/sonido.md`.** No se escribe en el libreto: lo asigna
-  Ableton al pasar la escena a `revisada`, y desde ese momento vive en un solo sitio y no puede
-  desincronizarse. En el libreto va el nombre del sonido tal como lo oye el público.
-- **Dos series, porque son dos cosas distintas:**
+- **Un cue es una cosa que hay que lanzar con nombre.** Tiene un identificador corto y estable
+  para poder buscarlo. **Los números de cue solo existen en `recursos/audiovideo.md`.** No se
+  escriben en el libreto: los asigna Ableton al pasar la escena a `revisada`, y desde ese momento
+  viven en un solo sitio y no pueden desincronizarse. En el libreto va el nombre tal como lo ve
+  o lo oye el público.
+- **Tres series, porque son tres cosas distintas:**
   - `P-nn` — las nueve pistas del disco, con su número de pista del disco (`P-02` es
     «Avivas el fuego», la 2 del disco). Es el mismo número que usan `guion/escaleta.md` y
     `investigacion/referencias.md`, así que no hay que traducir. **Este sí va en el libreto**,
@@ -437,6 +442,15 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
     `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
     no su posición en la obra.
+  - `V-nn` — las proyecciones de vídeo, **numerados igual que los `S-nn` y por la misma puerta**.
+    El vídeo es material tan suena como un efecto: lo dispara el operador desde el mismo sitio y
+    en el mismo momento, y se decide al pasar la puerta, no desde el primer día. Así que no
+    necesita reglas propias, y no se le inventa una serie nueva: solo otra columna.
+- **El vídeo va en el mismo fichero que el sonido.** Decidido por el autor (2026-09-28): el
+  fichero se llama `recursos/audiovideo.md` y cubre los dos. **No se crea `recursos/video.md`.**
+  El motivo es que hay un solo operador disparando desde un sola mesa: partir la lista en dos
+  se nota justo en el momento en que hay que clavar un vídeo y un sonido a la vez. Si
+  TouchDesigner crece y pide su propio fichero, se parte entonces, que es barato.
 - **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.
@@ -454,7 +468,7 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
 
 La misma regla que las letras y que los datos de la banda, aplicada a los efectos:
 
-- Si un sonido no está en la sinopsis, en el autor o en `sonido.md`, se marca
+- Si un sonido no está en la sinopsis, en el autor o en `audiovideo.md`, se marca
   `TODO(preguntar):` y no se describe inventando. **Un efecto inventado en un libreto se
   representa mañana y no funciona pasado mañana.**
 - Se puede describir dramáticamente un efecto que se sabe que va a existir aunque no esté
@@ -471,11 +485,16 @@ opera, siguiendo a la manipulación, no siguiendo un reloj. Las consecuencias as
   pista del disco es su propio cue `P-nn`, y el operador lo lanza. El disco no deja de sonar
   porque el títere se retrase, pero tampoco le sigue el paso solo.
 - **Cada cue necesita poder callarse.** Un efecto que no tiene forma de parar es un efecto que
-  se va alPause accidental. Cada cue lleva su forma de parada en `sonido.md` (choke group,
+  se va alPause accidental. Cada cue lleva su forma de parada en `audiovideo.md` (choke group,
   Launch Mode, corte manual) y el operador la tiene que tener a mano.
 - **Los cues del disco duran lo que dura la pista.** Si una escena usa «Está bien» entera, el
   cue dura 3:17. Para cortar antes hace falta un segundo cue. `TODO(preguntar):` si hay alguna
   escena donde la música tenga que entrar o salir dentro de la pista.
+- **Los vídeos se disparan desde aquí, igual que los sonidos.** El autor decidió el sistema de
+  vídeo de la obra (2026-09-28): el «8 mm» es un proyector de vídeo normal disfrazado —no hay
+  película de verdad—, los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI, y
+  Ableton construye también la red de TouchDesigner. Cada proyección es su propio cue `V-nn`, lo
+  dispara el operador desde la misma mesa y en el mismo momento que el sonido que la acompaña.
 - **Nada de esto se decide aún en el Set.** La arquitectura concreta (pistas, buses, Launch
-  Modes, choke groups, key mapping) está en `recursos/sonido.md` y se escribe cuando empiece
+  Modes, choke groups, key mapping) está en `recursos/audiovideo.md` y se escribe cuando empiece
   el trabajo de sonido.
