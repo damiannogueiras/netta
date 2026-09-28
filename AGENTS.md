@@ -106,6 +106,50 @@ netta/
 5. Al final de la sesión, deja escrito lo que has decidido y lo que queda abierto. La
    siguiente sesión no tiene tu contexto.
 
+## Git
+
+**Varias sesiones de kimaki comparten este mismo directorio.** Cada una tiene su hilo, pero
+todas escriben en el mismo árbol de trabajo. Por eso las reglas de git aquí no son las de un
+proyecto normal: son las de un proyecto con otro agent al lado.
+
+### Un commit es una escena, no el árbol entero
+
+- **Nunca `git add -A`.** En un árbol compartido `-A` se lleva puesto también lo que otra
+  sesión tiene a medio escribir. Se commitea fichero a fichero:
+  `git add guion/libreto/12-cuerda-floja.md guion/escaleta.md`.
+- **Antes de commitear, `git status`.** Si hay cambios que no son tuyos, **no los commitees**.
+  Dímelos y pregunta. Subir el trabajo a medio hacer de otra sesión no es un favor: es meter en
+  la historia algo que el autor no ha visto.
+- **Para saber de quién es un cambio:**
+  ```bash
+  kimaki session editors guion/sinopsis.md
+  ```
+  Sale la sesión que lo escribió por última vez y hace cuánto. Si no es la tuya, es de otra.
+
+### Qué está listo
+
+- Una escena se commitea cuando su estado en la escaleta es `revisada` o `cerrada`.
+- Con `idea` o `boceto` también se puede, pero el mensaje del commit lo dice.
+- El mensaje nombra la escena. `libreto 12: la cuerda floja`, no `avances`.
+
+### Nunca hay push sin pedirlo
+
+- Se commitea al terminar la escena que toque. El **push** solo cuando el autor lo pida.
+- Antes de push, decir qué va y en qué commit. Si hay cambios sin commitear de otra sesión,
+  se mencionan y se dejan fuera.
+
+### Un árbol, una sesión escribiendo
+
+Los ficheros compartidos —`guion/escaleta.md`, `guion/sinopsis.md`, `recursos/sonido.md`,
+`investigacion/referencias.md`, este `AGENTS.md`— los escribe **cualquier** sesión. Son el
+índice de la obra, así que no son negociables: si dos sesiones los tocan a la vez, una pisa a
+la otra y ninguna sabe qué se ha perdido.
+
+- **Se trabaja de una en una.** Una sesión escribiendo, la otra pensando o leyendo.
+- Si de verdad hacen falta dos a la vez, cada una en su worktree (`kimaki send --worktree
+  escena-12`) y luego se fusiona a mano. Cuesta más de lo que parece: `escaleta.md` y
+  `sinopsis.md` dan conflicto siempre.
+
 ## Convenciones
 
 - Ficheros y carpetas en minúsculas, sin tildes, con guiones: `sonido.md`, `escaleta.md`.
