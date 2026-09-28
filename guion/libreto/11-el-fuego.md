@@ -7,9 +7,11 @@
 
 ## Qué ocurre
 
-**Es el espejo de la escena 01, y va invertido.** La 01 es un corazón solo, sin nada alrededor.
-Aquí está **el mismo corazón** —el mismo latido, el mismo cue de sonido— y encima de él ha
-crecido todo:
+**Es el espejo de la escena 01, y va invertido.** En la 01 el corazón llega solo y **el mundo se
+monta alrededor**: el titiritero entra con un estetoscopio, oye corazones en otros cuatro cuerpos, y
+en las tres escenas siguientes ya hay niños proyectados, una película quemándose, un Sombrerero y
+una furgoneta. Aquí está **el mismo corazón** —el mismo latido, el mismo cue de sonido— y el mundo
+ya está montado, como si el latido llevara tres escenas hablando antes de que lleguemos aquí.
 
 **Las profundidades.** El latido. Una imagen roja en el centro y pequeña: un feto en el vientre.
 Late, y el corazón de la imagen se ilumina con cada latido. Alrededor está el fondo, y es un
@@ -23,7 +25,9 @@ estamos en la superficie.
 
 **El paisaje.** Un paisaje árido: árboles secos y angulosos, tierra pelada. Y entonces **un árbol
 brotar** —no los demás, uno solo— y detrás, poco a poco, los otros. La energía que aquí los hace
-brotar es la misma que hizo brotar el primero de la escena 01.
+brotar es la misma de la 01, y es lo único que la 01 tenía: un latido que ya sonaba antes de que
+hubiera nada. En la 01 no brota ningún árbol, y no por falta de sitio, sino porque aquella escena es
+justo lo contrario de un paisaje: es un cuerpo que se escucha.
 
 **Y vuelve a las profundidades**, a la imagen roja del feto, que sigue latiendo. Nadie habla.
 
@@ -32,30 +36,29 @@ brotar es la misma que hizo brotar el primero de la escena 01.
 Tercer peldaño del tercer acto, y el que cierra el espejo de la obra:
 
 ```
-01 — el corazón, y nada más
-11 — el mismo corazón, y todo lo que creció alrededor
+01 — el corazón, y el mundo construyéndose alrededor
+11 — el mismo corazón, y el mundo ya construido
 ```
 
-Lo que la 09 y la 10 hacen espossible volar y escuchar lo ancestral. La 11 baja a lo más hondo
+Lo que la 09 y la 10 hacen posible es volar y escuchar lo ancestral. La 11 baja a lo más hondo
 porque es la única que puede cerrar el círculo: **el latido no ha cambiado, el mundo sí.** Es
 justo lo contrario de lo que suele hacerse en un final, y es lo que pide la tesis — no volver al
 niño que eras, sino querer al niño que te hicieron. El latido es el mismo; lo que hay alrededor
 es nuevo.
 
-El árbol que brota es la clave. En la 01 no brota ningún árbol: la escena es el latido solo. Si
-aquí brotara el paisaje entero de golpe, sería la misma imagen con más cosas. Que **uno** brote
-primero, y los demás detrás, es lo que hace que parezca un comienzo y no una confirmación.
+El árbol que brota es la clave. Si aquí brotara el paisaje entero de golpe, sería la misma imagen
+con más cosas. Que **uno** brote primero, y los demás detrás, es lo que hace que parezca un
+comienzo y no una confirmación.
 
-**El latido se convierte en la canción, no suena encima de ella.** Igual que en la 01, y por el
-mismo motivo: no se puede oír el bombo de una pista por separado de esa misma pista mientras suena
-entera, y un latido de verdad bajo la mezcla no se oye. El latido se oye solo al principio y
-después **es** la pista.
+**El latido no cambia: lo que cambia es cuándo entra la canción.** El autor decidió el 2026-09-28
+que en la 01 el latido suena **debajo de «Avivas el fuego»**, y en este texto todavía lo pone
+**solo en el negro, antes de la pista**. Es lo único que queda por cerrar en este espejo, y depende
+de una decisión suya, no mía. `TODO(preguntar)` abajo.
 
-Lo que cambia entre las dos escenas no es el sonido del latido, sino **lo que pasa a su
-alrededor**. El latido es el mismo archivo, la misma cadena y el mismo ajuste en las dos, y
-por eso el latido **no cambia** — lo que cambia es que en la 01 no tiene nada encima y en la 11
-tiene el paisaje entero. Eso es lo que dice el espejo, y no hace falta tocar el sonido para
-decirlo.
+El sonido del latido es el mismo archivo, la misma cadena y el mismo ajuste en las dos escenas, y
+por eso el latido **no cambia**. Lo que cambia es lo que pasa a su alrededor, y ahora también
+**cuándo aparece la música**: en la 01 el latido ya está debajo de la canción, y aquí —si se
+confirma— la canción lo espera debajo a él.
 
 > **Corrección (2026-09-28).** Aquí había escrito que el cuerpo «crece hasta ser el paisaje» en la
 > 11, con cola larga, y que por eso eran dos tratamientos distintos. **No era una decisión del
@@ -146,9 +149,10 @@ decirlo.
   **Mi propuesta, y la respuesta que le he dado a Ableton: el silencio es corto, y la pista entra
   casi enseguida**, en el mismo momento que en la 01. Tres razones:
 
-  1. **El espejo tiene que aguantar en el tiempo, no solo en el contenido.** Si la 01 es un
-     corazón solo y enseguida la canción, y la 11 son tres minutos de corazón antes de la misma
-     canción, las dos escenas se parecen en lo que muestran y no en lo que duran.
+  1. **El espejo tiene que aguantar en el tiempo, no solo en el contenido.** En la 01 el latido
+     entra **debajo de la canción casi desde el principio**. Si la 11 son tres minutos de corazón
+     solo antes de la misma canción, las dos escenas se parecen en lo que muestran y no en lo que
+     duran, y la segunda mitad del espejo se deshace.
   2. **Lo que cierra la obra es reconocer la canción.** El público tiene que oír «Avivas el fuego»
      y pensar *esa es la de antes*. Con tres minutos de latido delante no la reconoce: oye un
      latido que se le ha olvidado. El reconocimiento **es** el espejo.
@@ -167,5 +171,7 @@ decirlo.
 - **La *pac-man* y los fantasmas.** ¿Qué son y de dónde salen? ¿Están en la película de Tim
   Burton o son tuyos? `TODO(preguntar)`
 - **El árbol de arriba.** En el texto es un árbol, con las cerezas debajo. `TODO(preguntar)`
-- **¿Habla el narrador aquí?** El texto dice que nadie habla. Es lo más coherente con que la 01
-  calla, pero es una decisión. `TODO(preguntar)`
+- **¿Habla el narrador aquí?** El texto dice que nadie habla. Antes se podía apoyar en que la 01
+  tampoco hablaba, y ya no: **la 01 habla largo**, monólogo entero. Así que el silencio del final es
+  ahora una decisión y no una consecuencia. Puede ser lo mejor que le haya pasado a la obra —abrir
+  hablando y cerrar callando—, pero es una decisión y tiene que ser del autor. `TODO(preguntar)`
