@@ -127,6 +127,10 @@ decirlo.
 - **El número de cue, que aquí no está.** Por lo mismo que en la 01: el número lo asigna Ableton
   al pasar la puerta, no en el orden de la obra. Por eso en el libreto **no hay ningún `S-nn`**:
   escribirlos aquí suponía que las escenas llegan a `revisada` en orden, y no es así. `TODO(preguntar)`
+- **El espejo del latido ha cambiado de forma** (decidido por el autor en la 01, 2026-09-28). En la
+  1 el latido suena **debajo de «Avivas el fuego»**; aquí el texto lo pone **solo en el negro,
+  antes de la pista**. Las dos escenas ya no aplican la misma regla, así que los dos `TODO` de
+  abajo —el negro largo y el segundo tratamiento— dependen de qué se decida aquí. `TODO(preguntar)`
 - **¿El cuerpo crece en la 11?** Pregunta real, de Ableton (2026-09-28), **sin respuesta del
   autor**: el latido se oye solo en el silencio de antes de la pista, y en la 11 ese mismo latido
   tiene delante un paisaje. ¿Basta con eso, o quieres que el sonido **sí** cambie en la 11 —cola

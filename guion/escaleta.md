@@ -112,6 +112,35 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
 
 ## TODO(preguntar)
 
+- **La escena 1 se ha reescrito y la tabla de arriba está desfasada.** El autor escribió la
+  introducción (2026-09-28) y se ha tragado las escenas 01, 02, 03 y el arranque de la 04: el
+  corazón pasa a oírse en cuerpos reales a través de un estetoscopio, los niños se proyectan, el
+  Sombrerero se proyecta, y la furgoneta arrancada cierra con «Lo llaman vida». **Lo único que
+  queda del acto I es el aguacatero, el contenedor, el bucle VHS y el empujón del aviador.**
+  Las filas 02, 03 y 04 ya no describen la obra, y el reparto de escenas está por decidir.
+  `TODO(preguntar)` **Ni la sinopsis ni la tabla se sincronizan hasta que el autor decida cómo
+  queda el acto I.**
+- **Decidido sobre la introducción, por el autor (2026-09-28):**
+  - **«Está bien» (p. 05) entra cuando se empiezan a proyectar los niños.** Así el espejo 02 ↔ 12
+    aguanta: los niños y su canción siguen juntos, y la 1 se queda con las dos canciones del
+    espejo. La 1 lleva entonces tres pistas: p. 02 → p. 05 → p. 07.
+  - **El latido suena debajo de la música**, no solo en el negro. Esto **cambia lo construido** en
+    `recursos/sonido.md`, que lo tenía como latido solo antes de que entre la pista. La escena
+    sigue en `boceto`: se avisa, no se encarga.
+  - **El 8 mm es un proyector de vídeo disfrazado.** No hay película. Lo que el público ve es
+    vídeo, y el fuego es **humo más un efecto de vídeo quemándose**.
+  - **Los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI**, y **Ableton es
+    también quien construye la red de TouchDesigner**: el aspecto de 8 mm, el quemado y el humo.
+    `AGENTS.md` no tiene ni una palabra de esto. `TODO(preguntar)` la **serie de cues de vídeo
+    (`V-nn`)**: quién las numera, dónde vive su tabla y si comparten numeración con los efectos.
+  - `TODO(preguntar)` cuatro cosas del autor que se contestan en una línea: qué música se relentece
+    cuando arde la película; si el humo es de máquina o de efecto; con qué música va el Sombrerero
+    proyectado —si es silencio, es la única vez que la obra calla—; y si en la 1 el que habla es el
+    titiritero neutro y no el narrador, porque la ficha dice que el narrador habla en frases muy
+    cortas.
+  - `TODO(preguntar)` los niños pasan de fotos a vídeo, y eso cambia la pregunta: no es «de quién
+    son» sino «se filma a niños ahora o son vídeos de archivo». Si se filman, hay que liberar la
+    imagen de menores. Va a `recursos/produccion.md`, que no existe y no tiene dueño.
 - **El reparto en actos.** Decidido por el autor: **4 + 4 + 4**, con el corte del primer acto en
   el empujón del aviador (final de la escena 04) y el del segundo en la niña metida en el huevo
   (final de la escena 08). Hasta el 2026-09-27 era 4 + 4 + 3: el autor partió el final en dos
