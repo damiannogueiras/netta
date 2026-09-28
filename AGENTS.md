@@ -194,15 +194,61 @@ significa algo, un momento de la pista— eso no se resuelve ahí.** Se propone 
 Ableton.
 
 - La sesión de Guion **nombra** el sonido dramáticamente, como lo oye el público: `>> un
-  alaseteo`, `>> ♪ «Vuela» (p. 06)`. Ya está hecho así.
-- Y **manda la propuesta a Ableton** con `kimaki send --thread 1553736444798042246`, diciendo
-  qué necesita: dónde, cuándo, y por qué en ese momento.
+  alaseteo`, `>> ♪ «Vuela» (p. 06)`. Eso se hace siempre, desde el primer día, y no se espera a
+  nada. **Nombrar el sonido no es encargarlo.**
 - Ableton es la que decide **cómo suena** y lo anota en `recursos/sonido.md` con su número de
   cue.
 
 Igual con la otra dirección: si a Ableton le falta saber qué hace una escena para poder decidir
 un sonido, se lo pregunta al hilo de Guion en vez de adivinarlo. Lo mismo con **Datos**: si
 falta un dato de la banda o del disco, se pregunta ahí en vez de suponerlo.
+
+### El protocolo: `revisada` es la puerta
+
+**Hasta que una escena no está en `revisada` en la escaleta, no se le pasa nada a Ableton.** Ni
+los efectos, ni los sonidos, ni las pistas. Decidido por el autor (2026-09-28).
+
+El estado está en `guion/escaleta.md`, y es la única fuente de la verdad:
+
+```bash
+grep '| 12 |' guion/escaleta.md     # la fila dice el estado
+```
+
+| Estado de la escena | Qué hace Guion | Qué hace Ableton |
+|---|---|---|
+| `idea` | Escribe el texto. Nombra los sonidos en el libreto. **No manda nada.** | No sabe que existe |
+| `boceto` | Lo mismo. Acaba el texto y lo relee. **No manda nada.** | No sabe que existe |
+| `revisada` | Actualiza el estado en la escaleta y **manda la lista de sonidos** | Los construye y asigna cues |
+| `cerrada` | Nada pendiente | Idem, si hace falta corregir algo |
+
+**Por qué la puerta:** una escena en `boceto` todavía cambia. Un efecto construido sobre un
+texto que se va a reescribir es un efecto que hay que tirar y volver a hacer, con su cue gastado
+— y la numeración de cues es sagrada, así que ese número queda libre para siempre. La puerta
+protege a Ableton de un churn que no puede deshacer.
+
+**El mensaje a Ableton lleva cuatro cosas**, y si le falta una, no se puede empezar:
+
+1. **Qué escena y en qué estado.** «Escena 12, `revisada` esta tarde».
+2. **Qué necesita.** El efecto o la pista, con su nombre tal como lo escribió Guion.
+3. **Dónde y cuándo.** En qué punto de la escena, y en qué momento.
+4. **Por qué en ese momento.** Qué le pasa a la escena, a la imagen o al público justo ahí.
+
+**Ableton comprueba la puerta antes de empezar.** Si llega una propuesta de una escena que no
+está en `revisada`, lo dice y no la trabaja: no es suyo decidir que un texto ya está. Y si le
+falta algo para construir el efecto, pregunta a Guion; no lo deduce.
+
+### El numerito de cues lo fija la puerta
+
+Los `S-nn` se numeran **en el orden en que las escenas llegan a `revisada`**, no en el orden en
+que Guion las escribe. Como el estado de cada escena está en la escaleta, la numeración se
+deduce de ahí.
+
+Esto tiene una consecuencia que conviene decir en voz alta: si la 12 se revisa antes que la 05,
+**la 12 se lleva los cues bajos y la 05 los altos**, aunque en la obra la 05 suene antes. No es
+un error: es que el número identifica un sonido, no su posición en la obra. Lo que no puede
+pasar es que un número se reutilice, se renumere o se reasigne. Una escena que vuelve a `boceto`
+no mueve los cues que ya tenía: si el efecto cambia, el viejo se marca `caído` y el nuevo
+coge el siguiente número libre.
 
 - **Antes de escribir un fichero, mira quién lo escribió por última vez:**
   ```bash
@@ -286,8 +332,9 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   - `P-nn` — las nueve pistas del disco, con su número de pista del disco (`P-02` es
     «Avivas el fuego», la 2 del disco). Es el mismo número que usan `guion/escaleta.md` y
     `investigacion/referencias.md`, así que no hay que traducir.
-  - `S-nn` — los efectos sonoros, numerados en el orden en que salen en la obra, de la escena
-    01 a la 12.
+  - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
+    `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
+    no su posición en la obra.
 - **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.

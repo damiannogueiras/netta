@@ -128,12 +128,31 @@ decirlo.
   tiene delante un paisaje. ¿Basta con eso, o quieres que el sonido **sí** cambie en la 11 —cola
   larga, exterior, distancia, el cuerpo haciéndose paisaje—? Si lo quieres, es un segundo
   tratamiento y Ableton tiene que construirlo. `TODO(preguntar)`
-- **¿Dónde entra la pista?** El texto la pone en el primer árbol que brota, y no antes. La
-  duración son 6:41 y la escena puede ser mucho más corta: ¿se corta, o dura lo que dura la
-  pista? En la 01 hay la misma pregunta, y las dos escenas deberían responderse igual. **La
-  respuesta a Ableton (2026-09-28): el latido se oye solo en el silencio de antes, y desde que
-  entra la pista ya no hay nada que recortar — es la misma pista en las dos escenas.** Lo que se
-  puede cortar es cuánto dura la escena, no el latido.
+- **¿Cuánto dura el silencio antes de la pista, y dónde entra?** Esto es lo que bloquea el
+  diseño. El texto pone la pista en «un árbol brota», y hasta ahí hay trece golpes: el negro, el
+  corazón, la imagen roja, el fondo, el círculo que se cierra, el pasillo, la *pac-man*, las
+  cerezas, el árbol, la superficie, el paisaje árido. **A lo que me ha dicho la sesión de Ableton
+  (2026-09-28) eso son minutos de un latido solo, y eso no es dramático: es un metrónomo, y a los
+  dos minutos el público deja de oírlo.**
+
+  **Mi propuesta, y la respuesta que le he dado a Ableton: el silencio es corto, y la pista entra
+  casi enseguida**, en el mismo momento que en la 01. Tres razones:
+
+  1. **El espejo tiene que aguantar en el tiempo, no solo en el contenido.** Si la 01 es un
+     corazón solo y enseguida la canción, y la 11 son tres minutos de corazón antes de la misma
+     canción, las dos escenas se parecen en lo que muestran y no en lo que duran.
+  2. **Lo que cierra la obra es reconocer la canción.** El público tiene que oír «Avivas el fuego»
+     y pensar *esa es la de antes*. Con tres minutos de latido delante no la reconoce: oye un
+     latido que se le ha olvidado. El reconocimiento **es** el espejo.
+  3. **Todo lo demás pasa bajo la pista**, que son los 6:41 — el bloque más largo de la obra — y
+     el paisaje brotando encima es el pago.
+
+  Y una consecuencia buena: si el silencio es corto, **no hace falta el `Launch Mode: Repitch`
+  para acelerar el latido**, que era lo que Ableton tenía que prever antes de construirlo.
+
+  `TODO(preguntar)` **esto es propuesta mía, no decisión del autor.** Si el autor quiere el negro
+  largo y la imagen primero, hay que hacerlo y entonces sí hace falta el Repitch. `TODO(preguntar)`
+  Y si el negro es largo, la escena 01 también: si no, la 01 y la 11 no son el mismo espejo.
 - **¿Qué es la imagen?** ¿Proyección, pantalla, o el titiritero manipulando algo? El diseño
   antiguo hablaba de una «cámara que sube por capas», y eso hay que decidirlo: es distinto que
   la obra se vea proyectada o que haya una cámara de verdad. `TODO(preguntar)`

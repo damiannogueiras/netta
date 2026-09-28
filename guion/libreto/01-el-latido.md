@@ -79,16 +79,13 @@ encima. `recursos/sonido.md` lo implementa.
 - **¿Cómo se ve el corazón?** ¿Es una imagen, una proyección, un objeto manipulado, una
   pantalla? Al ser la escena más simple de la obra, aquí es donde se decide si la obra se ve o
   se manipula. `TODO(preguntar)`
-- **El cue `S-01`.** El latido de esta escena y el de la 11 son el mismo sonido, y por lo tanto
-  **dos cues distintos** (`AGENTS.md`): `S-01` aquí y otro en la 11. No está en
-  `recursos/sonido.md`: eso va cuando empiece el trabajo de sonido.
-- **El cue `S-01`.** Ahora es el **latido solo, en el silencio**, antes de que entre la pista: un
-  bombo filtrado de «Avivas el fuego», o un sonido aparte, como decida Ableton. Lo que importa
-  para el libreto es que hay **dos ocurrencias distintas del mismo sonido** (`S-01` aquí y `S-14`
-  en la 11) y que en las dos **el latido acaba dentro de la canción**. `TODO(preguntar)` El
-  libreto dice «muy cerca, como si fuera dentro de un cuerpo»: cuerpo, no catedral. Cola corta.
-  **Y es el mismo ajuste en la 11** — un solo latido en toda la obra, dos ocurrencias —. No hay
-  dos tratamientos: lo que cambia en la 11 es lo que hay alrededor del latido, no el latido.
+- **El cue `S-01`.** Ya está en `recursos/sonido.md` (2026-09-28). Es el **latido solo, en el
+  negro, antes de que entre la pista**, y la pista lo sustituye: no es una capa, no suena debajo
+  de la música. La fuente está **sin decidir** —el latido sintetizado en MIDI o el bombo de
+  «Avivas el fuego»—, así que eso sigue abierto.
+  El mismo archivo, la misma cadena y el mismo ajuste que el `S-14` de la 11: **un solo latido en
+  toda la obra, dos ocurrencias**, y en las dos el latido acaba dentro de la canción. El libreto
+  dice «muy cerca, como si fuera dentro de un cuerpo»: cuerpo, no catedral. Cola corta.
 - **¿Habla el narrador aquí?** En la 11 no habla nadie, y las dos son el mismo material. Si
   calla en la 11, lo coherente es que calle aquí también — pero el titiritero es el narrador y
   este es el principio de la obra, que es justo donde más tentador sería. `TODO(preguntar)`
