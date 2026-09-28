@@ -37,12 +37,13 @@ las que el disco abre y cierra:
 
 | | Principio | Final | |
 |---|---|---|---|
-| **«Avivas el fuego»** | **01** — el corazón solo, sin nada alrededor. | **11** — el mismo corazón, y todo lo que creció alrededor. | 01 ↔ 11 |
-| **«Está bien»** | **02** — niños solos, llorando, rotos, proyectados. | **12** — niños disfrazados, en charcos, jugando. | 02 ↔ 12 |
+| **«Avivas el fuego»** | **01** — el corazón, oído en cuerpos ajenos con un estetoscopio. | **11** — el mismo corazón, y todo lo que creció alrededor. | 01 ↔ 11 |
+| **«Está bien»** | **02** — niños proyectados creándolo todo, y la película ardiendo. | **12** — niños disfrazados, en charcos, jugando. | 02 ↔ 12 |
 
-**El espejo va invertido en las dos parejas.** En la 01 el latido está vacío; en la 11 es el
-mismo latido con encima las capas, el pasillo, la *pac-man*, la superficie y el paisaje brotando.
-En la 02 los niños están rotos y solos; en la 12 son los mismos niños, disfrazados y en charcos.
+**El espejo va invertido en las dos parejas.** En la 01 el latido está vacío y en la 11 es el mismo
+con encima las capas, el pasillo, la *pac-man*, la superficie y el paisaje brotando. En la 02 los
+niños están **creando** y su película arde; en la 12 están **jugando** y ya no arde nada. No es el
+niño roto contra el niño entero: es **crear contra jugar**, con el fuego en medio.
 
 > **Por qué invertido y no calcado** (2026-09-27). El autor partió el final en dos escenas para
 > devolver el espejo. Si volviéramos literalmente al principio, el viaje no habría pasado nada: la
@@ -52,9 +53,14 @@ En la 02 los niños están rotos y solos; en la 12 son los mismos niños, disfra
 
 ## La obra en un párrafo
 
-Empieza con un corazón solo, latiendo, y nada más. Después, una proyección de fotos de niños:
-solos, llorando, rotos — la infancia que no fue del todo, con «Está bien» de fondo y sin nada que
-les pase más que estar ahí. Un Sombrerero dice que la muchedad la han perdido, y caemos en la
+Empieza un titiritero con un estetoscopio, oyendo corazones: el de un niño, el de un joven, el de
+alguien a quien hay que reanimar, el de una chica que se enamora, y dice que el corazón es el primer
+acto de crear. Enciende un proyector y salen niños pintando y amasando, y mientras habla de lo que
+hacíamos de pequeños, la película se quema: de ahí el pánico de «¿lo que quiero está prohibido?» y
+el «criar no es fácil». Arregla el proyector y se ve al Sombrerero decirle a Alicia que perdió la
+muchedad; el titiritero responde que inventaron la palabra «creatividad» para recuperar esa
+sensación, y de la pantalla salen siluetas de miedo, tristeza y dolor. La luz de la mesa se enciende,
+la mesa es una furgoneta a medio armar, y los miedos se cargan dentro uno a uno. Caemos en la
 rutina: el bucle de «Lo llaman vida», la misma calle, la misma canción, el cartel hecho un
 desastre. Al final del primer acto, un aviador empuja la furgoneta hacia el mundo fantástico y
 empieza el viaje del héroe. En el segundo acto hay que bajarse a mirar: quitar el discurso vacío a
@@ -80,62 +86,81 @@ es la primera vez que se puede volar.
 
 **Lo que se rompió, y la sentencia de que no vuelve.** El acto acaba con un empujón.
 
-#### 1. El latido — «Avivas el fuego»
+#### 1. Entrada del titiritero — «Avivas el fuego»
 
-**Solo el corazón. Nada más.** Ni vientre, ni imagen roja, ni capas, ni *pac-man*, ni paisaje, ni
-objetos. La escena entera es un latido y ya está: no hay nada que contar todavía, y la única
-cosa que existe antes de la vida es el latido.
+El titiritero entra con un **estetoscopio** y se está escuchando a sí mismo. Después se acerca al
+público y va escuchando corazones ajenos: el de un niño, que suena más vivo y divertido; el de un
+joven, que late tipo techno; el de alguien a quien se le para y al que tiene que hacer una
+reanimación cardiopulmonar; el de una chica, que se enamora. Y con eso habla: el corazón es el
+primer acto de crear, los adultos hablan de ser creativos sin serlo, y los niños no necesitan que
+se juzgue su creatividad porque la creatividad **es**.
 
-Es el espejo de la 11, y va invertido: allí el latido es **el mismo** y tiene encima todo lo que
-creció alrededor. El corazón no ha cambiado, cambió el mundo que hay alrededor.
+Es el espejo de la 11, y va invertido. Allí el latido es **el mismo** y tiene encima todo lo que
+creció alrededor. Aquí está solo, y además está en cuerpos ajenos: el titiritero tiene que acercarse
+a alguien y **pedírselo con un estetoscopio** para oírlo.
 
-`TODO(preguntar)` **¿Habla el narrador aquí?** El titiritero es el narrador y este es el
-principio de la obra, que es donde más tentador sería. La 11 dice que nadie habla, y lo
-coherente es que callen las dos. En la escena 01 anterior a este cambio el autor había puesto
-«nadie habla todavía», así que la apuesta es que calla — pero no está decidido.
+> **Cambiado el 2026-09-28.** Antes esta escena era «solo el corazón, nada más» y no hablaba nadie.
+> Ahora el latido **está debajo de la música** y el titiritero habla. `TODO(preguntar)` en qué
+> registro: la ficha dice que el narrador habla en frases muy cortas, y este monólogo no.
 
-#### 2. La infancia — «Está bien»
+#### 2. Niños proyectados — «Está bien»
 
-Fotos de niños proyectadas. Pero no niños felices: **niños solos, llorando, rotos**. Son
-nuestros miedos y nuestros traumas, con cara de niño. La música que suena dice «está bien, está
-mal, siempre en la cuerda floja, no sabes qué hacer» — y aquí la cuerda floja es el hilo: la
-decisión de cómo seguir con lo que te ha pasado.
+El titiritero enciende el proyector —un 8 mm que es un proyector de vídeo disfrazado— y salen
+**niños pintando, amasando, haciendo cosas**. Él habla de lo que se hacía de pequeños: canciones que
+se cambiaban, escultura, pintura, piruetas, personajes, vestirse como a uno le apetece. Y lo dice
+sin rodeos: *un niño no se disfraza, se viste como quiere; llamarle disfraz es ridiculizar los
+gustos*.
 
-**Estas fotos son las mismas que volverán en la escena 11.** La obra se puede entender como lo
-que pasa entre las dos.
+Y entonces el proyector echa humo, la cinta parece quemarse, la música se relentece y **la película
+se quema**. De ahí el pánico: de repente empezamos a bailar mal, ya no vale cualquier disfraz, ¿qué
+hice mal?, ¿lo que quiero está prohibido?, **soy malo**. Y el remate: criar no es fácil, a veces
+metieron la pata, a veces muchas veces. Éramos mucho más alegres, más imaginativos, más inquietos,
+más rebeldes.
+
+**Es la caída de la obra, y aquí ocurre de verdad:** la creatividad no se pierde porque alguien opine
+que no se es creativo, se pierde porque se quema el material. El daño es físico y se ve.
+
+`TODO(preguntar)` qué música se relentece al arder la película. Si es «Está bien», la salida de la
+pista **es** el evento.
+
+> **Cambiado el 2026-09-28.** Antes eran **niños solos, llorando, rotos**, con «Está bien» de fondo.
+> Ahora son niños **haciendo cosas** y la película arde. El espejo con la 12 sigue, pero es otro:
+> **crear contra jugar**, no roto contra entero.
 
 #### 3. El Sombrerero
 
-Aparece un personaje misterioso, **el profesor**, que saca de dentro de un huevo un televisor.
-Lo que suena es **un audio: la conversación entre el Sombrerero y Alicia**. En algún momento de
-la conversación, el Sombrerero les dice que han perdido su «muchedad».
+El titiritero **arregla el proyector** y se proyecta la escena en la que el Sombrerero le dice a
+Alicia que antes era mucho, mucho, y que perdió la muchedad. El audio es **el de la película**: el
+diálogo entre los dos.
 
-**La escena es la conversación, no una imagen.** Lo que se ve es un televisor; lo que se oye son
-dos voces. `TODO(preguntar):` qué imagen hay detrás —el fragmento de *Alicia* de Tim Burton del
-diseño antiguo, la pantalla en negro, o solo el ruido del televisor— y si el audio es el de la
-película o una grabación nueva. `TODO(preguntar):` de quién son las dos voces, y en qué idioma
-(si no es el español, hay que glosarlo).
+Encima habla el titiritero, y es lo más importante de la escena: aquí estamos con nuestra muchedad o
+con nuestra falta de muchedad, a pesar de nuestras heridas nos embarcamos en proyectos creativos, e
+**inventamos la palabra «creatividad» para poder recuperar esa sensación**. La obra le pone nombre a
+su propia trampa: «creatividad» no es el antídoto, es la palabra que nos inventamos para fingir que
+lo tenemos.
 
-`TODO(preguntar):` **qué dice la conversación.** Lo único cerrado es la frase de la «muchedad».
-El resto del diálogo no está escrito: no se puede representar una escena cuyo texto no existe.
+Y de la pantalla van saliendo **siluetas de miedo, de tristeza y de dolor**, que se van a cargar en
+la furgoneta. Esta escena es la que las fabrica.
 
-Es el bisagra: hace un momento, la escena 02 enseñaba fotos de niños rotos; ahora alguien con
-autoridad se lo dice en voz alta. Lo que se acaba de oír ya no está en otra parte, y lo único
-que queda es atravesarlo. Y es la única escena sin música del disco: en toda la obra, esta es
-la única que suena a una conversación.
+Es la única de toda la obra **sin música del disco**: aquí solo suena una película.
 
-#### 4. La rutina en bucle — «Lo llaman vida»
+#### 4. La furgoneta — «Lo llaman vida»
 
-Se meten en la furgoneta desde la finca donde ensayan; el aguacatero los observa. Al llegar a
-un contenedor, frenan de golpe: **vuelven para atrás con efecto de vídeo VHS**, y otra vez el
-mismo tramo y la misma canción, así varias veces. En el contenedor ven uno de sus carteles todo
-pintarrajeado. Les entra el agobio: vuelven los miedos. El bucle es la tesis: es la forma que
-tiene la rutina cuando ya no tiene a nadie dentro.
+Se enciende la luz de la mesa —**que es el escenario**— y hay una furgoneta. Que está arrancada. Las
+siluetas de miedo, de tristeza y de dolor se van colocando dentro, una a una, a la vista. Arranca
+«Lo llaman vida», que es la canción del bucle de la rutina.
 
-**Al final de esta escena, el aviador empuja la furgoneta y empieza el viaje del héroe.**
-Empuja y cambia: pasa a ser más angulosa, del blanco al morado con grafiti, y arriba, en el
-techo, le ponen unas tuberías al estilo del submarino amarillo de los Beatles. Todo lo que
-viene detrás pasa dentro de la furgoneta transformada.
+**El decorado se convierte en el vehículo:** lo que el público estaba viendo en una pantalla de un
+metro se monta en cartón y se lleva puesto. Y la carga también es a la vista: nadie ha explicado
+esos miedos, se ven entrar.
+
+Después el aguacatero, el bucle de VHS, el contenedor, el cartel pintarrajeado, y **al final el
+aviador empuja la furgoneta y empieza el viaje del héroe**: pasa a ser más angulosa, del blanco al
+morado con grafiti, y arriba le ponen unas tuberías al estilo del submarino amarillo de los Beatles.
+
+> **Cambiado el 2026-09-28.** Antes la escena se llamaba «La rutina en bucle» y empezaba con la
+> furgoneta ya hecha. Ahora **la furgoneta se arma aquí, a la vista, y es la imagen de la escena**.
+> `TODO(preguntar)` si el montaje ocurre a la vista o si aparece hecha.
 
 ### Acto II — La excavación (escenas 05–08)
 
@@ -215,9 +240,9 @@ Segundo peldaño: **el contacto con nuestra parte dañada.** La toma de la humil
 que está roto sin pretender arreglarlo ni esconderlo. La niña no se arregla; se mira. El acto
 se cierra aquí, con alguien en brazos y metido en un huevo.
 
-### Acto III — El regreso (escenas 09–11)
+### Acto III — El regreso (escenas 09–12)
 
-**Volver a florir.** Las tres escenas del final son el ascenso: cada una da un peldaño más que
+**Volver a florir.** Las cuatro escenas del final son el ascenso: cada una da un peldaño más que
 la anterior, y todas desembocan en el latido que vuelve.
 
 #### 9. La señal — «Vuela»
@@ -267,9 +292,9 @@ las cerezas qué son, y de qué salen?
 #### 12. La cuerda floja — «Está bien»
 
 El espejo de la 02, y también va invertido. **La niña camina por una cuerda floja y recoge la
-instabilidad**, sin esquivarla ni arreglarla, y con ella el juego. Vuelven las fotos de los niños
-de la 02, y ya no son niños solos ni rotos: son **niños disfrazados, en charcos**, jugando. La
-última frase de la obra es *eso está bien*.
+instabilidad**, sin esquivarla ni arreglarla, y con ella el juego. Vuelven los niños de la 02, y ya
+no están pintando y amasando con la película ardiendo detrás: están **disfrazados, en charcos,
+jugando**, y la película ya no quema nada. La última frase de la obra es *eso está bien*.
 
 Quinto peldaño: **terminar con inestabilidad y juego, no con calma.** Una niña en una cuerda
 floja no está tranquila: está haciendo algo difícil y está jugando mientras lo hace. Si la obra
@@ -277,7 +302,7 @@ terminara en serenidad estaría mintiendo.
 
 `TODO(preguntar)` **todo el texto de la 12.** El tema está cerrado, la construcción no. `TODO(preguntar)`
 ¿La niña de la cuerda floja es la niña triste de la 08? Si lo es, el huevo del que la saca el
-profesor es el principio de ella. `TODO(preguntar)` ¿De quién son las fotos de los niños?
+profesor es el principio de ella. `TODO(preguntar)` ¿De quién son los niños de la 02 y de la 12, y son los mismos? Ahora son **vídeos**, no fotos: hay que decidir si se filma a niños ahora —con su imagen liberada— o son vídeos de archivo.
 
 ## Los personajes
 

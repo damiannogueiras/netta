@@ -22,13 +22,18 @@ son las dos parejas de canciones del disco:
 
 | | Principio | Final | |
 |---|---|---|---|
-| **«Avivas el fuego»** | **01** — el corazón solo, sin nada alrededor. | **11** — el mismo corazón, y todo lo que creció alrededor. | 01 ↔ 11 |
-| **«Está bien»** | **02** — niños solos, llorando, rotos, proyectados. | **12** — niños disfrazados, en charcos, jugando. | 02 ↔ 12 |
+| **«Avivas el fuego»** | **01** — el corazón, oído en cuerpos ajenos con un estetoscopio. | **11** — el mismo corazón, y todo lo que creció alrededor. | 01 ↔ 11 |
+| **«Está bien»** | **02** — niños proyectados haciéndolo todo, y la película ardiendo. | **12** — niños disfrazados, en charcos, jugando. | 02 ↔ 12 |
 
-**El espejo va invertido en las dos parejas.** En la 01 el latido está vacío y en la 11 tiene
-encima el mundo entero: el corazón no ha cambiado, cambió lo que hay alrededor. En la 02 los
-niños están rotos y solos y en la 12 están disfrazados y en charcos: siguen siendo niños, y
-ahora hay juego.
+**El espejo va invertido en las dos parejas.** En la 01 el latido está vacío, y en la 11 tiene
+encima el mundo entero: el corazón no ha cambiado, cambió lo que hay alrededor. En la 02 los niños
+están **creando** y su película arde; en la 12 están **jugando**, y la película ya no quema nada.
+No es el niño roto contra el niño entero: es **crear contra jugar**, con el fuego en medio.
+
+> **Lo que cambió el 2026-09-28.** Antes la 01 era «solo el corazón, nada más» y la 02 eran niños
+> solos, llorando, rotos. El autor reescribió el principio y las dos escenas ya no son las de antes.
+> **El espejo y las dos parejas de canciones aguantan**, pero la forma es otra: en la 01 el mundo se
+> **monta** alrededor del corazón —niños, película, fuego, furgoneta— y en la 11 ya está montado.
 
 > **Por qué el final no es un calco.** Si la obra volviera literalmente al principio, el viaje no
 > habría pasado nada. La tesis es *no volver al niño que eras, sino querer al niño que te
@@ -56,10 +61,10 @@ inestabilidad y el juego. Termina en otra cosa que en paz.
 
 | # | Escena | Qué ocurre | Música | Estado |
 |---|---|---|---|---|
-| 01 | El latido | **Solo el corazón. Nada más.** Ni vientre, ni imagen roja, ni paisaje, ni objetos. La escena entera es un latido y ya está. **Es el espejo de la 11**, que es este mismo corazón con todo lo que creció alrededor. | «Avivas el fuego» (p. 02) | `boceto` |
-| 02 | La infancia | **Proyección de fotos de niños: solos, llorando, rotos.** Los miedos y los traumas con cara de niño, con **«Está bien» de fondo**, sin nada que les pase más que estar ahí. **Es el espejo de la 12.** | «Está bien» (p. 05) | `idea` |
-| 03 | El Sombrerero | El profesor saca del huevo un televisor. Lo que suena es **un audio: la conversación entre el Sombrerero y Alicia**, y en algún momento el Sombrerero les dice que han perdido la «muchedad». La escena es la conversación, no una imagen. `TODO(preguntar):` el texto del diálogo no está escrito. | **Sin música:** audio de diálogo | `idea` |
-| 04 | La rutina en bucle | La finca, el aguacatero, el contenedor, el cartel pintarrajeado. El tramo se repite hacia atrás con efecto VHS. **Al final, el aviador empuja la furgoneta y empieza el viaje del héroe.** | «Lo llaman vida» (p. 07) | `idea` |
+| 01 | Entrada del titiritero | El titiritero entra con un **estetoscopio** y se escucha a sí mismo. Luego se acerca al público y va escuchando corazones ajenos: el de un niño, el de un joven, **el de alguien a quien se le para y hay que reanimar**, el de una chica que se enamora. Y habla: el corazón es el primer acto de crear. | «Avivas el fuego» (p. 02), instrumental | `boceto` |
+| 02 | Niños proyectados | Enciende el proyector y salen **niños pintando, amasando, haciendo cosas**. Habla de lo que se hacía de pequeños. **Entonces la película se quema** y el panic: ¿qué hice mal?, ¿lo que quiero está prohibido?, *soy malo*. Criar no es fácil. | «Está bien» (p. 05), **entra al empezar la proyección** | `boceto` |
+| 03 | El Sombrerero | Arregla el proyector y se proyecta **el Sombrerero diciéndole a Alicia que perdió la muchedad**. El titiritero responde encima: *a pesar de nuestras heridas nos embarcamos en proyectos creativos, e inventamos la palabra «creatividad» para recuperar esa sensación*. Y de la pantalla salen **siluetas de miedo, tristeza y dolor**. | **Ninguna del disco:** el audio es el de la película | `boceto` — tres frases |
+| 04 | La furgoneta | Se enciende la luz de la mesa —**que es el escenario**— y hay una furgoneta a medio arrancar. Las siluetas se colocan dentro, una a una. Después el aguacatero y nos vamos. | «Lo llaman vida» (p. 07) | `boceto` — solo el arranque |
 
 ### Acto II — La excavación
 
@@ -98,16 +103,22 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
 
 ## Estado
 
-- **Doce escenas.** Dos en `boceto`: la **01** (el corazón solo) y la **11** («Avivas el fuego»).
-  Ver `guion/libreto/01-el-latido.md` y `guion/libreto/11-el-fuego.md`.
-- **La 12 está construida pero vacía.** El tema está cerrado por el autor; el texto no.
+- **Doce escenas, tres actos de 4 + 4 + 4.** Decidido por el autor el 2026-09-28: el primer acto
+  son la entrada del titiritero, los niños proyectados, el Sombrerero y la furgoneta. **El reparto de
+  actos no se toca.**
+- **Cuatro escenas tienen texto, y son las cuatro primeras**, todas en `boceto` y todas del autor:
+  `01-el-corazon.md`, `02-ninos-proyectados.md`, `03-el-sombrerero.md` (tres frases) y
+  `04-la-furgoneta.md` (solo el arranque). La 4 va en un cuarto.
+- **El mapa de las nueve pistas sigue entero**, incluido que la 03 es la única escena sin música del
+  disco. La 1 lleva tres pistas seguidas: p. 02, luego p. 05 al empezar la proyección, luego p. 07.
+- **Las 08 a 12 conservan su tema**, y la 11 sigue en `boceto`.
 - Sin escenas `revisada` y sin escenas cerradas.
-- **El texto del narrador no existe.** El titiritero es también el narrador y habla en frases
-  muy cortas (`recursos/fichas.md`). Es lo que más bloquea la obra.
-- Los doce ficheros de `guion/libreto/` existen con su estructura y su cabecera, pero solo dos
-  tienen texto. Cada escena necesita decidir sus títeres, su manipulación y su momento musical.
-- Las doce escenas tienen el tema decidido por el autor, pero casi todas siguen en `idea` porque no
-  tienen reparto ni manipulación.
+- **El texto del narrador no existe** fuera del primer acto. En la 1 el titiritero habla largo, y la
+  ficha dice que el narrador habla en frases muy cortas: son dos registros distintos, o la ficha se
+  equivoca. `TODO(preguntar)` Ver `recursos/fichas.md`.
+- Cada escena necesita decidir sus títeres, su manipulación y su momento musical, y **sus cues
+  nombradas** (`>>`), que hoy no hay en ningún fichero: el autor escribe la prosa sin marcas de sonido
+  ni de luz.
 - **05 y 06 tienen tema pero no construcción.** Falta decidir qué se ve en ellas.
 
 ## TODO(preguntar)
