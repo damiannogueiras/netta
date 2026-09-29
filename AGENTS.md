@@ -216,7 +216,7 @@ significa algo, un momento de la pista— eso no se resuelve ahí.** Se propone 
 Ableton.
 
 - La sesión de Guion **nombra** el sonido dramáticamente, como lo oye el público: `>> un
-  alaseteo`, `>> ♪ «Vuela» (M[06-??])`. Eso se hace siempre, desde el primer día, y no se espera a
+  alaseteo`, `>> ♪ «Vuela»`. Eso se hace siempre, desde el primer día, y no se espera a
   nada. **Nombrar el sonido no es encargarlo.**
 - Ableton es la que decide **cómo suena** y lo anota en `recursos/audiovideo.md` con su número de
   cue.
@@ -367,8 +367,8 @@ y el fichero sería de **Datos**.
   `05-el-tiro-al-blanco.md`. El número no se reutiliza ni se renumera.
 - Las acotaciones van entre paréntesis: `(el pato gira la cabeza hacia el público)`.
 - Los cambios de sonido se marcan con `>>` y los de luz con `**`: `>> un alaseteo`. La música
-  lleva su código de variación, que se escribe en el libreto como nombre en palabras y el código
-  aparece cuando la variación está construida: `>> ♪ «Vuela» (M[06-??])`.
+  lleva su código de variación, que se escribe en el libreto como nombre en palabras; **el código
+  va en la escaleta** cuando la variación está construida: `>> ♪ «Vuela» (M[06-??])`.
   **Los efectos no llevan número en el libreto.** El `>>` va con el nombre del sonido tal como lo
   oye el público; el `S-nn` se asigna al pasar la escena a `revisada` y vive solo en
   `recursos/audiovideo.md`. Ver «Las cues».
@@ -439,10 +439,10 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   - `M[tt-vv]` — las variaciones de los temas del disco. `tt` = número de pista del disco (dos
     dígitos, dirección del material, no se renumera aunque cambie el orden de escenas). `vv` =
     número de variación dentro de ese tema (empieza en `01` = original sin tocar, sube en orden de
-    construcción, no de aparición en la obra). **Este código va en el libreto** como nombre de la
-    variación en palabras; el código aparece cuando la variación está construida. La escaleta no
-    lleva códigos. Ejemplo en borrador: `>> «la voz sola» (M[02-??])`; construido: `>> «la voz
-    sola» (M[02-03])`.
+    construcción, no de aparición en la obra). **El libreto lleva el nombre de la variación en
+    palabras, sin código**; el código va en la **escaleta** cuando la variación está construida.
+    Ejemplo en borrador: `>> «la voz sola» (M[02-??])` — en borrador se escribe el nombre y el tema
+    entre paréntesis; el código `M[02-03]` aparece en la escaleta cuando se construye.
   - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
     `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
     no su posición en la obra.
