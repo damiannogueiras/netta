@@ -35,21 +35,21 @@ el latido suena **dentro de un cuerpo**, que es lo que dice la implementación e
 
 ## Texto
 
-Se escucha el latido. Desde un fade muy suave en la pantalla en un lateral del escenario Aparece en escena el titiritero. Suena de fondo "Avivas el fuego", instrumental, las guitarras, muy limpia y suave.
+Se escucha el latido. Desde un fade muy suave en la pantalla en un lateral del escenario. Aparece en escena el titiritero. Suena de fondo «Avivas el fuego», instrumental, las guitarras, muy limpia y suave.
 Lleva un estetoscopio y se está escuchando su propio corazón.
 Se acerca al público y osculta a un niño, entonces el latido se escucha más vivo y divertido. El titiritero acompaña esto con gestos y expresiones de su cara.
 
 Sigue buscando entre el público, va hacia un joven, lo osculta y empieza un latido tipo techno, con mucha marcha.
 
-Va a junto de otro y le pone el estetocopio y al segundo compas empieza un pitido como cuando hay una parada cardíaca, el titiritero se asusta, le empieza a hacer reanimación cardiopulmonar y el latido vuelve a la normalidad. El titiritero se queda con el estetoscopio en la mano, y se va hacia el público, mientras suena la música de fondo.
-Va a junto de un chica y su carazón empieza lento y luego se acelera... el titiritero se hace el canchero ya que ella se enamoró... 
+Va a junto de otro y le pone el estetoscopio y al segundo compás empieza un pitido como cuando hay una parada cardíaca, el titiritero se asusta, le empieza a hacer reanimación cardiopulmonar y el latido vuelve a la normalidad. El titiritero se queda con el estetoscopio en la mano, y se va hacia el público, mientras suena la música de fondo.
+Va a junto de una chica y su corazón empieza lento y luego se acelera... el titiritero se hace el canchero ya que ella se enamoró...
 
-Titiritero: *El corazón! sonido de vida, cuando estamos en una ecografía, la primera vez de un embarazo... que nervios... el latido nos marca que todo va bien. Que halgo está creciendo. Hemos creado vida. Somos creativos. Hemos vcreado. ¿Es así de fácil crear?
+Titiritero: *¡El corazón! sonido de vida, cuando estamos en una ecografía, la primera vez de un embarazo... que nervios... el latido nos marca que todo va bien. Qué algo está creciendo. Hemos creado vida. Somos creativos. Hemos creado. ¿Es así de fácil crear?
 ¿Es fácil creer, crear, mostrar?*
 
-*Es curioso como los adultoshablamos de ser creativos, ¡que poco creativo! ¿mira ese que creativo es!
+*Es curioso cómo los adultos, hablamos de ser creativos, ¡qué poco creativo! ¿Mira ese que creativo es!
 
-En cambio, cuando somos niñosestamos en una creatividad "perse". No hace falta juzgar la creatividad, porque la cretividad "es".*
+En cambio, cuando somos niños estamos en una creatividad «per se». No hace falta juzgar la creatividad, porque la creatividad «es».*
 
 ## TODO(preguntar)
 
@@ -59,9 +59,13 @@ En cambio, cuando somos niñosestamos en una creatividad "perse". No hace falta 
 - **Aquí ya no es «solo el corazón, nada más»**, así que el `AGENTS.md` y las sinopsis anteriores
   que lo dicen están desfasados. El espejo sobrevive, pero con otra forma: el mundo se **monta**
   alrededor del corazón aquí, y en la 11 ya está montado.
-- **La errata.** Hay bastante en el texto («junte», «vcreado», «los adultos hablamos»,
-  «la cretividad»...) y dos nombres propios sin tildar (**Shrek** y **Alicia**). `TODO(preguntar)`
-  si quieres una pasada de corrección ortográfica, aparte de la lectura dramática.
+- **Corrección ortográfica pasada (2026-09-29), solo a nivel de carácter.** Tildes, espacios,
+  mayúsculas, signos y comillas a «» donde tocaba. La regla fue no insertar ni borrar palabras, y
+  estas se quedaron porque necesitan la tuya: «va a junto de **otro**» (¿otro niño u otro joven?),
+  «los adultos, hablamos» (la coma la he puesto yo; la construcción es tuya), «¿Mira ese que
+  creativo es!» (capital arreglado, el resto es tuyo) y el «et» final de la 02 con una palabra cortada.
+  En la 03 hay un «pantall» también cortado, a la mitad de una frase. Y en la 04, «empieza sonidos»,
+  que parece que le falta el artículo.
 - **Título y fichero.** El texto decía `Introduccion` y ahora la escena es «Entrada del
   titiritero». `TODO(preguntar)` el nombre definitivo.
 - **El material tiene que existir antes de que esta escena pase la puerta**, y son tres pistas, cinco

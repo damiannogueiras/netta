@@ -33,7 +33,7 @@ uno, a la vista. Nadie los ha explicado, se ven entrar.
 
 ## Texto
 
-Se enciende la luz de la mesa que es el escenario y hay una furgoneta. Que está arrancada, las siluetas van siendo colocadas dentro de la furgoneta, empieza sonidos de "Lo llaman vida"
+Se enciende la luz de la mesa que es el escenario y hay una furgoneta. Que está arrancada, las siluetas van siendo colocadas dentro de la furgoneta, empieza sonidos de «Lo llaman vida»
 
 _( lo que sigue, el aguacatero y el empujón, está sin escribir )_
 

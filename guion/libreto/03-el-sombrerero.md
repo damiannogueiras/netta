@@ -38,12 +38,12 @@ escena es la que las fabrica.
 
 ## Texto
 
-El titiritero arregla el proyector y comienza a proyectarse la escena en la que el sombrero le dice a Alicia que antes era mucho... mucho... 
+El titiritero arregla el proyector y comienza a proyectarse la escena en la que el Sombrerero le dice a Alicia que antes era mucho... mucho... 
 que perdió la muchedad
 
-*Aún asi, aqui estamos con nuestra muchedad o con nuestra falta de muchedad... a pesar de nuestras heridas nos embarcamos en proyectos creativos, inventamos la palabra "creatividad" para poder recuperar esa sensación...*
+*Aún así, aquí estamos con nuestra muchedad o con nuestra falta de muchedad... a pesar de nuestras heridas nos embarcamos en proyectos creativos, inventamos la palabra «creatividad» para poder recuperar esa sensación...*
 
-El titiritero va sacando mágicamete de la pantall [TODO: este efecto hay que definirlo] y van apareciendo silueas de miedo, de tristeza, de dolor.
+El titiritero va sacando mágicamente de la pantall [TODO: este efecto hay que definirlo] y van apareciendo siluetas de miedo, de tristeza, de dolor.
 
 ## TODO(preguntar)
 

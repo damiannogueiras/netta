@@ -35,20 +35,20 @@ lo que la obra cuenta.
 
 ## Texto
 
-El titiritero enciende un proyector de 8mm y se empiezan a proyectarimagenes de niños,ppintando, amasando, et
+El titiritero enciende un proyector de 8 mm y se empiezan a proyectar imágenes de niños, pintando, amasando, et
 
-Titiritero: *De pequeños iventamos canciones, las cambiamos, hacemos escultura, pintura, piruetas, inventamos personajes, nos vestimos como nos apetece (los adultos le llamamos disfrazarse), pero un niño no se disfraza se viste como quiere, llamarle disfraz es ridiulizar los gustos. Y lo de bailarr, de niños todos sabíamos bailar, todos sabíamos pintar, todos sabíamos cantar...*
+Titiritero: *De pequeños inventamos canciones, las cambiamos, hacemos escultura, pintura, piruetas, inventamos personajes, nos vestimos como nos apetece (los adultos le llamamos disfrazarse), pero un niño no se disfraza se viste como quiere, llamarle disfraz es ridiculizar los gustos. Y lo de bailar, de niños todos sabíamos bailar, todos sabíamos pintar, todos sabíamos cantar...*
 
-Mientras el titiritero habla el proyector empieza a echar humo y la cinta parece que se quema, la musica se va relantizando... el titiritero va corriendo e intenta para el fuego , momento pánico, se quema la película
+Mientras el titiritero habla el proyector empieza a echar humo y la cinta parece que se quema, la música se va relantizando... el titiritero va corriendo e intenta para el fuego, momento pánico, se quema la película
 
-titiritero: *que me tiene que durar para más espectaculos!"*
+Titiritero: *que me tiene que durar para más espectáculos!*
 
-titiritero: *¡Que pasó!, de repente empezamos a biailar mal, ¿nos olvidamos de dibujar? ya no vale cualquier disfraz... ¿que hice mal?.. ¿lo que quiero está prohibido? soy malo...*
+Titiritero: *¡Qué pasó!, de repente empezamos a bailar mal, ¿nos olvidamos de dibujar? ya no vale cualquier disfraz... ¿qué hice mal?.. ¿lo que quiero está prohibido? soy malo...*
 
 *Criar no es fácil, a veces metieron la pata, a veces muchas veces...*
 
-*eramos mucho mas alegres
-mucho mas imaginativos
+*Éramos mucho más alegres
+mucho más imaginativos
 mucho más inquietos
 mucho más rebeldes...*
 
