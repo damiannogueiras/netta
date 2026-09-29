@@ -15,7 +15,7 @@ formación actual y la voz en off.
 | # | Título | Duración |
 |---|---|---|
 | 01 | Ser artista | 3:58 |
-| 02 | Avivas el fuego | 6:41 |
+| 02 | Avivas el fuego | 5:45,3 |
 | 03 | On s'en fout | 4:37 |
 | 04 | La Reina | 5:18 |
 | 05 | Está bien | 3:17 |
@@ -24,7 +24,7 @@ formación actual y la voz en off.
 | 08 | La puerta | 4:43 |
 | 09 | Seica | 4:55 |
 
-- **9 pistas. Duración total: 40:51.**
+- **9 pistas. Duración total: 39:55,3.**
 - **Fuente:** tracklist facilitada por el autor del proyecto (captura de pantalla del reproductor),
   2026-09-27. Transcripción por OCR, contrastada con `guion/sinopsis.md`: los nueve títulos
   coinciden uno a uno con las nueve canciones que la sinopsis sitúa en la obra, lo que confirma
@@ -63,7 +63,7 @@ formación actual y la voz en off.
   > las duraciones y los idiomas.
 - **«Seica» está en gallego** (9 de 9 es la única del disco en otro idioma). «On s'en fout» está
   en francés. El resto, en español.
-- **«Avivas el fuego» es la pista más larga del disco** (6:41). Ocupa el primer movimiento de
+- **«Avivas el fuego» es la pista más larga del disco** (5:45,3). Ocupa el primer movimiento de
   la escena 11, que es casi todo imagen y sonido. Es el mayor bloque de tiempo musical de la
   obra: condiciona el ritmo y la duración total. `TODO(preguntar)` si se corta o si dura
   entera.
