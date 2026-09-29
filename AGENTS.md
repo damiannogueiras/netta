@@ -216,7 +216,7 @@ significa algo, un momento de la pista— eso no se resuelve ahí.** Se propone 
 Ableton.
 
 - La sesión de Guion **nombra** el sonido dramáticamente, como lo oye el público: `>> un
-  alaseteo`, `>> ♪ «Vuela» (p. 06)`. Eso se hace siempre, desde el primer día, y no se espera a
+  alaseteo`, `>> ♪ «Vuela» (M[06-??])`. Eso se hace siempre, desde el primer día, y no se espera a
   nada. **Nombrar el sonido no es encargarlo.**
 - Ableton es la que decide **cómo suena** y lo anota en `recursos/audiovideo.md` con su número de
   cue.
@@ -367,7 +367,8 @@ y el fichero sería de **Datos**.
   `05-el-tiro-al-blanco.md`. El número no se reutiliza ni se renumera.
 - Las acotaciones van entre paréntesis: `(el pato gira la cabeza hacia el público)`.
 - Los cambios de sonido se marcan con `>>` y los de luz con `**`: `>> un alaseteo`. La música
-  lleva su número de pista, que es fijo y sí se escribe: `>> ♪ «Vuela» (p. 06)`.
+  lleva su código de variación, que se escribe en el libreto como nombre en palabras y el código
+  aparece cuando la variación está construida: `>> ♪ «Vuela» (M[06-??])`.
   **Los efectos no llevan número en el libreto.** El `>>` va con el nombre del sonido tal como lo
   oye el público; el `S-nn` se asigna al pasar la escena a `revisada` y vive solo en
   `recursos/audiovideo.md`. Ver «Las cues».
@@ -435,10 +436,13 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   viven en un solo sitio y no pueden desincronizarse. En el libreto va el nombre tal como lo ve
   o lo oye el público.
 - **Tres series, porque son tres cosas distintas:**
-  - `P-nn` — las nueve pistas del disco, con su número de pista del disco (`P-02` es
-    «Avivas el fuego», la 2 del disco). Es el mismo número que usan `guion/escaleta.md` y
-    `investigacion/referencias.md`, así que no hay que traducir. **Este sí va en el libreto**,
-    porque es fijo y está desde el primer día: `>> ♪ «Vuela» (p. 06)`.
+  - `M[tt-vv]` — las variaciones de los temas del disco. `tt` = número de pista del disco (dos
+    dígitos, dirección del material, no se renumera aunque cambie el orden de escenas). `vv` =
+    número de variación dentro de ese tema (empieza en `01` = original sin tocar, sube en orden de
+    construcción, no de aparición en la obra). **Este código va en el libreto** como nombre de la
+    variación en palabras; el código aparece cuando la variación está construida. La escaleta no
+    lleva códigos. Ejemplo en borrador: `>> «la voz sola» (M[02-??])`; construido: `>> «la voz
+    sola» (M[02-03])`.
   - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
     `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
     no su posición en la obra.
@@ -464,6 +468,13 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   todo lo que hay alrededor—, y aun así son dos cues. Ese es el caso raro que la regla tiene que
   cubrir: por eso dos cues y no uno.
 
+- **Para la música, la regla es distinta.** Si dos escenas usan la misma variación `M[tt-vv]`,
+  es **un solo código**, no dos cues. Lo que cambia entre escenas es lo que pasa alrededor; la
+  variación es idéntica y no gasta números. Dos números para un solo sonido es gasto de números,
+  y los números son sagrados. Lo que sí sigue igual: **ningún número se gasta antes de tiempo.**
+  El `vv` no existe hasta que la variación se construye, que es después de la puerta `revisada`.
+  En un borrador va el nombre y el tema entre paréntesis: `>> «la voz sola» (M[02-??])`.
+
 ### No se inventa el sonido
 
 La misma regla que las letras y que los datos de la banda, aplicada a los efectos:
@@ -482,8 +493,8 @@ La misma regla que las letras y que los datos de la banda, aplicada a los efecto
 opera, siguiendo a la manipulación, no siguiendo un reloj. Las consecuencias asumidas:
 
 - **El disco también es manual.** No hay una Launch por escena con la música automatizada: cada
-  pista del disco es su propio cue `P-nn`, y el operador lo lanza. El disco no deja de sonar
-  porque el títere se retrase, pero tampoco le sigue el paso solo.
+  variación del disco es su propio cue `M[tt-vv]`, y el operador lo lanza. El disco no deja de
+  sonar porque el títere se retrase, pero tampoco le sigue el paso solo.
 - **Cada cue necesita poder callarse.** Un efecto que no tiene forma de parar es un efecto que
   se va alPause accidental. Cada cue lleva su forma de parada en `audiovideo.md` (choke group,
   Launch Mode, corte manual) y el operador la tiene que tener a mano.
