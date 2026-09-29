@@ -458,22 +458,20 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
 - **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.
-- **El mismo efecto puede sonar en varias escenas con cues distintas** (el cue de la 01 y el de
-  la 11 serán el mismo latido). Lo que se repite es el sonido; el cue es una ocurrencia
-  concreta. **Ninguno de los dos números existe todavía:** se asignan cuando esas escenas
-  pasen la puerta, y no tienen por qué ser consecutivos.
 
-  El latido es el caso límite: **mismo archivo, misma cadena, mismo ajuste**, lanzado dos veces
-  en la obra. No hay dos tratamientos del mismo sonido —lo que cambia entre la 01 y la 11 es
-  todo lo que hay alrededor—, y aun así son dos cues. Ese es el caso raro que la regla tiene que
-  cubrir: por eso dos cues y no uno.
-
-- **Para la música, la regla es distinta.** Si dos escenas usan la misma variación `M[tt-vv]`,
-  es **un solo código**, no dos cues. Lo que cambia entre escenas es lo que pasa alrededor; la
-  variación es idéntica y no gasta números. Dos números para un solo sonido es gasto de números,
+- **Mismo sonido = mismo código, siempre.** Si el mismo archivo, con la misma cadena y los
+  mismos ajustes, suena en varias escenas, es **un solo cue** (un solo `S-nn` o `V-nn`,
+  una sola `M[tt-vv]`). Lo que cambia entre escenas es lo que pasa alrededor; el sonido es
+  idéntico y no gasta dos números. Dos números para un solo sonido es gasto de números,
   y los números son sagrados. Lo que sí sigue igual: **ningún número se gasta antes de tiempo.**
-  El `vv` no existe hasta que la variación se construye, que es después de la puerta `revisada`.
-  En un borrador va el nombre y el tema entre paréntesis: `>> «la voz sola» (M[02-??])`.
+  El `vv` de `M[tt-vv]` y el `nn` de `S-nn`/`V-nn` no existen hasta que el cue se construye,
+  que es después de la puerta `revisada`. En un borrador va el nombre y el tema entre
+  paréntesis: `>> «la voz sola» (M[02-??])` o `>> un latido (S[??])`.
+
+- **Si el sonido cambia, es otro cue.** Si el latido de la 11 crece, se hace otra versión
+  y merece su propio número. El número viejo se queda (o se marca `caído` si ya no se usa),
+  y el nuevo coge el siguiente libre. Así no hay «caso raro»: la regla es simple y no gasta
+  números en promesas.
 
 ### No se inventa el sonido
 
