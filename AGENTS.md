@@ -201,8 +201,8 @@ kimaki send --thread 1553736444798042246 --prompt 'La escena 08 necesita un efec
 **Un commit no es un mensaje.** Si algo es de otra sesión, se le manda a su hilo y se sigue. La
 otra sesión lo mete en su fichero; quien escribe el fichero es quien commitea.
 
-**Dos mensajes por sesión, y luego a callar.** Decidido por el autor (2026-09-28). En un diálogo
-entre sesiones, cada una tiene **dos mensajes**. Al segundo, la conversación se para: lo que quede
+**dos réplicas para ponerse de acuerdo, y luego a callar.** Decidido por el autor. En un diálogo
+entre sesiones, cada una puede replicar hasta dos veces. Al segundo, la conversación se para: lo que quede
 sin resolver se le pregunta al autor aquí, y no se sigue encadenando.
 
 El motivo es concreto: las sesiones se Contestan entre sí, y sin tope una observación pequeña
@@ -367,11 +367,11 @@ y el fichero sería de **Datos**.
   `05-el-tiro-al-blanco.md`. El número no se reutiliza ni se renumera.
 - Las acotaciones van entre paréntesis: `(el pato gira la cabeza hacia el público)`.
 - Los cambios de sonido se marcan con `>>` y los de luz con `**`: `>> un alaseteo`. La música
-  lleva su código de variación, que se escribe en el libreto como nombre en palabras; **el código
-  va en la escaleta** cuando la variación está construida: `>> ♪ «Vuela» (M[06-??])`.
-  **Los efectos no llevan número en el libreto.** El `>>` va con el nombre del sonido tal como lo
-  oye el público; el `S-nn` se asigna al pasar la escena a `revisada` y vive solo en
-  `recursos/audiovideo.md`. Ver «Las cues».
+  lleva su nombre de variación en palabras, y del tema solo el título entre paréntesis:
+  `>> ♪ «la voz sola» (del «Avivas el fuego»)`. **El código va en la escaleta** cuando la
+  variación está construida. **Los efectos no llevan número en el libreto.** El `>>` va con el
+  nombre del sonido tal como lo oye el público; el `S-nn` se asigna al pasar la escena a
+  `revisada` y vive solo en `recursos/audiovideo.md`. Ver «Las cues».
 - **El vídeo también va con `>>` y también sin número**, por la misma razón: `>> un vídeo de niños
   proyectados`. El `V-nn` se asigna en la puerta, igual que el `S-nn`.
 - Las preguntas abiertas se dejan como `TODO:` al final del fichero, no interrumpen el texto.
@@ -431,22 +431,22 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
 ### Las cues
 
 - **Un cue es una cosa que hay que lanzar con nombre.** Tiene un identificador corto y estable
-  para poder buscarlo. **Los números de cue solo existen en `recursos/audiovideo.md`.** No se
-  escriben en el libreto: los asigna Ableton al pasar la escena a `revisada`, y desde ese momento
-  viven en un solo sitio y no pueden desincronizarse. En el libreto va el nombre tal como lo ve
-  o lo oye el público.
+  para poder buscarlo. **`recursos/audiovideo.md` es la fuente:** el número existe ahí y en
+  ningún otro sitio, y se busca ahí. **La escaleta recibe una copia de los códigos musicales
+  (`M[tt-vv]`), y solo de los musicales, cuando ya existen.** `S-nn` y `V-nn` no van a la
+  escaleta. En el libreto va el nombre tal como lo ve o lo oye el público, sin códigos.
 - **Tres series, porque son tres cosas distintas:**
   - `M[tt-vv]` — las variaciones de los temas del disco. `tt` = número de pista del disco (dos
     dígitos, dirección del material, no se renumera aunque cambie el orden de escenas). `vv` =
     número de variación dentro de ese tema (empieza en `01` = original sin tocar, sube en orden de
     construcción, no de aparición en la obra). **El libreto lleva el nombre de la variación en
-    palabras, sin código**; el código va en la **escaleta** cuando la variación está construida.
-    Ejemplo en borrador: `>> «la voz sola» (M[02-??])` — en borrador se escribe el nombre y el tema
-    entre paréntesis; el código `M[02-03]` aparece en la escaleta cuando se construye.
+    palabras, y del tema solo el título:** `>> ♪ «la voz sola» (del «Avivas el fuego»)`.
+    El código va en la **escaleta** cuando la variación está construida.
   - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
     `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
-    no su posición en la obra.
+    no su posición en la obra. **No van a la escaleta.**
   - `V-nn` — las proyecciones de vídeo, **numerados igual que los `S-nn` y por la misma puerta**.
+    **No van a la escaleta.**
     El vídeo es material tan suena como un efecto: lo dispara el operador desde el mismo sitio y
     en el mismo momento, y se decide al pasar la puerta, no desde el primer día. Así que no
     necesita reglas propias, y no se le inventa una serie nueva: solo otra columna.
@@ -465,8 +465,8 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   idéntico y no gasta dos números. Dos números para un solo sonido es gasto de números,
   y los números son sagrados. Lo que sí sigue igual: **ningún número se gasta antes de tiempo.**
   El `vv` de `M[tt-vv]` y el `nn` de `S-nn`/`V-nn` no existen hasta que el cue se construye,
-  que es después de la puerta `revisada`. En un borrador va el nombre y el tema entre
-  paréntesis: `>> «la voz sola» (M[02-??])` o `>> un latido (S[??])`.
+  que es después de la puerta `revisada`. En un borrador va el nombre de la variación y del
+  tema solo el título: `>> ♪ «la voz sola» (del «Avivas el fuego»)` o `>> un latido`.
 
 - **Si el sonido cambia, es otro cue.** Si el latido de la 11 crece, se hace otra versión
   y merece su propio número. El número viejo se queda (o se marca `caído` si ya no se usa),
