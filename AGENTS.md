@@ -172,7 +172,7 @@ dices aquí**, pero no lo escribes.
 | Sesión | Escribe | No toca |
 |---|---|---|
 | **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/libreto/` | `recursos/`, `investigacion/` |
-| **Ableton** | `recursos/audiovideo.md` — disco, efectos, cues, el Set de Live, la red de TouchDesigner | `guion/`, `investigacion/`, `AGENTS.md` |
+| **Ableton** | `recursos/audiovideo.md` — disco, efectos, clips, el Set de Live, la red de TouchDesigner | `guion/`, `investigacion/`, `AGENTS.md` |
 | **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, la estructura del proyecto (`README.md`) y la configuración de opencode (`.opencode/`) | `guion/`, `recursos/audiovideo.md` |
 
 Lo que **no** está repartido y sigue sin dueño: `recursos/escena.md` (puesta en escena) y
@@ -219,7 +219,7 @@ Ableton.
   alaseteo`, `>> ♪ «Vuela»`. Eso se hace siempre, desde el primer día, y no se espera a
   nada. **Nombrar el sonido no es encargarlo.**
 - Ableton es la que decide **cómo suena** y lo anota en `recursos/audiovideo.md` con su número de
-  cue.
+  clip.
 
 Igual con la otra dirección: si a Ableton le falta saber qué hace una escena para poder decidir
 un sonido, se lo pregunta al hilo de Guion en vez de adivinarlo. Lo mismo con **Datos**: si
@@ -240,12 +240,12 @@ grep '| 12 |' guion/escaleta.md     # la fila dice el estado
 |---|---|---|
 | `idea` | Escribe el texto. Nombra los sonidos en el libreto. **No manda nada.** | No sabe que existe |
 | `boceto` | Lo mismo. Acaba el texto y lo relee. **No manda nada.** | No sabe que existe |
-| `revisada` | Actualiza el estado en la escaleta y **manda la lista de sonidos** | Los construye y asigna cues |
+| `revisada` | Actualiza el estado en la escaleta y **manda la lista de sonidos** | Los construye y asigna clips |
 | `cerrada` | Nada pendiente | Idem, si hace falta corregir algo |
 
 **Por qué la puerta:** una escena en `boceto` todavía cambia. Un efecto construido sobre un
-texto que se va a reescribir es un efecto que hay que tirar y volver a hacer, con su cue gastado
-— y la numeración de cues es sagrada, así que ese número queda libre para siempre. La puerta
+texto que se va a reescribir es un efecto que hay que tirar y volver a hacer, con su clip gastado
+— y la numeración de clips es sagrada, así que ese número queda libre para siempre. La puerta
 protege a Ableton de un churn que no puede deshacer.
 
 **El mensaje a Ableton lleva cinco cosas**, y si le falta una, no se puede empezar:
@@ -263,17 +263,17 @@ protege a Ableton de un churn que no puede deshacer.
 está en `revisada`, lo dice y no la trabaja: no es suyo decidir que un texto ya está. Y si le
 falta algo para construir el efecto, pregunta a Guion; no lo deduce.
 
-### El numerito de cues lo fija la puerta
+### El numerito de clips lo fija la puerta
 
 Los `S-nn` se numeran **en el orden en que las escenas llegan a `revisada`**, no en el orden en
 que Guion las escribe. Como el estado de cada escena está en la escaleta, la numeración se
 deduce de ahí.
 
 Esto tiene una consecuencia que conviene decir en voz alta: si la 12 se revisa antes que la 05,
-**la 12 se lleva los cues bajos y la 05 los altos**, aunque en la obra la 05 suene antes. No es
+**la 12 se lleva los clips bajos y la 05 los altos**, aunque en la obra la 05 suene antes. No es
 un error: es que el número identifica un sonido, no su posición en la obra. Lo que no puede
 pasar es que un número se reutilice, se renumere o se reasigne. Una escena que vuelve a `boceto`
-no mueve los cues que ya tenía: si el efecto cambia, el viejo se marca `caído` y el nuevo
+no mueve los clips que ya tenía: si el efecto cambia, el viejo se marca `caído` y el nuevo
 coge el siguiente número libre.
 
 - **Antes de escribir un fichero, mira quién lo escribió por última vez:**
@@ -371,7 +371,7 @@ y el fichero sería de **Datos**.
   `>> ♪ «la voz sola» (del «Avivas el fuego»)`. **El código va en la escaleta** cuando la
   variación está construida. **Los efectos no llevan número en el libreto.** El `>>` va con el
   nombre del sonido tal como lo oye el público; el `S-nn` se asigna al pasar la escena a
-  `revisada` y vive solo en `recursos/audiovideo.md`. Ver «Las cues».
+  `revisada` y vive solo en `recursos/audiovideo.md`. Ver «Los clips».
 - **El vídeo también va con `>>` y también sin número**, por la misma razón: `>> un vídeo de niños
   proyectados`. El `V-nn` se asigna en la puerta, igual que el `S-nn`.
 - Las preguntas abiertas se dejan como `TODO:` al final del fichero, no interrumpen el texto.
@@ -421,17 +421,17 @@ deja claro:
 
 | | Qué lleva | Qué no lleva |
 |---|---|---|
-| `guion/libreto/NN-*.md` | Lo que se oye y lo que se ve, en términos dramático-teatrales. Cómo suena y cómo se ve de verdad, con su cue. | Nombres de dispositivo, de pista de Live, de efecto, de automation, dB, nombres de nodo de TouchDesigner. |
-| `recursos/audiovideo.md` | La implementación: arquitectura del Set, tabla de cues, por qué cada sonido suena así, cómo se lanza cada vídeo. | Acotaciones de manipulación, indicaciones de luz, texto de la obra. |
+| `guion/libreto/NN-*.md` | Lo que se oye y lo que se ve, en términos dramático-teatrales. Cómo suena y cómo se ve de verdad, con su clip. | Nombres de dispositivo, de pista de Live, de efecto, de automation, dB, nombres de nodo de TouchDesigner. |
+| `recursos/audiovideo.md` | La implementación: arquitectura del Set, tabla de clips, por qué cada sonido suena así, cómo se lanza cada vídeo. | Acotaciones de manipulación, indicaciones de luz, texto de la obra. |
 | `AGENTS.md` | Esta convención. | Nada del sonido ni del vídeo concretos. |
 
 Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si aparece
 «el ventilador hace un ruido espantoso» en `audiovideo.md`, está mal. Cada cosa en su sitio.
 
-### Las cues
+### Los clips
 
-- **Un cue es una cosa que hay que lanzar con nombre.** Tiene un identificador corto y estable
-  para poder buscarlo. **`recursos/audiovideo.md` es la fuente:** el número existe ahí y en
+- **Un clip es una cosa que hay que lanzar con nombre.** Tiene un identificador corto y estable
+  para poder buscarlo. **`recursos/audiovideo.md` es la fuente:** el nombre existe ahí y en
   ningún otro sitio, y se busca ahí. **La escaleta recibe una copia de los códigos musicales
   (`M[tt-vv]`), y solo de los musicales, cuando ya existen.** `S-nn` y `V-nn` no van a la
   escaleta. En el libreto va el nombre tal como lo ve o lo oye el público, sin códigos.
@@ -443,10 +443,13 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
     palabras, y del tema solo el título:** `>> ♪ «la voz sola» (del «Avivas el fuego»)`.
     El código va en la **escaleta** cuando la variación está construida.
   - `S-nn` — los efectos sonoros, numerados **en el orden en que las escenas llegan a
-    `revisada`**. Ver «El numerito de cues lo fija la puerta»: el número identifica un sonido,
+    `revisada`**. Ver «El numerito de clips lo fija la puerta»: el número identifica un sonido,
     no su posición en la obra. **No van a la escaleta.**
   - `V-nn` — las proyecciones de vídeo, **numerados igual que los `S-nn` y por la misma puerta**.
-    **No van a la escaleta.**
+    **No van a la escaleta.** **`V-nn` no es un clip de Live:** Live no tiene clips de vídeo.
+    Un vídeo es una red CHOP en TouchDesigner; lo que se pulsa en Live para dispararlo es un
+    **clip MIDI** (un `S-nn` como cualquier otro) que manda OSC. El parámetro `V-nn` vive en
+    TouchDesigner y se referencia desde `audiovideo.md`.
     El vídeo es material tan suena como un efecto: lo dispara el operador desde el mismo sitio y
     en el mismo momento, y se decide al pasar la puerta, no desde el primer día. Así que no
     necesita reglas propias, y no se le inventa una serie nueva: solo otra columna.
@@ -455,20 +458,20 @@ Consecuencia práctica: si aparece un `Resample` en el libreto, está mal; si ap
   El motivo es que hay un solo operador disparando desde un sola mesa: partir la lista en dos
   se nota justo en el momento en que hay que clavar un vídeo y un sonido a la vez. Si
   TouchDesigner crece y pide su propio fichero, se parte entonces, que es barato.
-- **La numeración es sagrada.** Un número de cue no se reutiliza, no se renumera y no se
+- **La numeración es sagrada.** Un número de clip no se reutiliza, no se renumera y no se
   reasigna. Si un efecto se cae, se marca `caído` y su número queda libre para siempre: quien
   tenía memorizado `S-07` en la gira anterior tiene que encontrar ahí lo mismo, o nada.
 
 - **Mismo sonido = mismo código, siempre.** Si el mismo archivo, con la misma cadena y los
-  mismos ajustes, suena en varias escenas, es **un solo cue** (un solo `S-nn` o `V-nn`,
+  mismos ajustes, suena en varias escenas, es **un solo clip** (un solo `S-nn` o `V-nn`,
   una sola `M[tt-vv]`). Lo que cambia entre escenas es lo que pasa alrededor; el sonido es
   idéntico y no gasta dos números. Dos números para un solo sonido es gasto de números,
   y los números son sagrados. Lo que sí sigue igual: **ningún número se gasta antes de tiempo.**
-  El `vv` de `M[tt-vv]` y el `nn` de `S-nn`/`V-nn` no existen hasta que el cue se construye,
+  El `vv` de `M[tt-vv]` y el `nn` de `S-nn`/`V-nn` no existen hasta que el clip se construye,
   que es después de la puerta `revisada`. En un borrador va el nombre de la variación y del
   tema solo el título: `>> ♪ «la voz sola» (del «Avivas el fuego»)` o `>> un latido`.
 
-- **Si el sonido cambia, es otro cue.** Si el latido de la 11 crece, se hace otra versión
+- **Si el sonido cambia, es otro clip.** Si el latido de la 11 crece, se hace otra versión
   y merece su propio número. El número viejo se queda (o se marca `caído` si ya no se usa),
   y el nuevo coge el siguiente libre. Así no hay «caso raro»: la regla es simple y no gasta
   números en promesas.
@@ -487,23 +490,39 @@ La misma regla que las letras y que los datos de la banda, aplicada a los efecto
 
 ### Cómo se dispara
 
-**Un Launch por cue, todo a mano** (decidido por el autor, 2026-09-27). Lo dispara quien
-opera, siguiendo a la manipulación, no siguiendo un reloj. Las consecuencias asumidas:
+**Un clip por fila, todo a mano** (decidido por el autor, 2026-09-30). Lo dispara quien
+opera, siguiendo a la manipulación, no siguiendo un reloj.
 
-- **El disco también es manual.** No hay una Launch por escena con la música automatizada: cada
-  variación del disco es su propio cue `M[tt-vv]`, y el operador lo lanza. El disco no deja de
-  sonar porque el títere se retrase, pero tampoco le sigue el paso solo.
-- **Cada cue necesita poder callarse.** Un efecto que no tiene forma de parar es un efecto que
-  se va alPause accidental. Cada cue lleva su forma de parada en `audiovideo.md` (choke group,
-  Launch Mode, corte manual) y el operador la tiene que tener a mano.
-- **Los cues del disco duran lo que dura la pista.** Si una escena usa «Está bien» entera, el
-  cue dura 3:17. Para cortar antes hace falta un segundo cue. `TODO(preguntar):` si hay alguna
+**Fila** es lo que el manual de Live 12 llama *Scene* (la fila de la Session View). En nuestra
+documentación **fila** = la fila de la Session View; **escena** = la escena de la obra. Sin esa
+distinción, «la escena 05» y «la fila 5» son lo mismo en la misma frase y es una confusión en
+directo.
+
+El identificador va escrito en la pantalla: `S-07` es el **nombre del clip** en la Session View,
+no un código que hay que buscar en un fichero. Lo mismo `M[01-02]`. Esto no toca la numeración
+sagrada: sigue sin reutilizarse, sin renumerarse y sin reasignarse. Lo que cambia es dónde se
+mira.
+
+Las consecuencias asumidas:
+
+- **El disco también es manual.** No hay un clip automático por escena con la música automatizada:
+  cada variación del disco es su propio clip `M[tt-vv]`, y el operador lo lanza. El disco no deja
+  de sonar porque el títere se retrase, pero tampoco le sigue el paso solo.
+- **Cada clip necesita poder callarse.** Un efecto que no tiene forma de parar es un efecto que
+  se va alPause accidental. Cada clip lleva su **Launch Mode** (Trigger, Repeat, Alternate, Gate)
+  en `audiovideo.md` y el operador lo tiene que tener a mano. **Gate** es el modo del latido:
+  se corta en caliente sin recalentar.
+- **Los clips del disco duran lo que dura la pista.** Si una escena usa «Está bien» entera, el
+  clip dura 3:17. Para cortar antes hace falta un segundo clip. `TODO(preguntar):` si hay alguna
   escena donde la música tenga que entrar o salir dentro de la pista.
 - **Los vídeos se disparan desde aquí, igual que los sonidos.** El autor decidió el sistema de
   vídeo de la obra (2026-09-28): el «8 mm» es un proyector de vídeo normal disfrazado —no hay
   película de verdad—, los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI, y
-  Ableton construye también la red de TouchDesigner. Cada proyección es su propio cue `V-nn`, lo
-  dispara el operador desde la misma mesa y en el mismo momento que el sonido que la acompaña.
-- **Nada de esto se decide aún en el Set.** La arquitectura concreta (pistas, buses, Launch
-  Modes, choke groups, key mapping) está en `recursos/audiovideo.md` y se escribe cuando empiece
-  el trabajo de sonido.
+  Ableton construye también la red de TouchDesigner. Cada proyección es su **parámetro `V-nn` en
+  TouchDesigner**; lo que se pulsa en Live es un **clip MIDI `S-nn`** que manda OSC. El operador
+  lo dispara desde la misma mesa y en el mismo momento que el sonido que la acompaña.
+- **Nada de esto se decide aún en el Set.** La arquitectura concreta (pistas —Audio, Instrument,
+  Group, Return, Player—, buses, Launch Modes, choke groups, key mapping) está en
+  `recursos/audiovideo.md` y se escribe cuando empiece el trabajo de sonido. **Group = el bus**,
+  y el fader de una variación va ahí, no en el clip. **Set = uno solo**, abierto antes de
+  empezar y no recargado durante la función.
