@@ -149,7 +149,14 @@ tenía una carta de poker, maquetada grotescamente y mitad Reina mitad aviador.
 
 ## El escenario
 
-El escenario es una mesa a una altura de unos 70cm, con un fondo negro, el escenario se va montando y desmontando según las escenas, son figuras planas de cartón pluma, objetos, títeres de varilla, un mix. La mesa tiene unos tres metros de largos y n ancho de un metro y medio. En un lateral hay una pantalla de un metro por un metro donde se irán proyectando videos.
+El escenario es una mesa a una altura de unos 70cm, con un fondo negro, el escenario se va
+montando y desmontando según las escenas, son figuras planas de cartón pluma, objetos, títeres
+de varilla, un mix. La mesa tiene unos tres metros de largo y un ancho de un metro y medio. En
+un lateral hay una **superficie giratoria** donde se proyectan los vídeos: por un lado es la
+pantalla para el efecto **8 mm** (proyector de 8 mm normal disfrazado, no hay película real);
+del otro lado es un **televisor vintage** de los 80. La proyección está deformada a propósito
+para parecer o un proyector de 8 mm o un televisor de color de los 80. El cañón de proyección
+está fijo y dispara sobre la superficie que gira.
 
 ## Los objeto
 
@@ -161,6 +168,9 @@ El escenario es una mesa a una altura de unos 70cm, con un fondo negro, el escen
 - **La escoba** — la que aparece en la letra de «Ser artista» (escena 08).
 - **La percha** — con la careta del profesor y la camisola; el titiritero se la pone en escena y
   se transforma en el profesor.
+- **El cañón de proyección** — fijo, dispara sobre la superficie giratoria. La proyección está
+  deformada para parecer o un proyector de 8 mm o un televisor vintage de los 80.
+- **La superficie giratoria** — de doble cara: un lado pantalla 8 mm, el otro TV vintage 80.
 
 ## TODO(preguntar)
 
