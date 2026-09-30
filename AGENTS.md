@@ -509,12 +509,14 @@ Las consecuencias asumidas:
   cada variación del disco es su propio clip `M[tt-vv]`, y el operador lo lanza. El disco no deja
   de sonar porque el títere se retrase, pero tampoco le sigue el paso solo.
 - **Cada clip necesita poder callarse.** Un efecto que no tiene forma de parar es un efecto que
-  se va alPause accidental. Cada clip lleva su **Launch Mode** (Trigger, Repeat, Alternate, Gate)
+  se va al **Pause** accidental. Cada clip lleva su **Launch Mode** (Trigger, Repeat, Alternate, Gate)
   en `audiovideo.md` y el operador lo tiene que tener a mano. **Gate** es el modo del latido:
   se corta en caliente sin recalentar.
-- **Los clips del disco duran lo que dura la pista.** Si una escena usa «Está bien» entera, el
-  clip dura 3:17. Para cortar antes hace falta un segundo clip. `TODO(preguntar):` si hay alguna
-  escena donde la música tenga que entrar o salir dentro de la pista.
+- **La duración de cada clip la decide la variación.** No hay «clips del disco»: el disco es
+  materia prima y lo que suena son construcciones `M[tt-vv]`. La única que equivaldría a la
+  pista entera es `M[tt-01]` (original sin tocar), y esa no está en discusión. Para cortar una
+  variación antes de su final, se hace otra variación más corta. `TODO(preguntar):` si hay alguna
+  escena donde la música tenga que entrar o salir dentro de la variación.
 - **Los vídeos se disparan desde aquí, igual que los sonidos.** El autor decidió el sistema de
   vídeo de la obra (2026-09-28): el «8 mm» es un proyector de vídeo normal disfrazado —no hay
   película de verdad—, los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI, y
