@@ -97,6 +97,10 @@ cosas de los huevos: el televisor, la niña.
 está dicho. `TODO(preguntar):` de qué está hecha la máscara, y si se la pone y se la quita en
 escena o entre escenas.
 
+**Transformación en escena.** Hay una **percha** en el escenario con la careta del profesor y la
+camisola. El titiritero se la pone delante del público y se transforma en el profesor. La
+transformación es visible y forma parte de la obra.
+
 ### La Niña (Inocencia)
 
 **Qué es.** Vestida de naranja.
@@ -155,6 +159,8 @@ El escenario es una mesa a una altura de unos 70cm, con un fondo negro, el escen
   videoclip, la conversación del Sombrerero.
 - **El ventilador** — el ruido espantoso de la escena 08.
 - **La escoba** — la que aparece en la letra de «Ser artista» (escena 08).
+- **La percha** — con la careta del profesor y la camisola; el titiritero se la pone en escena y
+  se transforma en el profesor.
 
 ## TODO(preguntar)
 
