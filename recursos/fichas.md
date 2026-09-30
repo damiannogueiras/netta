@@ -84,16 +84,18 @@ se toman—, y si la máscara de gas es la que ya tenía el diseño antiguo.
 **No es un personaje aparte: es el titiritero con la máscara puesta.** Un títere, jugado por la
 misma persona que está delante. Ver su ficha.
 
-**Qué es.** Salido de un muro (referencia: Pink Floyd).
+**Qué es.** Una máscara que se pone el titiritero junto con una camisola. Es el propio titiritero
+actuando de profesor. Salido de un muro (referencia: Pink Floyd).
 
 **Qué quiere.** Cansado de pasar niños por la picadora de carne, **ahora es el protector estoico
 de la inocencia**. Es quien trae la sentencia del Sombrerero y el que saca
 cosas de los huevos: el televisor, la niña.
 
-**Cómo actúa.** No explica nada. Da cosas y se las lleva.
+**Cómo actúa.** No tiene diálogos, solo actúa. No explica nada. Da cosas y se las lleva.
 
 `TODO(preguntar):` qué muro es. La referencia es a Pink Floyd; el álbum o la canción concreta no
-está dicho.
+está dicho. `TODO(preguntar):` de qué está hecha la máscara, y si se la pone y se la quita en
+escena o entre escenas.
 
 ### La Niña (Inocencia)
 
