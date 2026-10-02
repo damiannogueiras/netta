@@ -83,7 +83,7 @@ funciona pasado mañana.
 - **Todo en español.** Cuando algo quede en su idioma original —gallego, francés— se cita tal
   cual y se glosa.
 - **La convención está en `AGENTS.md`.** Léelo antes de construir: es corto y es la ley.
-- **El estado de una escena vive en tres sitios**: la cabecera de `guion/libreto/NN-*.md`, la
+- **El estado de una escena vive en tres sitios**: la cabecera de `guion/escenas/NN-*/libreto.md`, la
   fila de la escena en `guion/escaleta.md`, y el bloque `## Estado` de la escaleta.
 - **La música lleva su número de pista y ese número es fijo**: `>> ♪ «Vuela» (p. 06)`.
 - **Los efectos y los vídeos no llevan número en el libreto.** Van con `>>` y el nombre tal como

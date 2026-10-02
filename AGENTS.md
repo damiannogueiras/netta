@@ -49,19 +49,31 @@ netta/
 ├── guion/
 │   ├── sinopsis.md                la obra en un párrafo; la brújula
 │   ├── escaleta.md                ESQUELETO: qué ocurre en cada escena
-│   └── libreto/                   EL TEXTO, un fichero por escena
-│       ├── 01-el-corazon.md
-│       ├── 02-ninos-proyectados.md
-│       ├── 03-el-sombrerero.md
-│       ├── 04-la-furgoneta.md
-│       ├── 05-el-tiro-al-blanco.md
-│       ├── 06-la-reina.md
-│       ├── 07-la-salida-que-no-esta.md
-│       ├── 08-la-nina-triste-y-el-ventilador.md
-│       ├── 09-la-senal.md
-│       ├── 10-lo-ancestral.md
-│       ├── 11-el-fuego.md
-│       └── 12-cuerda-floja.md
+│   └── escenas/                   EL TEXTO, una carpeta por escena
+│       ├── 01-el-corazon/
+│       │   └── libreto.md
+│       ├── 02-ninos-proyectados/
+│       │   └── libreto.md
+│       ├── 03-la-furgoneta/
+│       │   └── libreto.md
+│       ├── 04-el-sombrerero/
+│       │   └── libreto.md
+│       ├── 05-el-tiro-al-blanco/
+│       │   └── libreto.md
+│       ├── 06-la-reina/
+│       │   └── libreto.md
+│       ├── 07-la-salida-que-no-esta/
+│       │   └── libreto.md
+│       ├── 08-la-nina-triste-y-el-ventilador/
+│       │   └── libreto.md
+│       ├── 09-la-senal/
+│       │   └── libreto.md
+│       ├── 10-lo-ancestral/
+│       │   └── libreto.md
+│       ├── 11-el-fuego/
+│       │   └── libreto.md
+│       └── 12-cuerda-floja/
+│           └── libreto.md
 ├── recursos/
 │   ├── audiovideo.md              todo el sonido y el vídeo de la obra, desde Ableton Live
 │   ├── fichas.md                  personajes, objetos y títeres uno a uno
@@ -89,7 +101,7 @@ opencode (los sub-agentes, sus permisos). Va de **Datos**, como el resto de la e
 - **`guion/escaleta.md`** — el índice y el estado de avance. Una línea por escena, con su
   estado. Es lo primero que se lee y lo primero que se actualiza. Una escena pasa por:
   `idea` → `boceto` → `revisada` → `cerrada`.
-- **`guion/libreto/`** — el texto en sí, con las acotaciones, **un fichero por escena**
+- **`guion/escenas/`** — el texto en sí, con las acotaciones, **una carpeta por escena**
   (`NN-nombre.md`, dos dígitos, minúsculas, guiones). El texto se escribe **antes** de que la
   escena esté `revisada`: es lo que la hace pasar por `idea` y `boceto`. `revisada` quiere decir
   que el texto está y ya no se toca. Ver «El protocolo: `revisada` es la puerta».
@@ -139,7 +151,7 @@ trabajo.**
 
 - **En un árbol compartido, `-A` se lleva puesto también lo que otra sesión tiene a medio
   escribir.** Se commitea fichero a fichero:
-  `git add guion/libreto/12-cuerda-floja.md guion/escaleta.md`.
+  `git add guion/escenas/12-cuerda-floja/libreto.md guion/escaleta.md`.
 - **Antes de commitear, `git status`.** Si hay cambios que no son tuyos, **no los commitees**.
   Dímelos y pregunta. Subir el trabajo a medio hacer de otra sesión no es un favor: es meter en
   la historia algo que el autor no ha visto.
@@ -171,7 +183,7 @@ dices aquí**, pero no lo escribes.
 
 | Sesión | Escribe | No toca |
 |---|---|---|
-| **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/libreto/` | `recursos/`, `investigacion/` |
+| **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/escenas/` | `recursos/`, `investigacion/` |
 | **Ableton** | `recursos/audiovideo.md` — disco, efectos, clips, el Set de Live, la red de TouchDesigner | `guion/`, `investigacion/`, `AGENTS.md` |
 | **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, la estructura del proyecto (`README.md`) y la configuración de opencode (`.opencode/`) | `guion/`, `recursos/audiovideo.md` |
 
@@ -225,7 +237,7 @@ Igual con la otra dirección: si a Ableton le falta saber qué hace una escena p
 un sonido, se lo pregunta al hilo de Guion en vez de adivinarlo. Lo mismo con **Datos**: si
 falta un dato de la banda o del disco, se pregunta ahí en vez de suponerlo.
 
-### El protocolo: `revisada` es la puerta
+### El protocolo: `revisada`
 
 **Hasta que una escena no está en `revisada` en la escaleta, no se le pasa nada a Ableton.** Ni
 los efectos, ni los sonidos, ni las pistas. Decidido por el autor (2026-09-28).
@@ -243,9 +255,9 @@ grep '| 12 |' guion/escaleta.md     # la fila dice el estado
 | `revisada` | Actualiza el estado en la escaleta y **manda la lista de sonidos** | Los construye y asigna clips |
 | `cerrada` | Nada pendiente | Idem, si hace falta corregir algo |
 
-**Por qué la puerta:** una escena en `boceto` todavía cambia. Un efecto construido sobre un
+Una escena en `boceto` todavía cambia. Un efecto construido sobre un
 texto que se va a reescribir es un efecto que hay que tirar y volver a hacer, con su clip gastado
-— y la numeración de clips es sagrada, así que ese número queda libre para siempre. La puerta
+— y la numeración de clips es sagrada, así que ese número queda libre para siempre. El estado `revisada`
 protege a Ableton de un churn que no puede deshacer.
 
 **El mensaje a Ableton lleva cinco cosas**, y si le falta una, no se puede empezar:
@@ -256,14 +268,14 @@ protege a Ableton de un churn que no puede deshacer.
 4. **Por qué en ese momento.** Qué le pasa a la escena, a la imagen o al público justo ahí.
 5. **De dónde sale el material.** Si es un archivo, una pista del disco, una grabación que hay que
    conseguir, o algo que hay que fabricar. **Si la respuesta es «todavía no lo sé», el material
-   no está resuelto** y la puerta no se puede dar por buena: eso se pregunta antes, aquí, en
+   no está resuelto** y el cambio de estado no se puede dar por buena: eso se pregunta antes, aquí, en
    `investigacion/referencias.md` o en el hilo de Guion.
 
-**Ableton comprueba la puerta antes de empezar.** Si llega una propuesta de una escena que no
+**Ableton comprueba el estado antes de empezar.** Si llega una propuesta de una escena que no
 está en `revisada`, lo dice y no la trabaja: no es suyo decidir que un texto ya está. Y si le
 falta algo para construir el efecto, pregunta a Guion; no lo deduce.
 
-### El numerito de clips lo fija la puerta
+### El numerito de clips
 
 Los `S-nn` se numeran **en el orden en que las escenas llegan a `revisada`**, no en el orden en
 que Guion las escribe. Como el estado de cada escena está en la escaleta, la numeración se
@@ -346,7 +358,7 @@ sitios a la vez**, y basta con olvidar uno.
 
 | Dónde | Qué se toca |
 |---|---|
-| `guion/libreto/NN-nombre.md` | La cabecera: `> **Estado:**` |
+| `guion/escenas/NN-nombre/libreto.md` | La cabecera: `> **Estado:**` |
 | `guion/escaleta.md` | La fila de la escena, columna **Estado** |
 | `guion/escaleta.md` | El bloque `## Estado` del final, que resume los recuentos |
 
@@ -405,7 +417,7 @@ sesión trabaja una escena, y con el libreto partido eso es literalmente un fich
 Con esto, leer un acto entero seguido es un `cat`:
 
 ```bash
-cat guion/libreto/0[5-8]-*.md
+cat guion/escenas/0[5-8]-*/libreto.md
 ```
 
 ## El sonido y el vídeo
@@ -421,7 +433,7 @@ deja claro:
 
 | | Qué lleva | Qué no lleva |
 |---|---|---|
-| `guion/libreto/NN-*.md` | Lo que se oye y lo que se ve, en términos dramático-teatrales. Cómo suena y cómo se ve de verdad, con su clip. | Nombres de dispositivo, de pista de Live, de efecto, de automation, dB, nombres de nodo de TouchDesigner. |
+| `guion/escenas/NN-*/libreto.md` | Lo que se oye y lo que se ve, en términos dramático-teatrales. Cómo suena y cómo se ve de verdad, con su clip. | Nombres de dispositivo, de pista de Live, de efecto, de automation, dB, nombres de nodo de TouchDesigner. |
 | `recursos/audiovideo.md` | La implementación: arquitectura del Set, tabla de clips, por qué cada sonido suena así, cómo se lanza cada vídeo. | Acotaciones de manipulación, indicaciones de luz, texto de la obra. |
 | `AGENTS.md` | Esta convención. | Nada del sonido ni del vídeo concretos. |
 

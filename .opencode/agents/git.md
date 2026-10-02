@@ -71,7 +71,7 @@ Por eso el `-A` está **denegado por permisos**, no solo por instrucción. Se st
 **fichero a fichero**, nombrando cada ruta en el `git add`:
 
 ```bash
-git add guion/libreto/12-cuerda-floja.md guion/escaleta.md
+git add guion/escenas/12-cuerda-floja/libreto.md guion/escaleta.md
 ```
 
 ### Cómo decides qué es tuyo
@@ -90,7 +90,7 @@ git add guion/libreto/12-cuerda-floja.md guion/escaleta.md
 
    | Sesión | Ficheros |
    |---|---|
-   | **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/libreto/` |
+   | **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/escenas/` |
    | **Ableton** | `recursos/audiovideo.md` |
    | **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, `README.md`, `index.md`, `.opencode/`, `recursos/escena.md` y `recursos/produccion.md`|
 

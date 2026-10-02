@@ -33,7 +33,7 @@ No es un fichero: son tres, y los tres tienen que decir lo mismo.
 
 | Dónde | Qué se toca |
 |---|---|
-| `guion/libreto/NN-nombre.md` | La cabecera: `> **Estado:**` |
+| `guion/escenas/NN-nombre/libreto.md` | La cabecera: `> **Estado:**` |
 | `guion/escaleta.md` | La fila de la escena en la tabla, columna **Estado** |
 | `guion/escaleta.md` | El bloque `## Estado` del final, que resume los recuentos |
 

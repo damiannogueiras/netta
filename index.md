@@ -6,10 +6,10 @@ Proyecto de una obra teatral de objetos y títeres creada a partir de un disco d
 
 - [Sinopsis](guion/sinopsis.md)
 - [Escaleta](guion/escaleta.md)
-- [Libreto](guion/libreto/01-el-latido.md)
+- [Libreto](guion/escenas/01-el-corazon/libreto.md)
 
 ## Documentación
 
 - [Investigación y referencias](investigacion/referencias.md)
 - [Recursos de la obra](recursos/fichas.md)
-- [Sonido](recursos/sonido.md)
+- [Sonido](recursos/audiovideo.md)
