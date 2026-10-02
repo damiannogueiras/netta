@@ -1,1 +1,6 @@
 .env
+
+# El audio del disco no entra en git: son 4,7 GB de WAV entre las nueve
+# mezclas y los 75 stems de «Avivas el fuego». Son material de trabajo, no
+# fuente, y se regeneran desde la sesión de mezcla.
+*.wav
