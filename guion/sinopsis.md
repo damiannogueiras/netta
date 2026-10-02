@@ -57,12 +57,15 @@ Empieza un titiritero con un estetoscopio, oyendo corazones: el de un niño, el 
 alguien a quien hay que reanimar, el de una chica que se enamora, y dice que el corazón es el primer
 acto de crear. Enciende un proyector y salen niños pintando y amasando, y mientras habla de lo que
 hacíamos de pequeños, la película se quema: de ahí el pánico de «¿lo que quiero está prohibido?» y
-el «criar no es fácil». Arregla el proyector y se ve al Sombrerero decirle a Alicia que perdió la
-muchedad; el titiritero responde que inventaron la palabra «creatividad» para recuperar esa
-sensación, y de la pantalla salen siluetas de miedo, tristeza y dolor. La luz de la mesa se enciende,
-la mesa es una furgoneta a medio armar, y los miedos se cargan dentro uno a uno. Caemos en la
-rutina: el bucle de «Lo llaman vida», la misma calle, la misma canción, el cartel hecho un
-desastre. Al final del primer acto, un aviador empuja la furgoneta hacia el mundo fantástico y
+el «criar no es fácil». Se enciende un foco y muestra
+la furgoneta, con un aguacatero enorme detrás; se abre el portón trasero y los miedos y las
+inseguridades se cargan dentro uno a uno. Caemos en la
+rutina: el bucle de «Lo llaman vida», la misma calle tres veces, la misma canción, y entonces el
+agobio con la ciudad apagada. Un «glitch» rompe la escena y por ahí irrumpe el profesor, que gira
+la pantalla, hace aparecer un televisor vintage y zapea hasta el Sombrerero diciéndole a Alicia que
+perdió la muchedad; el monólogo del titiritero sobre la «creatividad» queda para después. Al final del primer acto, un
+aviador lleva la furgoneta hacia el mundo fantástico, que se vuelve morada y angulosa mientras Vigo
+se aplana y suben árboles áridos, y
 empieza el viaje del héroe. En el segundo acto hay que bajarse a mirar: quitar el discurso vacío a
 tiros de huevo, mirar la guerra de dentro, pasar por donde no se puede pasar, encontrar una llave,
 aceptar la propia parte dañada. En el tercero se sube: empezar a volar, escuchar al bosque y a la
@@ -127,11 +130,35 @@ pista **es** el evento.
 > Ahora son niños **haciendo cosas** y la película arde. El espejo con la 12 sigue, pero es otro:
 > **crear contra jugar**, no roto contra entero.
 
-#### 3. El Sombrerero
+#### 3. La furgoneta — «Lo llaman vida»
 
-El titiritero **arregla el proyector** y se proyecta la escena en la que el Sombrerero le dice a
-Alicia que antes era mucho, mucho, y que perdió la muchedad. El audio es **el de la película**: el
-diálogo entre los dos.
+Se enciende un foco y muestra la furgoneta, con un aguacatero enorme detrás. Se abre el portón
+trasero y se van introduciendo los miedos y las inseguridades, a la vista. Ya empieza
+«Lo llaman vida», que es la canción del bucle de la rutina.
+
+**El decorado se convierte en el vehículo:** lo que el público estaba viendo en una pantalla de un
+metro se monta en cartón y se lleva puesto. Y la carga también es a la vista: nadie ha explicado
+esos miedos, se ven entrar.
+
+Vigo en perspectiva, figuras planas: empieza la voz y la furgoneta recorre las siluetas; al final
+de la fila, frenazo, rebobinado de casete, vuelta atrás marcha atrás. El loop se repite **hasta
+tres veces**. Entonces el agobio: se apagan las luces de la ciudad, ambiente de que todo va a ir
+mal, de que no podemos —ahí las figuras y los vídeos abstractos—. Y transición de «glitch», luces
+parpadeando con sonido, que entrega a la 04. El contenedor (la basura, puede ser una metáfora) sigue
+sin colocar; el cartel se elimina.
+
+> **Cambiado al dictar el autor (2026-09-29).** La furgoneta adelanta al Sombrerero y el loop tiene
+> número: tres veces. Cómo son las figuras que se cargan sigue abierto —la propuesta es que sean
+> abstractas, con efecto proyectado y tono de la música—. `TODO(preguntar)`.
+
+#### 4. El Sombrerero — cierre del acto
+
+Por el glitch irrumpe **el profesor**, misterioso y solemne: gira la pantalla y aparece un
+**televisor vintage**. Cambia de canales hasta que aparece la película del Sombrerero y Alicia. El
+titiritero no está en la escena hasta el final —ya no arregla el proyector—. La mención, las
+siluetas y su carga se caen de aquí (ya se hicieron en la 03, decidido por el autor). El Sombrerero
+le dice a Alicia que antes era mucho, mucho, y que perdió la muchedad —pero ese texto queda para
+después, no va aquí—. El audio es **el de la película**: el diálogo entre los dos.
 
 Encima habla el titiritero, y es lo más importante de la escena: aquí estamos con nuestra muchedad o
 con nuestra falta de muchedad, a pesar de nuestras heridas nos embarcamos en proyectos creativos, e
@@ -139,28 +166,13 @@ con nuestra falta de muchedad, a pesar de nuestras heridas nos embarcamos en pro
 su propia trampa: «creatividad» no es el antídoto, es la palabra que nos inventamos para fingir que
 lo tenemos.
 
-Y de la pantalla van saliendo **siluetas de miedo, de tristeza y de dolor**, que se van a cargar en
-la furgoneta. Esta escena es la que las fabrica.
-
 Es la única de toda la obra **sin música del disco**: aquí solo suena una película.
 
-#### 4. La furgoneta — «Lo llaman vida»
-
-Se enciende la luz de la mesa —**que es el escenario**— y hay una furgoneta. Que está arrancada. Las
-siluetas de miedo, de tristeza y de dolor se van colocando dentro, una a una, a la vista. Arranca
-«Lo llaman vida», que es la canción del bucle de la rutina.
-
-**El decorado se convierte en el vehículo:** lo que el público estaba viendo en una pantalla de un
-metro se monta en cartón y se lleva puesto. Y la carga también es a la vista: nadie ha explicado
-esos miedos, se ven entrar.
-
-Después el aguacatero, el bucle de VHS, el contenedor, el cartel pintarrajeado, y **al final el
-aviador empuja la furgoneta y empieza el viaje del héroe**: pasa a ser más angulosa, del blanco al
-morado con grafiti, y arriba le ponen unas tuberías al estilo del submarino amarillo de los Beatles.
-
-> **Cambiado el 2026-09-28.** Antes la escena se llamaba «La rutina en bucle» y empezaba con la
-> furgoneta ya hecha. Ahora **la furgoneta se arma aquí, a la vista, y es la imagen de la escena**.
-> `TODO(preguntar)` si el montaje ocurre a la vista o si aparece hecha.
+Cuando termina el diálogo, transición de «glitch»: desaparece el profesor y aparece el titiritero.
+Se enciende el foco a la furgoneta. **Aparece el aviador y lleva la furgoneta al mundo fantástico
+(qué hace, por determinar). Fin del primer acto.** La furgoneta cambia de aspecto —más angulosa,
+morada, aire al submarino de *Yellow Submarine*—; Vigo desaparece (los edificios se aplanan) y
+suben los árboles fantasiosos y áridos del mundo fantástico.
 
 ### Acto II — La excavación (escenas 05–08)
 
@@ -374,8 +386,21 @@ nadie concreto. ¿Son archivo histórico, imágenes de stock, niños cualesquier
   furgoneta volvía a ser blanca, y luego se abría el portón de la finca y se metían fotos. ¿Eso
   sigue estando en la escena 11?
 - **El papel del Sombrerero.** ¿Aparece manipulado en escena o solo dentro del televisor?
-- **El bucle de la escena 04.** ¿Cuántas veces se repite el tramo con efecto VHS? ¿Se ve a
-  alguien repitiendo o solo la furgoneta?
+- **El loop de la escena 03: hasta tres veces, decidido.** Lo cierra el glitch, no el aviador.
+- **Acto I reordenado (2026-09-29): la 03 es la furgoneta y la 04 el Sombrerero con el profesor.**
+  Ficheros renombrados; el corte sigue en la 04. Cartel eliminado; contenedor como basura, sin
+  colocar. Carga única en la 03; en la 04 caen mención, siluetas y carga. La muchedad
+  queda para después. Quedan: ficha del profesor (Datos), efecto del televisor vintage, palabras de
+  la mención, y `[TODO del autor]` cómo el aviador lleva la furgoneta al mundo fantástico.
+- **La banda sonora se construye (decidido por el autor, 2026-09-29).** Las canciones no suenan como
+  están en el disco: el autor tiene las pistas separadas y la música se crea a partir de ellas
+  (instrumentos sueltos, voz, ecos, MIDI). Los títulos que nombran estas secciones siguen diciendo de
+  qué tema sale el material, pero ya no que se oiga la pista. El libreto llevará el nombre de cada
+  variación en palabras, no su código `M[tt-vv]`; como ninguna variación existe aún, no se reescribe
+  nada hasta que cada escena llegue a `revisada`. Si la 11 sigue siendo «lo mismo» que la 01, y si la
+  03 y la 08 pueden tener sonidos construidos, sigue sin decidirse. Los números de pista antiguos
+  que queden por estos ficheros están caducados (permutación 2026-09-29) y no se renumeran: se
+  sustituyen por nombres de construcción. Ver `guion/escaleta.md` y `recursos/audiovideo.md`.
 - **Las pistas que sobran o faltan.** El orden colocado usa ocho de las nueve pistas: Avivas
   (01, 11), Está bien (02, 11), Lo llaman vida (04), La Reina (06), La puerta (07), Ser artista
   (08), Vuela (09) y Seica (10). **La escena 03 va sin música**, y la única pista libre es

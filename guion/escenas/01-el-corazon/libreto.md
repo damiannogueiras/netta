@@ -3,7 +3,7 @@
 > **Estado:** `boceto` — texto del autor, en revisión.
 >
 > **Acto:** I — La caída
-> **Música:** «Avivas el fuego» (p. 02) — instrumental, solo las guitarras, muy limpia y suave
+> **Música:** «solo las guitarras, muy limpia y suave, con el latido debajo» (del «Avivas el fuego»)
 
 ## Qué ocurre
 

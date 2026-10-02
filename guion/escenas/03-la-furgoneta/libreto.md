@@ -1,50 +1,96 @@
-# 04. La furgoneta
+# 03. La furgoneta
 
-> **Estado:** `boceto` — **solo está escrito el arranque.** El aguacatero, el bucle, el cartel y el
-> empujón del aviador están sin escribir.
+> **Estado:** `boceto` — **arranque, loop y agobio escritos por el autor.** El contenedor (la basura, puede ser una metáfora) está sin escribir. El cartel se elimina.
 >
 > **Acto:** I — La caída
 > **Música:** «Lo llaman vida» (p. 07) — arranca con la furgoneta
 
 ## Qué ocurre
 
-Se enciende la luz de la mesa —**que es el escenario**— y hay una furgoneta. Que está arrancada. Las
-siluetas de miedo, de tristeza y de dolor se van colocando dentro. Empieza «Lo llaman vida».
+Se enciende un foco y muestra la furgoneta, con un aguacatero enorme detrás. Se abre el portón
+trasero y se van introduciendo los miedos y las inseguridades, a la vista. Ya empieza
+«Lo llaman vida».
 
-Y después, el aguacatero: metemos todo en la furgoneta y nos vamos.
+Se transforma el escenario. El fondo son los edificios de Vigo, en perspectiva: figuras planas que
+expresan profundidad. Empieza la voz en la música. La furgoneta va recorriendo las siluetas de los
+edificios; cuando llega al final de la fila, da un frenazo, se escucha un rebobinado de cinta de
+casete, y la furgoneta vuelve al punto de inicio marcha atrás. El loop se repite.
+
+Después de tres vueltas, llegamos al frenazo de nuevo. 
+
+Suenan voces de los miedos, inseguridades, etc. En la pantalla vuelven las figuras abstractas. Ambiente agobiante. 
+
+Se apagan las luces de la ciudad: ambiente de que todo va a ir mal, de que no podemos. Ahí están
+las figuras y los vídeos abstractos.
+
+Y entonces la transición: un «glitch», luces parpadeando acompañadas de sonido. La escena se rompe
+ahí y entrega a la 04.
 
 ## Por qué está aquí
 
-Es el empujón, y el corte del acto. La luz de la mesa convertida en la furgoneta es el momento en que
+Es el viaje y la rutina: un foco que se enciende y muestra la furgoneta es el momento en que
 **el decorado se convierte en el vehículo**: lo que el público estaba mirando en una pantalla de un
 metro se monta en cartón y se lleva puesto.
 
-Y la carga también: los miedos que salieron de la pantalla en la 03 se meten en la furgoneta uno a
-uno, a la vista. Nadie los ha explicado, se ven entrar.
+Y la carga también: los miedos se meten en la furgoneta uno a uno, a la vista, justo después de la
+proyección de los niños. Nadie los ha explicado, se ven entrar.
+
+Y el agobio también: después del loop, la ciudad se apaga y todo va a ir mal. Es el fondo del acto —
+el viaje empieza negándose— y por eso la escena entrega al glitch, no al corte. El corte del acto
+es ahora la 04.
 
 ## Se repite en
 
-- **La furgoneta** — blanco → morado con grafiti y tuberías, con el empujón del aviador. Es el objeto
-  que lleva la obra entera.
-- **Los miedos** — las tres siluetas de la 03.
+- **La furgoneta** — blanco → morado con grafiti y tuberías, con el empujón del aviador en la 04.
+  Es el objeto que lleva la obra entera.
+- **Los miedos** — se cargan aquí, a la vista, después de la 02. Cómo son sigue abierto (propuesta:
+  abstractos, con efecto proyectado y tono de la música).
 - **«Lo llaman vida» (p. 07)** — es la canción del bucle de la rutina, así que si la escena lo repite,
   la canción se repite con ella.
-- **ElEggue de cartón** — la misma materia que la mesa, el fondo y los títeres.
+- **El cartón** — la misma materia que la mesa, el fondo y los títeres.
 
 ## Texto
 
-Se enciende la luz de la mesa que es el escenario y hay una furgoneta. Que está arrancada, las siluetas van siendo colocadas dentro de la furgoneta, empieza sonidos de «Lo llaman vida»
+Se enciende un foco y muestra la furgoneta. Detrás, un aguacatero enorme.
 
-_( lo que sigue, el aguacatero y el empujón, está sin escribir )_
+Se abre el portón trasero y se van introduciendo los miedos y las inseguridades.
+
+Ya empieza «Lo llaman vida».
+
+Cambio de escenario. El fondo son los edificios de Vigo, en perspectiva: figuras planas que expresan
+profundidad.
+
+Empieza la voz en la música. La furgoneta va recorriendo las siluetas de los edificios. Cuando llega
+al final de la fila de edificios, da un frenazo. Se escucha un rebobinado de cinta de casete. La
+furgoneta vuelve al punto de inicio marcha atrás. El loop se repite. Hasta tres veces el recorrido
+por la ciudad.
+
+Entonces empieza el agobio. Se apagan las luces de la ciudad. Ambiente de que todo va a ir mal, de
+que no podemos. Ahí las figuras y los vídeos abstractos.
+
+Transición: un «glitch», luces parpadeando acompañadas de sonido.
+
+_( lo que sigue —el contenedor— está sin escribir; el empujón y el cierre pasan a la 04 )_
 
 ## TODO(preguntar)
 
-- **La escena está en un cuarto de lo escrito.** Falta el aguacatero, el bucle de VHS, el contenedor,
-  el cartel pintarrajeado y **el empujón del aviador**, que es el corte del acto.
-- `TODO(preguntar)` ¿la furgoneta se ve desde el principio? El texto dice que está «arrancada», o sea
-  a medio montar. ¿El montaje ocurre **a la vista**, como el texto parece, o ya aparece hecha?
-- `TODO(preguntar)` ¿la canción se corta al final de la escena, o **sigue de largo y se convierte en
-  el bucle de la rutina**? Si es lo segundo, la frontera entre la 04 y lo que viene después es
-  musical y no hay silencio.
-- `TODO(preguntar)` el final de la furgoneta: ¿vuelve a ser blanca en la 11, o se queda morada?
+- **El arranque, el loop (hasta tres veces, decidido) y el agobio están escritos; lo demás no.**
+  Falta el contenedor —es la basura, puede ser una metáfora—. **El empujón del aviador y el cierre del acto pasan
+  a la 04.**
+- `TODO(preguntar)` **cómo son las figuras que se cargan.** Propuesta del autor al dictar: podrían ser
+  **abstractas**, mientras se proyecta un efecto abstracto y la música acompaña con un tono. Las
+  figuras y vídeos abstractos del agobio son ese mismo material, ya colocado: queda por decidir si
+  las figuras de la carga y las del agobio son las mismas. Eso es material que Ableton tendrá que
+  construir cuando la escena llegue a `revisada`. Por ahora es propuesta, no decisión.
+- `TODO(preguntar)` **el «glitch» es un efecto nuevo (luz + sonido).** Luces parpadeando acompañadas
+  de sonido, y la escena se rompe ahí. Cuando la escena llegue a `revisada`, Ableton construye el
+  sonido; la luz va sin marca en el texto. Por ahora solo está nombrado aquí.
+- `TODO(preguntar)` **el rebobinado es un efecto nuevo.** Un rebobinado de cinta de casete, que se oye
+  cada vez que la furgoneta vuelve atrás. Cuando la escena llegue a `revisada`, Ableton lo construye;
+  por ahora solo está nombrado aquí.
+- `TODO(preguntar)` **los edificios.** Figuras planas en perspectiva que expresan profundidad. Falta
+  cuántos hay, de qué tamaño, si la furgoneta pasa por delante o por entre ellos, y cómo se pasa del
+  aguacatero a Vigo —si el aguacatero desaparece, se queda, o Vigo estaba detrás todo el rato—.
+- `TODO(preguntar)` el contenedor: dónde cae ahora —¿entre el loop y el agobio?—. El cartel se
+  elimina (2026-09-29).
 - Sin marcas `>>` ni `**`.

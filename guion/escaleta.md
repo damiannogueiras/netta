@@ -2,12 +2,13 @@
 
 > **Índice y estado de avance.** Una línea por escena. Es lo primero que se lee y lo primero
 > que se actualiza.
-> **Estados:** `idea` → `boceto` → `revisada` → `cerrada`. El libreto de cada escena
+> **Estados:** `idea` → `boceto` → `revisada` → `cerrada`.
+> 
+> El libreto de cada escena
 > (`guion/libreto/NN-nombre.md`) se escribe **antes**: es lo que hace pasar a la escena por `idea`
 > y `boceto`. `revisada` quiere decir que el texto está y ya no se toca.
-> **Doce escenas en tres actos (4 + 4 + 4).** La historia no es de la banda: es de cualquiera.
-> **2026-09-27:** el autor parte el final en dos escenas —11 «Avivas el fuego» y 12 «Está bien»—
-> y restaura el espejo con el principio. El reparto de actos pasa de 4+4+3 a 4+4+4.
+> **Doce escenas en tres actos (4 + 4 + 4).** 
+>
 > Canciones y duraciones: `investigacion/referencias.md`. Tesis y orden: `guion/sinopsis.md`.
 
 ## La tesis en una línea
@@ -63,8 +64,8 @@ inestabilidad y el juego. Termina en otra cosa que en paz.
 |---|---|---|---|---|
 | 01 | Entrada del titiritero | El titiritero entra con un **estetoscopio** y se escucha a sí mismo. Luego se acerca al público y va escuchando corazones ajenos: el de un niño, el de un joven, **el de alguien a quien se le para y hay que reanimar**, el de una chica que se enamora. Y habla: el corazón es el primer acto de crear. | «Avivas el fuego» (p. 02), instrumental | `boceto` |
 | 02 | Niños proyectados | Enciende el proyector y salen **niños pintando, amasando, haciendo cosas**. Habla de lo que se hacía de pequeños. **Entonces la película se quema** y el panic: ¿qué hice mal?, ¿lo que quiero está prohibido?, *soy malo*. Criar no es fácil. | «Está bien» (p. 05), **entra al empezar la proyección** | `boceto` |
-| 03 | El Sombrerero | Arregla el proyector y se proyecta **el Sombrerero diciéndole a Alicia que perdió la muchedad**. El titiritero responde encima: *a pesar de nuestras heridas nos embarcamos en proyectos creativos, e inventamos la palabra «creatividad» para recuperar esa sensación*. Y de la pantalla salen **siluetas de miedo, tristeza y dolor**. | **Ninguna del disco:** el audio es el de la película | `boceto` — tres frases |
-| 04 | La furgoneta | Se enciende la luz de la mesa —**que es el escenario**— y hay una furgoneta a medio arrancar. Las siluetas se colocan dentro, una a una. Después el aguacatero y nos vamos. | «Lo llaman vida» (p. 07) | `boceto` — solo el arranque |
+| 03 | La furgoneta | Se enciende un foco y muestra la furgoneta, con un aguacatero enorme detrás. Se abre el portón trasero y se van introduciendo los miedos y las inseguridades, a la vista. Ya empieza «Lo llaman vida». Vigo en perspectiva, figuras planas: la voz arranca y la furgoneta recorre las siluetas; al final de la fila, frenazo, rebobinado de casete, vuelve atrás marcha atrás. El loop se repite **hasta tres veces**. Entonces el agobio: se apagan las luces de la ciudad, todo va a ir mal, figuras y vídeos abstractos. Transición de «glitch» (luces + sonido) que entrega a la 04. El contenedor (la basura) sigue sin escribir; el cartel se elimina. | «Lo llaman vida» (p. 07) | `boceto` — arranque, loop y agobio escritos |
+| 04 | El Sombrerero | Por el glitch irrumpe **el profesor**, misterioso y solemne: gira la pantalla, aparece un **televisor vintage** y cambia de canales hasta el Sombrerero y Alicia. El titiritero no está hasta el final. La mención, las siluetas y la carga se caen (ya se hicieron en la 03); la muchedad queda para después. Al terminar el diálogo: glitch, desaparece el profesor, aparece el titiritero, foco a la furgoneta. **El aviador la lleva al mundo fantástico** (cómo, por determinar): la furgoneta se vuelve angulosa, morada, aire *Yellow Submarine*; Vigo se aplana y suben árboles fantasiosos y áridos. **Fin del primer acto.** | **Ninguna del disco:** el audio es el de la película | `boceto` — dictado (profesor, zapping y cierre) |
 
 ### Acto II — La excavación
 
@@ -93,7 +94,7 @@ Del 09 al 12 el orden está cerrado: cada escena da un peldaño más que la ante
 
 ```
 escena: 01    02    03    04    05    06    07    08    09    10    11    12
-pista:  02    05    —     07    03    04    08    01    06    09    02    05
+pista:  02    05    07    —     03    04    08    01    06    09    02    05
 ```
 
 - La 03 no usa disco: suena un **audio de diálogo** entre el Sombrerero y Alicia, y es la única
@@ -101,33 +102,95 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
 - Las **nueve pistas** quedan colocadas: la p. 02 abre y cierra (01, 11), la p. 05 abre y cierra
   (02, 12).
 
+> **Decidido por el autor (2026-09-29): la banda sonora se construye, no se pincha.** Las músicas del
+> disco **no suenan como están**: el autor tiene las pistas separadas de cada tema y usará a veces
+> algunos instrumentos, a veces la voz, con ecos, repeticiones, pasado a MIDI y con otros
+> instrumentos. Lo que oye el público es una **construcción** hecha con partes de las canciones, no la
+> pista del disco. Detalle en `recursos/audiovideo.md`, que es de Ableton.
+>
+> **Lo que esto cambia aquí:** los números de la tabla de arriba ya **no identifican lo que suena**.
+> Siguen diciendo de qué tema sale el material —la 04 se construye con «Lo llaman vida», la 11 con
+> «Avivas el fuego»—, pero no que se oiga la pista 07 o la 02. Y los libretos, que hoy escriben
+> `>> ♪ «Título» (p. nn)`, ya **no describen lo que va a oír el público**.
+>
+> **Decidido por el autor (2026-09-29, segundo mensaje de Ableton): cómo se nombra.** Los sonidos
+> musicales se codifican `M[tt-vv]` —tema del disco y variación, p. ej. `M[02-03]`—, detalle en
+> `recursos/audiovideo.md`. Pero **el código no va en el libreto ni en la escaleta**: el número de
+> variación no existe hasta que la variación se construye, y eso pasa después de `revisada`. El
+> libreto lleva el **nombre** de la variación en palabras —
+> `>> ♪ la voz sola del «Avivas el fuego», dos veces con eco`— y el código, si se quiere, se añade
+> cuando la variación exista. No se adelanta. La reescritura de `AGENTS.md` sobre las series es de
+> Datos; no se toca.
+>
+> **Lo que NO cambia:** los estados, los `>>` de efectos y vídeos, ni los `S-nn`/`V-nn`. Solo lo que
+> nombra una canción del disco. La numeración de las construcciones y lo de `AGENTS.md` se lo pregunta
+> Ableton al autor, que es decisión de estructura.
+>
+> **CAMBIO DE NÚMEROS DE PISTA (2026-09-29, tercer mensaje de Ableton).** El autor confirmó que el
+> prefijo de `recursos/musicas/` ES el número de pista; el orden que usábamos venía de una captura y
+> estaba mal. `referencias.md` ya está corregido. La permutación (antiguo → nuevo): 01 Ser artista →
+> 05; 02 Avivas el fuego → 01; 03 On s'en fout → 02; 04 La Reina → 03; 05 Está bien → 09; 06 Vuela →
+> 08; 07 Lo llaman vida → 04; 08 La puerta → 06; 09 Seica → 07.
+>
+> **NO se renumera.** Todos los `(p. nn)` de los libretos (15 sitios verificados con grep: 01, 02 ×2,
+> 04 ×2, 05 ×2, 06, 07, 08, 09, 10, 11 ×2, 12 —no 14) y de esta escaleta (filas, tabla `pista:` y
+> menciones en texto) son numeración antigua y están caducados. Se sustituyen por el nombre de la
+> construcción en palabras a medida que cada escena decide la suya; no renumerando.
+>
+> **Qué construcción pide cada escena, en palabras del autor:**
+>
+> - 01 — «solo las guitarras, muy limpia y suave, con el latido debajo» (del «Avivas el fuego»). La
+>   única decidida; ya escrita en la cabecera del libreto.
+> - 02 — «Está bien» entra al empezar la proyección. `TODO(preguntar)` qué partes: ¿la voz? ¿qué
+>   instrumentos? ¿cambia cuando arde la película?
+> - 03 — sin disco (audio de película). Sin construcción pedida; abierta la pregunta de si puede
+>   llevar sonidos construidos.
+> - 04 — «Lo llaman vida» arranca con la carga y la voz entra con el loop; propuesta: la música
+>   acompaña con un tono bajo el efecto abstracto. `TODO(preguntar)` si es una construcción o dos
+>   (carga y loop), y el nombre en palabras.
+> - 05 — «On s'en fout», el aviador sigue su ritmo (ballet). `TODO(preguntar)` qué partes.
+> - 06 a 12 — solo el tema decidido. `TODO(preguntar)` la construcción de cada una, en palabras.
+>
+> **Contradicción pendiente del autor (y tercer mensaje: el diálogo queda aquí).** Segundo mensaje de
+> Ableton: el código `M[tt-vv]` no va en la escaleta. Tercer mensaje: el código va en la escaleta
+> cuando la variación esté construida. Es lo contrario; hasta que el autor lo resuelva, la escaleta no
+> lleva códigos.
+
 ## Estado
 
 - **Doce escenas, tres actos de 4 + 4 + 4.** Decidido por el autor el 2026-09-28: el primer acto
   son la entrada del titiritero, los niños proyectados, el Sombrerero y la furgoneta. **El reparto de
   actos no se toca.**
-- **Cuatro escenas tienen texto, y son las cuatro primeras**, todas en `boceto` y todas del autor:
-  `01-el-corazon.md`, `02-ninos-proyectados.md`, `03-el-sombrerero.md` (tres frases) y
-  `04-la-furgoneta.md` (solo el arranque). La 4 va en un cuarto.
+- **Cuatro escenas tienen texto**, todas en `boceto` y todas del autor: `01-el-corazon.md`,
+  `02-ninos-proyectados.md`, `03-la-furgoneta.md` (arranque, loop ×3 y agobio; contenedor sin
+  escribir) y `04-el-sombrerero.md` (tres frases + dictado: profesor, televisor vintage, cierre con el
+  aviador). La 05 vuelve a `idea`.
+- **La 03 y la 04 cambiaron de orden (2026-09-29).** La furgoneta va ahora tercera y el Sombrerero
+  cuarto y cerrando el acto. Los ficheros se renombraron para que el número siga siendo el orden
+  (`03-la-furgoneta.md`, `04-el-sombrerero.md`); nada estaba en `revisada` ni tenía clips, así que no
+  se rompió nada. Excepción a la regla de no renumerar, ordenada por el autor: queda anotada para
+  Datos (`AGENTS.md`).
 - **El mapa de las nueve pistas sigue entero**, incluido que la 03 es la única escena sin música del
   disco. La 1 lleva tres pistas seguidas: p. 02, luego p. 05 al empezar la proyección, luego p. 07.
 - **Las 08 a 12 conservan su tema**, y la 11 sigue en `boceto`.
 - Sin escenas `revisada` y sin escenas cerradas.
 - **El texto del narrador no existe** fuera del primer acto. En la 1 el titiritero habla largo, y la
   ficha dice que el narrador habla en frases muy cortas: son dos registros distintos, o la ficha se
-  equivoca. `TODO(preguntar)` Ver `recursos/fichas.md`.
-- Cada escena necesita decidir sus títeres, su manipulación y su momento musical, y **sus cues
-  nombradas** (`>>`), que hoy no hay en ningún fichero: el autor escribe la prosa sin marcas de sonido
+  equivoca.   `TODO(preguntar)` Ver `recursos/fichas.md`.
+- Cada escena necesita decidir sus títeres, su manipulación y su momento musical, y **sus clips
+  nombrados** (`>>`), que hoy no hay en ningún fichero: el autor escribe la prosa sin marcas de sonido
   ni de luz.
-- **05 y 06 tienen tema pero no construcción.** Falta decidir qué se ve en ellas.
+- **05 y 06 tienen tema pero no construcción.** Falta decidir qué se ve en ellas. (La 05 tuvo el
+  loop unas horas por una confusión al dictar: era de la 04.)
 
 ## TODO(preguntar)
 
 - **La escena 1 se ha reescrito y la tabla de arriba está desfasada.** El autor escribió la
   introducción (2026-09-28) y se ha tragado las escenas 01, 02, 03 y el arranque de la 04: el
   corazón pasa a oírse en cuerpos reales a través de un estetoscopio, los niños se proyectan, el
-  Sombrerero se proyecta, y la furgoneta arrancada cierra con «Lo llaman vida». **Lo único que
-  queda del acto I es el aguacatero, el contenedor, el bucle VHS y el empujón del aviador.**
+  Sombrerero se proyecta, y la furgoneta arrancada cierra con «Lo llaman vida». **Del acto I queda
+  el contenedor (la basura), la posición del monólogo de la «creatividad» y el cómo del
+  aviador.** El cartel se elimina.
   Las filas 01, 02, 03 y 04, la sinopsis y los cuatro libretos ya están sincronizados con el texto
   del autor: el reparto del acto I está decidido y cerrado.
 - **Decidido sobre la introducción, por el autor (2026-09-28):**
@@ -144,7 +207,7 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
     vídeo, y el fuego es **humo más un efecto de vídeo quemándose**.
   - **Los vídeos se lanzan desde Ableton hacia TouchDesigner por OSC o MIDI**, y **Ableton es
     también quien construye la red de TouchDesigner**: el aspecto de 8 mm, el quemado y el humo.
-    **La serie de cues de vídeo (`V-nn`) está decidida** (Datos, `2cf9e23` y `bac44b6`): va igual
+    **La serie de clips de vídeo (`V-nn`) está decidida** (Datos, `2cf9e23` y `bac44b6`): va igual
     que la `S-nn`, se asigna al pasar la escena a `revisada`, y vive en `recursos/audiovideo.md`,
     que pasa a cubrir sonido **y** vídeo. En el libreto el vídeo va con `>>` y **sin número**, igual
     que un efecto: `>> un vídeo de niños proyectados`. La `P-nn` de las pistas del disco sigue siendo
@@ -187,8 +250,37 @@ pista:  02    05    —     07    03    04    08    01    06    09    02    05
   de quién son las dos voces y en qué idioma.
 - **El texto de la escena 03.** Solo está cerrada la frase de la «muchedad». El resto del
   diálogo no existe todavía, y sin diálogo no se puede representar.
-- **El bucle de la escena 04.** ¿Cuántas veces se repite el tramo con efecto VHS? ¿Se ve a
-  alguien repitiendo o solo la furgoneta?
+- **El loop de la escena 03: decidido, hasta tres veces.** El recorrido por la ciudad se repite
+  tres veces y entonces llega el agobio. Lo que lo cierra es el glitch, no el aviador.
+- **El «glitch» es transición nueva (luz + sonido).** Luces parpadeando acompañadas de sonido, dos
+  veces: cierra la 03 y abre la 04; y cierra la 04 para devolver ciudad y furgoneta. Efecto sin
+  construir (Ableton, después de `revisada`).
+- **El profesor entra en la 04.** Misterioso y solemne, gira la pantalla y sale un televisor vintage
+  (efecto con pantalla + proyector). Necesita ficha en `recursos/fichas.md` (Datos).
+- **La 04, corregida y podada (2026-09-29).** El titiritero no opera ni está hasta el final; el
+  profesor gira la pantalla, sale el televisor y hay zapping hasta la película. La mención, las
+  siluetas y la carga se caen (ya se hicieron en la 03, decidido); la muchedad sigue para después,
+  sin sitio. El cierre trae transformación decidida: furgoneta angulosa morada *Yellow Submarine*,
+  Vigo que se aplana, árboles áridos que suben. `[TODO del autor]` qué hace el aviador.
+- **Una sola carga (2026-09-29).** La mención, las siluetas y la carga caen de la 04; lo que entra
+  por el portón en la 03 es todo lo que se carga. La paradoja del orden queda cerrada por
+  eliminación.
+- **Quién opera en la 04, resuelto.** El profesor pone el vídeo y hace el zapping; el titiritero no
+  está hasta el final. La mención, las siluetas y la carga ya no existen aquí. `TODO(preguntar)`
+  dónde cae exactamente el monólogo del titiritero sobre la «creatividad» —durante la película o
+  después de que aparezca—, que es lo único de su texto aún sin colocar.
+- **Cartel eliminado (2026-09-29), contenedor como basura.** El contenedor sigue sin escribir ni
+  colocar; puede ser una metáfora.
+- **Qué escribe el libreto en vez del título de la canción: decidido, sin reescribir todavía.**
+  El libreto llevará el nombre de la variación en palabras, no el código `M[tt-vv]` (que vive en
+  `recursos/audiovideo.md` y no existe hasta que la variación se construye, después de `revisada`).
+  Como ninguna escena está en `revisada` y ninguna variación existe, los `>> ♪ «Título» (p. nn)`
+  actuales se quedan como puntero al tema hasta que cada escena llegue a la puerta.
+- **La 11 y el espejo con la 01.** Si lo que suena no es la pista, las dos escenas siguen sonando al
+  mismo material pero distinto resultado. ¿Sigue siendo lo mismo? La 11 además está aparcada.
+- **La 03 y la 08.** La 03 sigue siendo la única escena sin música del disco, y la 08 es un silencio.
+  Con la banda sonora siendo construcción, eso deja de ser un hueco: ¿pueden construirse sonidos para
+  ellas?
 - **Origen de las imágenes.** Las escenas 03, 08, 09, 10 y 11 usan material existente (el vídeo
   de «Avivas el fuego», *Alicia* de Tim Burton, la luna de Méliès, el nido real, el bosque
   gallego, el videoclip). La 01 ya no usa material existente: está vacía. De dónde sale y si se puede usar está sin resolver; inventariado en

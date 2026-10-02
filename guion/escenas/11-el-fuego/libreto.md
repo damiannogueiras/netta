@@ -10,7 +10,7 @@
 **Es el espejo de la escena 01, y va invertido.** En la 01 el corazón llega solo y **el mundo se
 monta alrededor**: el titiritero entra con un estetoscopio, oye corazones en otros cuatro cuerpos, y
 en las tres escenas siguientes ya hay niños proyectados, una película quemándose, un Sombrerero y
-una furgoneta. Aquí está **el mismo corazón** —el mismo latido, el mismo cue de sonido— y el mundo
+una furgoneta. Aquí está **el mismo corazón** —el mismo latido, el mismo clip de sonido— y el mundo
 ya está montado, como si el latido llevara tres escenas hablando antes de que lleguemos aquí.
 
 **Las profundidades.** El latido. Una imagen roja en el centro y pequeña: un feto en el vientre.
@@ -67,7 +67,7 @@ dice el espejo, y no hace falta tocar el sonido para decirlo.
 ## Se repite en
 
 - **El latido del corazón** — el elemento que comparte con la 01, y el único que suena dos veces
-  en la obra. Mismo sonido, dos cues distintos.
+  en la obra. Mismo sonido, dos clips distintos.
 - **«Avivas el fuego»** — segunda vez aquí; la primera es la 01.
 - **El paisaje que brota** — la 09 y la 10 se apoyan en un paisaje vacío, y aquí es cuando se
   llena. `TODO(preguntar)`
@@ -123,10 +123,10 @@ dice el espejo, y no hace falta tocar el sonido para decirlo.
 - **El título.** Provisional. `TODO(preguntar)`
 - **El latido.** El segundo latido de la obra. **Mismo sonido, misma cadena y mismo ajuste que
   el de la 01** — la sesión de Ableton lo confirmó así y no hay un segundo tratamiento. Son dos
-  cues porque son **dos ocurrencias distintas del mismo sonido** en dos escenas distintas, que es
+  clips porque son **dos ocurrencias distintas del mismo sonido** en dos escenas distintas, que es
   el caso límite que explica `AGENTS.md`: es el único elemento de la obra que suena dos veces.
   Implementación en `recursos/audiovideo.md`.
-- **El número de cue, que aquí no está.** Por lo mismo que en la 01: el número lo asigna Ableton
+- **El nombre de clip, que aquí no está.** Por lo mismo que en la 01: el nombre lo asigna Ableton
   al pasar la puerta, no en el orden de la obra. Por eso en el libreto **no hay ningún `S-nn`**:
   escribirlos aquí suponía que las escenas llegan a `revisada` en orden, y no es así. `TODO(preguntar)`
 - **El espejo del latido, cerrado** (autor, 2026-09-28): el latido suena **debajo de la música en
@@ -141,7 +141,7 @@ dice el espejo, y no hace falta tocar el sonido para decirlo.
   - **No hace falta un segundo tratamiento del latido.** La pregunta era si el cuerpo «crecía» aquí
     —cola larga, exterior, distancia, haciéndose paisaje—. Se cae sola: con la pista debajo desde el
     principio, cambiarle el timbre al latido se oye muchísimo menos, no más. Lo que hace el trabajo
-    es lo que pasa a su alrededor. **Mismo archivo, misma cadena, mismo ajuste, dos cues.**
+    es lo que pasa a su alrededor. **Mismo archivo, misma cadena, mismo ajuste, dos clips.**
   - **Y Ableton no necesita el `Launch Mode: Repitch`**, que solo existía para acelerar un latido en
     un silencio largo. Eso le quita trabajo, no se lo pone.
 - **¿Qué es la imagen?** ¿Proyección, pantalla, o el titiritero manipulando algo? El diseño
