@@ -183,8 +183,8 @@ dices aquí**, pero no lo escribes.
 
 | Sesión | Escribe | No toca |
 |---|---|---|
-| **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, todo `guion/escenas/` | `recursos/`, `investigacion/` |
-| **Ableton** | `recursos/audiovideo.md` — disco, efectos, clips, el Set de Live, la red de TouchDesigner | `guion/`, `investigacion/`, `AGENTS.md` |
+| **Guion** | `guion/sinopsis.md`, `guion/escaleta.md`, `guion/escenas/*/libreto.md` | `recursos/`, `investigacion/`, `guion/escenas/*/material.md` |
+| **Ableton** | `recursos/audiovideo.md` — disco, efectos, clips, el Set de Live, la red de TouchDesigner; `guion/escenas/*/material.md` | `guion/`, `investigacion/`, `AGENTS.md`, `guion/escenas/*/libreto.md` |
 | **Datos** | `investigacion/referencias.md`, `recursos/fichas.md`, `AGENTS.md`, la estructura del proyecto (`README.md`) y la configuración de opencode (`.opencode/`) | `guion/`, `recursos/audiovideo.md` |
 
 Lo que **no** está repartido y sigue sin dueño: `recursos/escena.md` (puesta en escena) y
@@ -301,14 +301,15 @@ coge el siguiente número libre.
 
 ## Las herramientas
 
-En `.opencode/` hay un sub-agente y un skill. **No son dos maneras de hacer lo mismo, y no se
-sustituyen uno por otro.** La diferencia es de permisos, y por eso hay dos cosas en vez de
+En `.opencode/` hay un sub-agente y dos skills. **No son dos maneras de hacer lo mismo, y no se
+sustituyen uno por otro.** La diferencia es de permisos, y por eso hay tres cosas en vez de
 una:
 
 | | Qué es | Cuándo se usa |
 |---|---|---|
 | **Sub-agente `@git`** | Otro agente, con contexto y permisos propios | Para commitear, revisar el árbol o tocar GitHub |
-| **Skill `cerrar-escena`** | Un checklist que se carga en **tu** contexto | Cuando una escena llega a `revisada` |
+| **Skill `cerrar-escena`** | Un checklist que se carga en **tu** contexto | Cuando una escena llega a `revisada` — **dueño: Guion** |
+| **Skill `construir-sonido`** | Un checklist que se carga en **tu** contexto | Cuando hay que construir UN clip y darle su número — **dueño: Ableton** |
 
 Un skill es documentación: se carga en la sesión que lo invoca, y esa sesión conserva todos
 sus permisos. Leído, «no hagas push sin permiso» sigue siendo un consejo. El sub-agente no
@@ -388,11 +389,15 @@ y el fichero sería de **Datos**.
   proyectados`. El `V-nn` se asigna en la puerta, igual que el `S-nn`.
 - Las preguntas abiertas se dejan como `TODO:` al final del fichero, no interrumpen el texto.
 
-## Un fichero por escena
+## Una carpeta por escena, dos ficheros
 
-**El libreto son doce ficheros, uno por escena, no uno con doce escenas dentro.** Decidido por
-el autor (2026-09-27). El motivo es que la unidad de trabajo del proyecto ya es la escena: una
-sesión trabaja una escena, y con el libreto partido eso es literalmente un fichero.
+**La unidad de trabajo es la escena, y cada escena tiene su carpeta en `guion/escenas/NN-nombre/`.**
+Dentro hay dos ficheros, dos dueños, y **nadie toca el del otro**:
+
+| Fichero | Dueño | Qué contiene |
+|---|---|---|
+| `libreto.md` | **Guion** | El texto, las acotaciones, los `>>` |
+| `material.md` | **Ableton** | Qué se oye, qué se ve, la música, los números, los prompts, los `TODO` |
 
 **Lo que NO se parte:**
 
@@ -400,18 +405,11 @@ sesión trabaja una escena, y con el libreto partido eso es literalmente un fich
   sinopsis es la brújula y la escaleta es el índice; las dos pierden su función en cuanto se
   parten. Los actos tampoco se hacen ficheros: viven en la tabla de actos de la escaleta.
 
-**Cada fichero de escena tiene la misma estructura:**
+**Cada carpeta de escena tiene los mismos dos ficheros** (`libreto.md` y `material.md`). Con esto,
+leer los libretos de un acto entero seguido es un `cat`:
 
-```
-# NN. Título
-
-> Estado, acto, música          ← la cabecera, siempre igual
-
-## Qué ocurre                   ← el hecho, sin adornos
-## Por qué está aquí            ← la función en el viaje
-## Se repite en                 ← los elementos que vuelven
-## Texto                        ← aquí va el libreto
-## TODO(preguntar)              ← al final, no interrumpiendo
+```bash
+cat guion/escenas/0[5-8]-*/libreto.md
 ```
 
 Con esto, leer un acto entero seguido es un `cat`:

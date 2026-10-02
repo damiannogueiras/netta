@@ -186,7 +186,7 @@ Esos pendientes se pierden, porque la siguiente sesión no tiene contexto.
 
 **No los conviertas en issues por tu cuenta.** Cuando el autor lo pide:
 
-1. Lee los `TODO(preguntar):` de `guion/libreto/*.md` (tienes permiso de lectura).
+1. Lee los `TODO(preguntar):` de `guion/escenas/*/libreto.md` (tienes permiso de lectura).
 2. **Deduplica**: contrasta con `gh issue list` y con `gh issue list --state all`. Si ya
    hay un issue para lo mismo, lo comentas, no creas otro.
 3. **Propón la lista antes de crear nada**: qué issue, con qué título, y a qué escena
